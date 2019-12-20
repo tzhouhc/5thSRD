@@ -5,8 +5,11 @@ line=$(cat ./tags | tail -n +7 | fzf --delimiter="\t" \
   --height 60% \
   --with-nth 1 \
   --reverse \
-  --preview-window="70%" \
-  --preview "ln=\$(echo {5} | sed \"s/^line\://\" ); bat -H \$ln -r \$((\$[\$ln-3] < 0 ? 0 : \$[\$ln-3])):\$[\$ln+30] {2}")
+  --preview-window=100 \
+  --preview "ln=\$(echo {5} | sed \"s/^line\://\" ); bat {2} --terminal-width=100 --wrap=character -H \$ln -r \$((\$[\$ln-3] < 0 ? 0 : \$[\$ln-3])):\$[\$ln+30]")
+
+# bat currently doesn't wrap in non-interactive use even with an explicit term
+# width.
 
 file=$(echo $line | cut -d$'\t' -f 2)
 line=$(echo $line | cut -d$'\t' -f 5 | sed "s/[^0-9]//g")
