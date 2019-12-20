@@ -1,0 +1,2090 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A Clear Path to the Target	spellcasting/casting_a_spell.md	/^### A Clear Path to the Target $/;"	h	line:56
+A Legendary Creature's Lair	gamemaster_rules/legendary_creatures.md	/^## A Legendary Creature's Lair $/;"	h	line:8
+Abilities	gamemaster_rules/sentient_magical_items.md	/^### Abilities $/;"	h	line:9
+Ability Checks	rules/abilities/ability_checks.md	/^# Ability Checks $/;"	h	line:1
+Ability Score Improvement	character/classes/barbarian.md	/^### Ability Score Improvement $/;"	h	line:78
+Ability Score Improvement	character/classes/bard.md	/^### Ability Score Improvement$/;"	h	line:102
+Ability Score Improvement	character/classes/cleric.md	/^### Ability Score Improvement$/;"	h	line:93
+Ability Score Improvement	character/classes/druid.md	/^### Ability Score Improvement $/;"	h	line:103
+Ability Score Improvement	character/classes/fighter.md	/^### Ability Score Improvement $/;"	h	line:84
+Ability Score Improvement	character/classes/monk.md	/^### Ability Score Improvement$/;"	h	line:94
+Ability Score Improvement	character/classes/paladin.md	/^### Ability Score Improvement$/;"	h	line:119
+Ability Score Improvement	character/classes/ranger.md	/^### Ability Score Improvement $/;"	h	line:114
+Ability Score Improvement	character/classes/rogue.md	/^### Ability Score Improvement $/;"	h	line:73
+Ability Score Improvement	character/classes/sorcerer.md	/^### Ability Score Improvement $/;"	h	line:134
+Ability Score Improvement	character/classes/warlock.md	/^### Ability Score Improvement$/;"	h	line:102
+Ability Score Improvement	character/classes/wizard.md	/^### Ability Score Improvement $/;"	h	line:91
+Ability Scores	gamemaster_rules/monsters.md	/^## Ability Scores $/;"	h	line:83
+Ability Scores	rules/abilities/ability_scores.md	/^# Ability Scores $/;"	h	line:1
+Ability Scores and Modifiers	rules/abilities/ability_scores.md	/^## Ability Scores and Modifiers $/;"	h	line:13
+Aboleth	gamemaster_rules/monsters/aboleth.md	/^# Aboleth $/;"	h	line:6
+Acid Arrow	spellcasting/spells/acid_arrow.md	/^# Acid Arrow $/;"	h	line:6
+Acid Splash	spellcasting/spells/acid_splash.md	/^# Acid Splash $/;"	h	line:7
+Acolyte	character/backgrounds.md	/^## Acolyte $/;"	h	line:20
+Acolyte	gamemaster_rules/monsters/acolyte.md	/^# Acolyte $/;"	h	line:5
+Action Surge	character/classes/fighter.md	/^### Action Surge $/;"	h	line:76
+Actions	gamemaster_rules/magic_items/deck_of_many_things.md	/^#### Actions $/;"	h	line:77
+Actions	gamemaster_rules/monsters.md	/^## Actions $/;"	h	line:227
+Actions	gamemaster_rules/monsters/aboleth.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/acolyte.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/adult_black_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/adult_blue_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/adult_brass_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/adult_bronze_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/adult_copper_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/adult_gold_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/adult_green_dragon.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/adult_red_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/adult_silver_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/adult_white_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/air_elemental.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ancient_black_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/ancient_blue_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ancient_brass_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ancient_bronze_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/ancient_copper_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ancient_gold_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/ancient_green_dragon.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/ancient_red_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ancient_silver_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ancient_white_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/androsphinx.md	/^### Actions $/;"	h	line:35
+Actions	gamemaster_rules/monsters/animated_armor.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ankheg.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/ape.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/archmage.md	/^### Actions $/;"	h	line:37
+Actions	gamemaster_rules/monsters/assassin.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/awakened_shrub.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/awakened_tree.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/axe_beak.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/azer.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/baboon.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/badger.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/balor.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/bandit.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/bandit_captain.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/barbed_devil.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/basilisk.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/bat.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/bearded_devil.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/behir.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/berserker.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/black_bear.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/black_dragon_wyrmling.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/black_pudding.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/blink_dog.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/blood_hawk.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/blue_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/boar.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/bone_devil.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/brass_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/bronze_dragon_wyrmling.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/brown_bear.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/bugbear.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/bulette.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/camel.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/cat.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/centaur.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/chain_devil.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/chimera.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/chuul.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/clay_golem.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/cloaker.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/cloud_giant.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/cockatrice.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/commoner.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/constrictor_snake.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/copper_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/couatl.md	/^### Actions $/;"	h	line:30
+Actions	gamemaster_rules/monsters/crab.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/crocodile.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/cult_fanatic.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/cultist.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/darkmantle.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/death_dog.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/deer.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/deva.md	/^### Actions $/;"	h	line:30
+Actions	gamemaster_rules/monsters/dire_wolf.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/djinni.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/doppelganger.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/draft_horse.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/dragon_turtle.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/dretch.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/drider.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/druid.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/dryad.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/duergar.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/dust_mephit.md	/^### Actions    $/;"	h	line:27
+Actions	gamemaster_rules/monsters/eagle.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/earth_elemental.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/efreeti.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/elephant.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/elf_drow.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/elk.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/erinyes.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/ettercap.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/ettin.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/fire_elemental.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/fire_giant.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/flesh_golem.md	/^### Actions $/;"	h	line:30
+Actions	gamemaster_rules/monsters/flying_snake.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/flying_sword.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/frost_giant.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/gargoyle.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/gelatinous_cube.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/ghast.md	/^### Actions    $/;"	h	line:26
+Actions	gamemaster_rules/monsters/ghost.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/ghoul.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/giant_ape.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/giant_badger.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/giant_bat.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/giant_boar.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_centipede.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/giant_constrictor_snake.md	/^### Actions    $/;"	h	line:21
+Actions	gamemaster_rules/monsters/giant_crab.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_crocodile.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_eagle.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_elk.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_fire_beetle.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/giant_frog.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/giant_goat.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_hyena.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_lizard.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/giant_octopus.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/giant_owl.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/giant_poisonous_snake.md	/^### Actions    $/;"	h	line:21
+Actions	gamemaster_rules/monsters/giant_rat.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_scorpion.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/giant_sea_horse.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_shark.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/giant_spider.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/giant_toad.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/giant_vulture.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/giant_wasp.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/giant_weasel.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/giant_wolf_spider.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/gibbering_mouther.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/glabrezu.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/gladiator.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/gnoll.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/gnome_deep_svirfneblin.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/goat.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/goblin.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/gold_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/gorgon.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/gray_ooze.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/green_dragon_wyrmling.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/green_hag.md	/^### Actions    $/;"	h	line:26
+Actions	gamemaster_rules/monsters/grick.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/griffon.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/grimlock.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/guard.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/guardian_naga.md	/^### Actions    $/;"	h	line:33
+Actions	gamemaster_rules/monsters/gynosphinx.md	/^### Actions $/;"	h	line:34
+Actions	gamemaster_rules/monsters/half_red_dragon_veteran.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/harpy.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/hawk.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/hell_hound.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/hezrou.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/hill_giant.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/hippogriff.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/hobgoblin.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/homunculus.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/horned_devil.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/hunter_shark.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/hydra.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/hyena.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/ice_devil.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/ice_mephit.md	/^### Actions    $/;"	h	line:28
+Actions	gamemaster_rules/monsters/imp.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/invisible_stalker.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/iron_golem.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/jackal.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/killer_whale.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/knight.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/kobold.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/kraken.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/lamia.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/lemure.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/lich.md	/^### Actions $/;"	h	line:40
+Actions	gamemaster_rules/monsters/lion.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/lizard.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/lizardfolk.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/mage.md	/^### Actions $/;"	h	line:30
+Actions	gamemaster_rules/monsters/magma_mephit.md	/^### Actions    $/;"	h	line:28
+Actions	gamemaster_rules/monsters/magmin.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/mammoth.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/manticore.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/marilith.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/mastiff.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/medusa.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/merfolk.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/merrow.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/mimic.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/minotaur.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/minotaur_skeleton.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/mule.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/mummy.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/mummy_lord.md	/^### Actions $/;"	h	line:36
+Actions	gamemaster_rules/monsters/nalfeshnee.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/night_hag.md	/^### Actions    $/;"	h	line:28
+Actions	gamemaster_rules/monsters/nightmare.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/noble.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/ochre_jelly.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/octopus.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/ogre.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/ogre_zombie.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/oni.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/orc.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/otyugh.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/owl.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/owlbear.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/panther.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/pegasus.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/phase_spider.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/pit_fiend.md	/^### Actions $/;"	h	line:30
+Actions	gamemaster_rules/monsters/planetar.md	/^### Actions $/;"	h	line:32
+Actions	gamemaster_rules/monsters/plesiosaurus.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/poisonous_snake.md	/^### Actions    $/;"	h	line:20
+Actions	gamemaster_rules/monsters/polar_bear.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/pony.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/priest.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/pseudodragon.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/purple_worm.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/quasit.md	/^### Actions $/;"	h	line:27
+Actions	gamemaster_rules/monsters/quipper.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/rakshasa.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/rat.md	/^### Actions    $/;"	h	line:22
+Actions	gamemaster_rules/monsters/raven.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/red_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/reef_shark.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/remorhaz.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/rhinoceros.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/riding_horse.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/roc.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/roper.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/rug_of_smothering.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/rust_monster.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/saber_toothed_tiger.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/sahuagin.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/salamander.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/satyr.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/scorpion.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/scout.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/sea_hag.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/shadow.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/shambling_mound.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/shield_guardian.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/silver_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/skeleton.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/solar.md	/^### Actions $/;"	h	line:33
+Actions	gamemaster_rules/monsters/specter.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/spider.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/spirit_naga.md	/^### Actions    $/;"	h	line:32
+Actions	gamemaster_rules/monsters/sprite.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/spy.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/steam_mephit.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/stirge.md	/^### Actions $/;"	h	line:20
+Actions	gamemaster_rules/monsters/stone_giant.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/stone_golem.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/storm_giant.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/succubusincubus.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/swarm_of_bats.md	/^### Actions    $/;"	h	line:26
+Actions	gamemaster_rules/monsters/swarm_of_insects.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/swarm_of_poisonous_snakes.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/swarm_of_quippers.md	/^### Actions    $/;"	h	line:26
+Actions	gamemaster_rules/monsters/swarm_of_rats.md	/^### Actions    $/;"	h	line:25
+Actions	gamemaster_rules/monsters/swarm_of_ravens.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/tarrasque.md	/^### Actions$/;"	h	line:28
+Actions	gamemaster_rules/monsters/thug.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/tiger.md	/^### Actions    $/;"	h	line:24
+Actions	gamemaster_rules/monsters/treant.md	/^### Actions$/;"	h	line:25
+Actions	gamemaster_rules/monsters/tribal_warrior.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/triceratops.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/troll.md	/^### Actions$/;"	h	line:24
+Actions	gamemaster_rules/monsters/tyrannosaurus_rex.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/unicorn.md	/^### Actions $/;"	h	line:29
+Actions	gamemaster_rules/monsters/vampire.md	/^### Actions $/;"	h	line:37
+Actions	gamemaster_rules/monsters/vampire_spawn.md	/^### Actions $/;"	h	line:31
+Actions	gamemaster_rules/monsters/veteran.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/violet_fungus.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/vrock.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/vulture.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/warhorse.md	/^### Actions $/;"	h	line:22
+Actions	gamemaster_rules/monsters/warhorse_skeleton.md	/^### Actions $/;"	h	line:24
+Actions	gamemaster_rules/monsters/water_elemental.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/weasel.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/werebear.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/wereboar.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/wererat.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/weretiger.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/werewolf.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/white_dragon_wyrmling.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/wight.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/will_o_wisp.md	/^### Actions $/;"	h	line:28
+Actions	gamemaster_rules/monsters/winter_wolf.md	/^### Actions    $/;"	h	line:26
+Actions	gamemaster_rules/monsters/wolf.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/worg.md	/^### Actions    $/;"	h	line:23
+Actions	gamemaster_rules/monsters/wraith.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/wyvern.md	/^### Actions $/;"	h	line:21
+Actions	gamemaster_rules/monsters/xorn.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/young_black_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/young_blue_dragon.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/young_brass_dragon.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/young_bronze_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/young_copper_dragon.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/young_gold_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/young_green_dragon.md	/^### Actions $/;"	h	line:26
+Actions	gamemaster_rules/monsters/young_red_dragon.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/young_silver_dragon.md	/^### Actions $/;"	h	line:23
+Actions	gamemaster_rules/monsters/young_white_dragon.md	/^### Actions $/;"	h	line:25
+Actions	gamemaster_rules/monsters/zombie.md	/^### Actions    $/;"	h	line:25
+Actions in Combat	combat/actions_in_combat.md	/^# Actions in Combat $/;"	h	line:1
+Activating an Item	gamemaster_rules/magic_items.md	/^## Activating an Item $/;"	h	line:22
+Adamantine Armor	gamemaster_rules/magic_items/adamantine_armor.md	/^# Adamantine Armor $/;"	h	line:4
+Additional Fighting Style	character/classes/fighter.md	/^#### Additional Fighting Style $/;"	h	line:109
+Additional Magical Secrets	character/classes/bard.md	/^#### Additional Magical Secrets $/;"	h	line:136
+Adult Black Dragon	gamemaster_rules/monsters/adult_black_dragon.md	/^# Adult Black Dragon $/;"	h	line:5
+Adult Blue Dragon	gamemaster_rules/monsters/adult_blue_dragon.md	/^# Adult Blue Dragon $/;"	h	line:5
+Adult Brass Dragon	gamemaster_rules/monsters/adult_brass_dragon.md	/^# Adult Brass Dragon $/;"	h	line:5
+Adult Bronze Dragon	gamemaster_rules/monsters/adult_bronze_dragon.md	/^# Adult Bronze Dragon $/;"	h	line:5
+Adult Copper Dragon	gamemaster_rules/monsters/adult_copper_dragon.md	/^# Adult Copper Dragon $/;"	h	line:5
+Adult Gold Dragon	gamemaster_rules/monsters/adult_gold_dragon.md	/^# Adult Gold Dragon $/;"	h	line:5
+Adult Green Dragon	gamemaster_rules/monsters/adult_green_dragon.md	/^# Adult Green Dragon $/;"	h	line:5
+Adult Red Dragon	gamemaster_rules/monsters/adult_red_dragon.md	/^# Adult Red Dragon $/;"	h	line:5
+Adult Silver Dragon	gamemaster_rules/monsters/adult_silver_dragon.md	/^# Adult Silver Dragon $/;"	h	line:5
+Adult White Dragon	gamemaster_rules/monsters/adult_white_dragon.md	/^# Adult White Dragon $/;"	h	line:5
+Advantage and Disadvantage	rules/advantage_and_disadvantage.md	/^# Advantage and Disadvantage $/;"	h	line:1
+Adventuring	index.md	/^### Adventuring$/;"	h	line:3
+Adventuring Gear	adventuring/equipment/adventuring_gear.md	/^# Adventuring Gear $/;"	h	line:1
+Adventuring Gear	adventuring/equipment/adventuring_gear.md	/^### Adventuring Gear$/;"	h	line:80
+Adventuring Gear Tables	adventuring/equipment/adventuring_gear.md	/^## Adventuring Gear Tables$/;"	h	line:47
+Agonizing Blast	character/classes/warlock.md	/^#### Agonizing Blast $/;"	h	line:119
+Aid	spellcasting/spells/aid.md	/^# Aid $/;"	h	line:7
+Air Elemental	gamemaster_rules/monsters/air_elemental.md	/^# Air Elemental $/;"	h	line:5
+Alarm	spellcasting/spells/alarm.md	/^# Alarm $/;"	h	line:7
+Alignment	character/alignment.md	/^# Alignment $/;"	h	line:1
+Alignment	gamemaster_rules/monsters.md	/^## Alignment $/;"	h	line:41
+Alignment	gamemaster_rules/sentient_magical_items.md	/^### Alignment $/;"	h	line:32
+Alignment in the Multiverse	character/alignment.md	/^### Alignment in the Multiverse $/;"	h	line:15
+Alter Self	spellcasting/spells/alter_self.md	/^# Alter Self $/;"	h	line:7
+Ammunition	adventuring/equipment/adventuring_gear.md	/^### Ammunition$/;"	h	line:48
+Ammunition	gamemaster_rules/monsters.md	/^### Ammunition $/;"	h	line:239
+Ammunition, +1, +2, or +3	gamemaster_rules/magic_items/ammunition_1_2_or_3.md	/^# Ammunition, +1, +2, or +3 $/;"	h	line:4
+Amulet of Health	gamemaster_rules/magic_items/amulet_of_health.md	/^# Amulet of Health $/;"	h	line:4
+Amulet of Proof against Detection and Location	gamemaster_rules/magic_items/amulet_of_proof_against_detection_and_location.md	/^# Amulet of Proof against Detection and Location $/;"	h	line:4
+Amulet of the Planes	gamemaster_rules/magic_items/amulet_of_the_planes.md	/^# Amulet of the Planes $/;"	h	line:4
+Ancient Black Dragon	gamemaster_rules/monsters/ancient_black_dragon.md	/^# Ancient Black Dragon $/;"	h	line:5
+Ancient Blue Dragon	gamemaster_rules/monsters/ancient_blue_dragon.md	/^# Ancient Blue Dragon $/;"	h	line:5
+Ancient Brass Dragon	gamemaster_rules/monsters/ancient_brass_dragon.md	/^# Ancient Brass Dragon $/;"	h	line:5
+Ancient Bronze Dragon	gamemaster_rules/monsters/ancient_bronze_dragon.md	/^# Ancient Bronze Dragon $/;"	h	line:5
+Ancient Copper Dragon	gamemaster_rules/monsters/ancient_copper_dragon.md	/^# Ancient Copper Dragon $/;"	h	line:5
+Ancient Gold Dragon	gamemaster_rules/monsters/ancient_gold_dragon.md	/^# Ancient Gold Dragon $/;"	h	line:5
+Ancient Green Dragon	gamemaster_rules/monsters/ancient_green_dragon.md	/^# Ancient Green Dragon $/;"	h	line:5
+Ancient Red Dragon	gamemaster_rules/monsters/ancient_red_dragon.md	/^# Ancient Red Dragon $/;"	h	line:5
+Ancient Silver Dragon	gamemaster_rules/monsters/ancient_silver_dragon.md	/^# Ancient Silver Dragon$/;"	h	line:5
+Ancient White Dragon	gamemaster_rules/monsters/ancient_white_dragon.md	/^# Ancient White Dragon $/;"	h	line:5
+Androsphinx	gamemaster_rules/monsters/androsphinx.md	/^# Androsphinx $/;"	h	line:5
+Animal Friendship	spellcasting/spells/animal_friendship.md	/^# Animal Friendship $/;"	h	line:8
+Animal Messenger	spellcasting/spells/animal_messenger.md	/^# Animal Messenger $/;"	h	line:8
+Animal Shapes	spellcasting/spells/animal_shapes.md	/^# Animal Shapes $/;"	h	line:6
+Animate Dead	spellcasting/spells/animate_dead.md	/^# Animate Dead $/;"	h	line:7
+Animate Objects	spellcasting/spells/animate_objects.md	/^# Animate Objects $/;"	h	line:8
+Animated Armor	gamemaster_rules/monsters/animated_armor.md	/^# Animated Armor $/;"	h	line:5
+Animated Object Statistics	spellcasting/spells/animate_objects.md	/^### Animated Object Statistics $/;"	h	line:19
+Animated Shield	gamemaster_rules/magic_items/animated_shield.md	/^# Animated Shield $/;"	h	line:4
+Ankheg	gamemaster_rules/monsters/ankheg.md	/^# Ankheg $/;"	h	line:5
+Antilife Shell	spellcasting/spells/antilife_shell.md	/^# Antilife Shell $/;"	h	line:6
+Antimagic Field	spellcasting/spells/antimagic_field.md	/^# Antimagic Field $/;"	h	line:7
+Antipathy/Sympathy	spellcasting/spells/antipathysympathy.md	/^# Antipathy\/Sympathy $/;"	h	line:7
+Ape	gamemaster_rules/monsters/ape.md	/^# Ape $/;"	h	line:5
+Apparatus of the Crab	gamemaster_rules/magic_items/apparatus_of_the_crab.md	/^# Apparatus of the Crab $/;"	h	line:4
+Apparatus of the Crab Levers	gamemaster_rules/magic_items/apparatus_of_the_crab.md	/^### Apparatus of the Crab Levers$/;"	h	line:17
+Arcane Eye	spellcasting/spells/arcane_eye.md	/^# Arcane Eye $/;"	h	line:6
+Arcane Hand	spellcasting/spells/arcane_hand.md	/^# Arcane Hand $/;"	h	line:6
+Arcane Lock	spellcasting/spells/arcane_lock.md	/^# Arcane Lock $/;"	h	line:6
+Arcane Recovery	character/classes/wizard.md	/^### Arcane Recovery$/;"	h	line:81
+Arcane Sword	spellcasting/spells/arcane_sword.md	/^# Arcane Sword $/;"	h	line:7
+Arcane Tradition	character/classes/wizard.md	/^### Arcane Tradition $/;"	h	line:86
+Arcane Traditions	character/classes/wizard.md	/^## Arcane Traditions $/;"	h	line:105
+Arcane focus	adventuring/equipment/adventuring_gear.md	/^### Arcane focus$/;"	h	line:56
+Arcanist's Magic Aura	spellcasting/spells/arcanists_magic_aura.md	/^# Arcanist's Magic Aura $/;"	h	line:6
+Archdruid	character/classes/druid.md	/^### Archdruid $/;"	h	line:115
+Archery	character/classes/fighter.md	/^#### Archery$/;"	h	line:54
+Archery	character/classes/ranger.md	/^#### Archery $/;"	h	line:75
+Archmage	gamemaster_rules/monsters/archmage.md	/^# Archmage $/;"	h	line:5
+Arctic	character/classes/druid.md	/^#### Arctic$/;"	h	line:135
+Areas of Effect	spellcasting/casting_a_spell.md	/^## Areas of Effect $/;"	h	line:62
+Armor	adventuring/equipment/armor.md	/^# Armor $/;"	h	line:1
+Armor Class	gamemaster_rules/monsters.md	/^## Armor Class $/;"	h	line:47
+Armor Class	rules/abilities/dexterity.md	/^## Armor Class $/;"	h	line:23
+Armor Table	adventuring/equipment/armor.md	/^## Armor Table$/;"	h	line:33
+Armor of Invulnerability	gamemaster_rules/magic_items/armor_of_invulnerability.md	/^# Armor of Invulnerability $/;"	h	line:4
+Armor of Resistance	gamemaster_rules/magic_items/armor_of_resistance.md	/^# Armor of Resistance $/;"	h	line:4
+Armor of Shadows	character/classes/warlock.md	/^#### Armor of Shadows $/;"	h	line:124
+Armor of Vulnerability	gamemaster_rules/magic_items/armor_of_vulnerability.md	/^# Armor of Vulnerability $/;"	h	line:4
+Armor, +1, +2, or +3	gamemaster_rules/magic_items/armor_1_2_or_3.md	/^# Armor, +1, +2, or +3 $/;"	h	line:4
+Armor, Weapon, and Tool Proficiencies	gamemaster_rules/monsters.md	/^## Armor, Weapon, and Tool Proficiencies $/;"	h	line:132
+Arrow of Slaying	gamemaster_rules/magic_items/arrow_of_slaying.md	/^# Arrow of Slaying $/;"	h	line:4
+Arrow-Catching Shield	gamemaster_rules/magic_items/arrow_catching_shield.md	/^# Arrow-Catching Shield $/;"	h	line:4
+Artisan's tools	adventuring/equipment/tools.md	/^### Artisan's tools$/;"	h	line:15
+Ascendant Step	character/classes/warlock.md	/^#### Ascendant Step $/;"	h	line:127
+Assassin	gamemaster_rules/monsters/assassin.md	/^# Assassin $/;"	h	line:5
+Astral Projection	spellcasting/spells/astral_projection.md	/^# Astral Projection $/;"	h	line:8
+Attack	combat/actions_in_combat.md	/^## Attack $/;"	h	line:5
+Attack Rolls	combat/making_an_attack.md	/^## Attack Rolls $/;"	h	line:10
+Attack Rolls	spellcasting/casting_a_spell.md	/^## Attack Rolls $/;"	h	line:91
+Attack Rolls and Damage	rules/abilities/dexterity.md	/^## Attack Rolls and Damage $/;"	h	line:20
+Attack Rolls and Damage	rules/abilities/strength.md	/^## Attack Rolls and Damage $/;"	h	line:21
+Attunement	gamemaster_rules/magic_items.md	/^## Attunement $/;"	h	line:4
+Augury	spellcasting/spells/augury.md	/^# Augury $/;"	h	line:6
+Aura of Courage	character/classes/paladin.md	/^### Aura of Courage $/;"	h	line:132
+Aura of Devotion	character/classes/paladin.md	/^#### Aura of Devotion $/;"	h	line:180
+Aura of Protection	character/classes/paladin.md	/^### Aura of Protection $/;"	h	line:127
+Avatar of Death	gamemaster_rules/magic_items/deck_of_many_things.md	/^### Avatar of Death $/;"	h	line:56
+Awaken	spellcasting/spells/awaken.md	/^# Awaken $/;"	h	line:7
+Awakened Shrub	gamemaster_rules/monsters/awakened_shrub.md	/^# Awakened Shrub $/;"	h	line:5
+Awakened Tree	gamemaster_rules/monsters/awakened_tree.md	/^# Awakened Tree $/;"	h	line:5
+Axe Beak	gamemaster_rules/monsters/axe_beak.md	/^# Axe Beak $/;"	h	line:5
+Azer	gamemaster_rules/monsters/azer.md	/^# Azer $/;"	h	line:5
+Baboon	gamemaster_rules/monsters/baboon.md	/^# Baboon $/;"	h	line:5
+Backgrounds	character/backgrounds.md	/^# Backgrounds $/;"	h	line:1
+Badger	gamemaster_rules/monsters/badger.md	/^# Badger $/;"	h	line:5
+Bag of Beans	gamemaster_rules/magic_items/bag_of_beans.md	/^# Bag of Beans $/;"	h	line:4
+Bag of Devouring	gamemaster_rules/magic_items/bag_of_devouring.md	/^# Bag of Devouring $/;"	h	line:4
+Bag of Holding	gamemaster_rules/magic_items/bag_of_holding.md	/^# Bag of Holding $/;"	h	line:4
+Bag of Tricks	gamemaster_rules/magic_items/bag_of_tricks.md	/^# Bag of Tricks $/;"	h	line:4
+Balor	gamemaster_rules/monsters/balor.md	/^# Balor $/;"	h	line:5
+Bandit	gamemaster_rules/monsters/bandit.md	/^# Bandit $/;"	h	line:5
+Bandit Captain	gamemaster_rules/monsters/bandit_captain.md	/^# Bandit Captain $/;"	h	line:5
+Bane	spellcasting/spells/bane.md	/^# Bane $/;"	h	line:7
+Banishment	spellcasting/spells/banishment.md	/^# Banishment $/;"	h	line:10
+Barbarian	character/classes/barbarian.md	/^# Barbarian$/;"	h	line:1
+Barbed Devil	gamemaster_rules/monsters/barbed_devil.md	/^# Barbed Devil $/;"	h	line:5
+Bard	character/classes/bard.md	/^# Bard$/;"	h	line:1
+Bard College	character/classes/bard.md	/^### Bard College $/;"	h	line:94
+Bardic Inspiration	character/classes/bard.md	/^### Bardic Inspiration $/;"	h	line:78
+Barkskin	spellcasting/spells/barkskin.md	/^# Barkskin $/;"	h	line:7
+Basilisk	gamemaster_rules/monsters/basilisk.md	/^# Basilisk $/;"	h	line:5
+Bat	gamemaster_rules/monsters/bat.md	/^# Bat $/;"	h	line:5
+Beacon of Hope	spellcasting/spells/beacon_of_hope.md	/^# Beacon of Hope $/;"	h	line:6
+Bead of Force	gamemaster_rules/magic_items/bead_of_force.md	/^# Bead of Force $/;"	h	line:4
+Bearded Devil	gamemaster_rules/monsters/bearded_devil.md	/^# Bearded Devil $/;"	h	line:5
+Beast Shapes	character/classes/druid.md	/^#### Beast Shapes$/;"	h	line:83
+Beast Speech	character/classes/warlock.md	/^#### Beast Speech $/;"	h	line:132
+Beast Spells	character/classes/druid.md	/^### Beast Spells $/;"	h	line:111
+Beguiling Influence	character/classes/warlock.md	/^#### Beguiling Influence $/;"	h	line:135
+Behir	gamemaster_rules/monsters/behir.md	/^# Behir $/;"	h	line:5
+Being Prone	combat/movement_and_position.md	/^## Being Prone $/;"	h	line:21
+Belt of Dwarvenkind	gamemaster_rules/magic_items/belt_of_dwarvenkind.md	/^# Belt of Dwarvenkind $/;"	h	line:4
+Belt of Giant Strength	gamemaster_rules/magic_items/belt_of_giant_strength.md	/^# Belt of Giant Strength $/;"	h	line:4
+Berserker	gamemaster_rules/monsters/berserker.md	/^# Berserker $/;"	h	line:5
+Berserker Axe	gamemaster_rules/magic_items/berserker_axe.md	/^# Berserker Axe $/;"	h	line:4
+Bestow Curse	spellcasting/spells/bestow_curse.md	/^# Bestow Curse $/;"	h	line:8
+Between Adventures	adventuring/between_adventures.md	/^# Between Adventures $/;"	h	line:1
+Bewitching Whispers	character/classes/warlock.md	/^#### Bewitching Whispers $/;"	h	line:138
+Beyond the Material	adventuring/planes_of_existence.md	/^## Beyond the Material $/;"	h	line:9
+Black Bear	gamemaster_rules/monsters/black_bear.md	/^# Black Bear $/;"	h	line:5
+Black Dragon Wyrmling	gamemaster_rules/monsters/black_dragon_wyrmling.md	/^# Black Dragon Wyrmling $/;"	h	line:5
+Black Pudding	gamemaster_rules/monsters/black_pudding.md	/^# Black Pudding $/;"	h	line:5
+Black Tentacles	spellcasting/spells/black_tentacles.md	/^# Black Tentacles $/;"	h	line:7
+Blade Barrier	spellcasting/spells/blade_barrier.md	/^# Blade Barrier $/;"	h	line:6
+Bless	spellcasting/spells/bless.md	/^# Bless $/;"	h	line:7
+Blessed Healer	character/classes/cleric.md	/^#### Blessed Healer $/;"	h	line:139
+Blight	spellcasting/spells/blight.md	/^# Blight $/;"	h	line:9
+Blinded	rules/conditions.md	/^### Blinded$/;"	h	line:7
+Blindness/Deafness	spellcasting/spells/blindnessdeafness.md	/^# Blindness\/Deafness $/;"	h	line:9
+Blindsense	character/classes/rogue.md	/^### Blindsense $/;"	h	line:89
+Blindsight	adventuring/the_environment.md	/^### Blindsight $/;"	h	line:22
+Blindsight	gamemaster_rules/monsters.md	/^### Blindsight $/;"	h	line:142
+Blink	spellcasting/spells/blink.md	/^# Blink $/;"	h	line:7
+Blink Dog	gamemaster_rules/monsters/blink_dog.md	/^# Blink Dog $/;"	h	line:5
+Blood Hawk	gamemaster_rules/monsters/blood_hawk.md	/^# Blood Hawk $/;"	h	line:5
+Blue Dragon Wyrmling	gamemaster_rules/monsters/blue_dragon_wyrmling.md	/^# Blue Dragon Wyrmling $/;"	h	line:5
+Blur	spellcasting/spells/blur.md	/^# Blur $/;"	h	line:7
+Boar	gamemaster_rules/monsters/boar.md	/^# Boar $/;"	h	line:5
+Bone Devil	gamemaster_rules/monsters/bone_devil.md	/^# Bone Devil $/;"	h	line:5
+Bonus Action	spellcasting/casting_a_spell.md	/^### Bonus Action $/;"	h	line:8
+Bonus Actions	combat/order_of_combat.md	/^### Bonus Actions $/;"	h	line:28
+Bonus Cantrip	character/classes/druid.md	/^#### Bonus Cantrip $/;"	h	line:124
+Bonus Proficiencies	character/classes/bard.md	/^#### Bonus Proficiencies $/;"	h	line:130
+Bonus Proficiency	character/classes/cleric.md	/^#### Bonus Proficiency $/;"	h	line:129
+Book of Ancient Secrets	character/classes/warlock.md	/^#### Book of Ancient Secrets $/;"	h	line:143
+Boots of Elvenkind	gamemaster_rules/magic_items/boots_of_elvenkind.md	/^# Boots of Elvenkind $/;"	h	line:4
+Boots of Levitation	gamemaster_rules/magic_items/boots_of_levitation.md	/^# Boots of Levitation $/;"	h	line:4
+Boots of Speed	gamemaster_rules/magic_items/boots_of_speed.md	/^# Boots of Speed $/;"	h	line:4
+Boots of Striding and Springing	gamemaster_rules/magic_items/boots_of_striding_and_springing.md	/^# Boots of Striding and Springing $/;"	h	line:4
+Boots of the Winterlands	gamemaster_rules/magic_items/boots_of_the_winterlands.md	/^# Boots of the Winterlands $/;"	h	line:4
+Bowl of Commanding Water Elementals	gamemaster_rules/magic_items/bowl_of_command_water_elementals.md	/^# Bowl of Commanding Water Elementals $/;"	h	line:4
+Bracers of Archery	gamemaster_rules/magic_items/bracers_of_archery.md	/^# Bracers of Archery $/;"	h	line:4
+Bracers of Defense	gamemaster_rules/magic_items/bracers_of_defense.md	/^# Bracers of Defense $/;"	h	line:4
+Branding Smite	spellcasting/spells/branding_smite.md	/^# Branding Smite$/;"	h	line:6
+Brass Dragon Wyrmling	gamemaster_rules/monsters/brass_dragon_wyrmling.md	/^# Brass Dragon Wyrmling $/;"	h	line:5
+Brazier of Commanding Fire Elementals	gamemaster_rules/magic_items/brazier_of_commanding_fire_elementals.md	/^# Brazier of Commanding Fire Elementals $/;"	h	line:4
+Breaking Up Your Move	combat/movement_and_position.md	/^## Breaking Up Your Move $/;"	h	line:6
+Bronze Dragon Wyrmling	gamemaster_rules/monsters/bronze_dragon_wyrmling.md	/^# Bronze Dragon Wyrmling $/;"	h	line:5
+Brooch of Shielding	gamemaster_rules/magic_items/brooch_of_shielding.md	/^# Brooch of Shielding $/;"	h	line:4
+Broom of Flying	gamemaster_rules/magic_items/broom_of_flying.md	/^# Broom of Flying $/;"	h	line:4
+Brown Bear	gamemaster_rules/monsters/brown_bear.md	/^# Brown Bear $/;"	h	line:5
+Brutal Critical	character/classes/barbarian.md	/^### Brutal Critical $/;"	h	line:95
+Bugbear	gamemaster_rules/monsters/bugbear.md	/^# Bugbear $/;"	h	line:5
+Bulette	gamemaster_rules/monsters/bulette.md	/^# Bulette $/;"	h	line:5
+Burning Hands	spellcasting/spells/burning_hands.md	/^# Burning Hands $/;"	h	line:7
+Burrow	gamemaster_rules/monsters.md	/^### Burrow $/;"	h	line:71
+Cackle Fever	gamemaster_rules/diseases.md	/^### Cackle Fever $/;"	h	line:9
+Call Lightning	spellcasting/spells/call_lightning.md	/^# Call Lightning $/;"	h	line:6
+Calm Emotions	spellcasting/spells/calm_emotions.md	/^# Calm Emotions $/;"	h	line:7
+Camel	gamemaster_rules/monsters/camel.md	/^# Camel $/;"	h	line:5
+Candle of Invocation	gamemaster_rules/magic_items/candle_of_invocation.md	/^# Candle of Invocation $/;"	h	line:4
+Cantrips	character/classes/bard.md	/^#### Cantrips $/;"	h	line:53
+Cantrips	character/classes/cleric.md	/^#### Cantrips$/;"	h	line:54
+Cantrips	character/classes/druid.md	/^#### Cantrips $/;"	h	line:56
+Cantrips	character/classes/sorcerer.md	/^#### Cantrips $/;"	h	line:53
+Cantrips	character/classes/warlock.md	/^#### Cantrips $/;"	h	line:56
+Cantrips	character/classes/wizard.md	/^#### Cantrips $/;"	h	line:52
+Cantrips	spellcasting/what_is_a_spell.md	/^## Cantrips $/;"	h	line:27
+Cape of the Mountebank	gamemaster_rules/magic_items/cape_of_the_mountebank.md	/^# Cape of the Mountebank $/;"	h	line:4
+Careful Spell	character/classes/sorcerer.md	/^#### Careful Spell $/;"	h	line:107
+Carpet of Flying	gamemaster_rules/magic_items/carpet_of_flying.md	/^# Carpet of Flying $/;"	h	line:4
+Cast a Spell	combat/actions_in_combat.md	/^## Cast a Spell $/;"	h	line:10
+Casting Time	spellcasting/casting_a_spell.md	/^## Casting Time $/;"	h	line:5
+Casting a Spell	spellcasting/casting_a_spell.md	/^# Casting a Spell $/;"	h	line:1
+Casting a Spell at a Higher Level	spellcasting/what_is_a_spell.md	/^## Casting a Spell at a Higher Level $/;"	h	line:20
+Cat	gamemaster_rules/monsters/cat.md	/^# Cat $/;"	h	line:5
+Celtic Deities	character/fantasy-historical_pantheons.md	/^### Celtic Deities$/;"	h	line:19
+Censer of Controlling Air Elementals	gamemaster_rules/magic_items/censer_of_controlling_air_elementals.md	/^# Censer of Controlling Air Elementals $/;"	h	line:4
+Centaur	gamemaster_rules/monsters/centaur.md	/^# Centaur $/;"	h	line:5
+Chain Devil	gamemaster_rules/monsters/chain_devil.md	/^# Chain Devil $/;"	h	line:5
+Chain Lightning	spellcasting/spells/chain_lightning.md	/^# Chain Lightning $/;"	h	line:7
+Chains of Carceri	character/classes/warlock.md	/^#### Chains of Carceri $/;"	h	line:148
+Challenge	gamemaster_rules/monsters.md	/^## Challenge $/;"	h	line:164
+Champion	character/classes/fighter.md	/^### Champion $/;"	h	line:99
+Channel Divinity	character/classes/cleric.md	/^### Channel Divinity $/;"	h	line:83
+Channel Divinity	character/classes/paladin.md	/^#### Channel Divinity $/;"	h	line:172
+Channel Divinity	character/classes/paladin.md	/^#### Channel Divinity$/;"	h	line:114
+Channel Divinity	rules/multiclassing.md	/^### Channel Divinity $/;"	h	line:56
+Channel Divinity: Preserve Life	character/classes/cleric.md	/^#### Channel Divinity: Preserve Life $/;"	h	line:135
+Channel Divinity: Turn Undead	character/classes/cleric.md	/^#### Channel Divinity: Turn Undead $/;"	h	line:89
+Character	index.md	/^### Character$/;"	h	line:17
+Charges	gamemaster_rules/magic_items.md	/^### Charges $/;"	h	line:36
+Charisma	rules/abilities/ability_checks.md	/^### Charisma $/;"	h	line:49
+Charisma	rules/abilities/charisma.md	/^# Charisma $/;"	h	line:1
+Charisma Checks	rules/abilities/charisma.md	/^## Charisma Checks $/;"	h	line:4
+Charm Person	spellcasting/spells/charm_person.md	/^# Charm Person $/;"	h	line:10
+Charmed	rules/conditions.md	/^### Charmed $/;"	h	line:11
+Chill Touch	spellcasting/spells/chill_touch.md	/^# Chill Touch $/;"	h	line:8
+Chime of Opening	gamemaster_rules/magic_items/chime_of_opening.md	/^# Chime of Opening $/;"	h	line:4
+Chimera	gamemaster_rules/monsters/chimera.md	/^# Chimera $/;"	h	line:5
+Chuul	gamemaster_rules/monsters/chuul.md	/^# Chuul $/;"	h	line:5
+Circle Spells	character/classes/druid.md	/^#### Circle Spells $/;"	h	line:131
+Circle of Death	spellcasting/spells/circle_of_death.md	/^# Circle of Death $/;"	h	line:8
+Circle of the Land	character/classes/druid.md	/^### Circle of the Land$/;"	h	line:120
+Circlet of Blasting	gamemaster_rules/magic_items/circlet_of_blasting.md	/^# Circlet of Blasting $/;"	h	line:4
+Clairvoyance	spellcasting/spells/clairvoyance.md	/^# Clairvoyance $/;"	h	line:9
+Class Features	character/classes/barbarian.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/bard.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/cleric.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/druid.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/fighter.md	/^## Class Features$/;"	h	line:27
+Class Features	character/classes/monk.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/paladin.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/ranger.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/rogue.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/sorcerer.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/warlock.md	/^## Class Features$/;"	h	line:26
+Class Features	character/classes/wizard.md	/^## Class Features$/;"	h	line:26
+Class Features	rules/multiclassing.md	/^## Class Features $/;"	h	line:53
+Class Table	character/classes/fighter.md	/^## Class Table$/;"	h	line:3
+Clay Golem	gamemaster_rules/monsters/clay_golem.md	/^# Clay Golem $/;"	h	line:5
+Cleansing Touch	character/classes/paladin.md	/^### Cleansing Touch$/;"	h	line:141
+Cleric	character/classes/cleric.md	/^# Cleric$/;"	h	line:1
+Climb	gamemaster_rules/monsters.md	/^### Climb $/;"	h	line:74
+Climbing, Swimming, and Crawling	adventuring/movement.md	/^### Climbing, Swimming, and Crawling $/;"	h	line:30
+Cloak of Arachnida	gamemaster_rules/magic_items/cloak_of_arachnida.md	/^# Cloak of Arachnida $/;"	h	line:4
+Cloak of Displacement	gamemaster_rules/magic_items/cloak_of_displacement.md	/^# Cloak of Displacement $/;"	h	line:4
+Cloak of Elvenkind	gamemaster_rules/magic_items/cloak_of_elvenkind.md	/^# Cloak of Elvenkind $/;"	h	line:4
+Cloak of Protection	gamemaster_rules/magic_items/cloak_of_protection.md	/^# Cloak of Protection $/;"	h	line:4
+Cloak of the Bat	gamemaster_rules/magic_items/cloak_of_the_bat.md	/^# Cloak of the Bat $/;"	h	line:4
+Cloak of the Manta Ray	gamemaster_rules/magic_items/cloak_of_the_manta_ray.md	/^# Cloak of the Manta Ray $/;"	h	line:4
+Cloaker	gamemaster_rules/monsters/cloaker.md	/^# Cloaker $/;"	h	line:5
+Clone	spellcasting/spells/clone.md	/^# Clone $/;"	h	line:6
+Cloud Giant	gamemaster_rules/monsters/cloud_giant.md	/^# Cloud Giant $/;"	h	line:5
+Cloudkill	spellcasting/spells/cloudkill.md	/^# Cloudkill $/;"	h	line:7
+Coast	character/classes/druid.md	/^#### Coast$/;"	h	line:143
+Cockatrice	gamemaster_rules/monsters/cockatrice.md	/^# Cockatrice $/;"	h	line:5
+Coins	adventuring/equipment/coins.md	/^# Coins $/;"	h	line:1
+Collapsing Roof	gamemaster_rules/traps.md	/^### Collapsing Roof $/;"	h	line:50
+College of Lore	character/classes/bard.md	/^## College of Lore $/;"	h	line:124
+Color Spray	spellcasting/spells/color_spray.md	/^# Color Spray $/;"	h	line:7
+Combat	index.md	/^### Combat$/;"	h	line:33
+Combining Magical Effects	spellcasting/casting_a_spell.md	/^## Combining Magical Effects $/;"	h	line:108
+Command	spellcasting/spells/command.md	/^# Command $/;"	h	line:7
+Command Word	gamemaster_rules/magic_items.md	/^### Command Word $/;"	h	line:26
+Commoner	gamemaster_rules/monsters/commoner.md	/^# Commoner $/;"	h	line:5
+Commune	spellcasting/spells/commune.md	/^# Commune $/;"	h	line:6
+Commune with Nature	spellcasting/spells/commune_with_nature.md	/^# Commune with Nature $/;"	h	line:7
+Communication	gamemaster_rules/sentient_magical_items.md	/^### Communication $/;"	h	line:12
+Complex Traps	gamemaster_rules/traps.md	/^### Complex Traps $/;"	h	line:42
+Components	spellcasting/casting_a_spell.md	/^## Components $/;"	h	line:23
+Comprehend Languages	spellcasting/spells/comprehend_languages.md	/^# Comprehend Languages $/;"	h	line:9
+Compulsion	spellcasting/spells/compulsion.md	/^# Compulsion $/;"	h	line:6
+Concentration	spellcasting/casting_a_spell.md	/^### Concentration $/;"	h	line:42
+Conditions	rules/conditions.md	/^# Conditions $/;"	h	line:1
+Cone	spellcasting/casting_a_spell.md	/^### Cone $/;"	h	line:67
+Conflict	gamemaster_rules/sentient_magical_items.md	/^### Conflict $/;"	h	line:64
+Confusion	spellcasting/spells/confusion.md	/^# Confusion $/;"	h	line:9
+Conjure Animals	spellcasting/spells/conjure_animals.md	/^# Conjure Animals $/;"	h	line:7
+Conjure Celestial	spellcasting/spells/conjure_celestial.md	/^# Conjure Celestial $/;"	h	line:6
+Conjure Elemental	spellcasting/spells/conjure_elemental.md	/^# Conjure Elemental $/;"	h	line:7
+Conjure Fey	spellcasting/spells/conjure_fey.md	/^# Conjure Fey $/;"	h	line:7
+Conjure Minor Elementals	spellcasting/spells/conjure_minor_elementals.md	/^# Conjure Minor Elementals $/;"	h	line:7
+Conjure Woodland Beings	spellcasting/spells/conjure_woodland_beings.md	/^# Conjure Woodland Beings $/;"	h	line:7
+Constitution	rules/abilities/constitution.md	/^# Constitution $/;"	h	line:1
+Constitution Checks	rules/abilities/constitution.md	/^## Constitution Checks $/;"	h	line:4
+Constrictor Snake	gamemaster_rules/monsters/constrictor_snake.md	/^# Constrictor Snake $/;"	h	line:5
+Consumables	gamemaster_rules/magic_items.md	/^### Consumables $/;"	h	line:29
+Contact Other Plane	spellcasting/spells/contact_other_plane.md	/^# Contact Other Plane $/;"	h	line:7
+Contagion	spellcasting/spells/contagion.md	/^# Contagion $/;"	h	line:7
+Container Capacity	adventuring/equipment/adventuring_gear.md	/^## Container Capacity$/;"	h	line:167
+Contests	rules/abilities/ability_checks.md	/^## Contests $/;"	h	line:17
+Contingency	spellcasting/spells/contingency.md	/^# Contingency $/;"	h	line:6
+Continual Flame	spellcasting/spells/continual_flame.md	/^# Continual Flame $/;"	h	line:7
+Control Water	spellcasting/spells/control_water.md	/^# Control Water $/;"	h	line:8
+Control Weather	spellcasting/spells/control_weather.md	/^# Control Weather $/;"	h	line:8
+Controlling a Mount	combat/mounted_combat.md	/^## Controlling a Mount $/;"	h	line:10
+Copper Dragon Wyrmling	gamemaster_rules/monsters/copper_dragon_wyrmling.md	/^# Copper Dragon Wyrmling $/;"	h	line:5
+Couatl	gamemaster_rules/monsters/couatl.md	/^# Couatl $/;"	h	line:5
+Countercharm	character/classes/bard.md	/^### Countercharm$/;"	h	line:110
+Counterspell	spellcasting/spells/counterspell.md	/^# Counterspell $/;"	h	line:8
+Cover	combat/cover.md	/^# Cover $/;"	h	line:1
+Crab	gamemaster_rules/monsters/crab.md	/^# Crab $/;"	h	line:5
+Crafting	adventuring/between_adventures.md	/^### Crafting $/;"	h	line:13
+Create Food and Water	spellcasting/spells/create_food_and_water.md	/^# Create Food and Water $/;"	h	line:7
+Create Undead	spellcasting/spells/create_undead.md	/^# Create Undead $/;"	h	line:8
+Create or Destroy Water	spellcasting/spells/create_or_destroy_water.md	/^# Create or Destroy Water $/;"	h	line:7
+Creating Sentient Magic Items	gamemaster_rules/sentient_magical_items.md	/^## Creating Sentient Magic Items $/;"	h	line:6
+Creation	spellcasting/spells/creation.md	/^# Creation $/;"	h	line:7
+Creature Size	combat/movement_and_position.md	/^## Creature Size $/;"	h	line:59
+Critical Hits	combat/damage_and_healing.md	/^### Critical Hits $/;"	h	line:14
+Crocodile	gamemaster_rules/monsters/crocodile.md	/^# Crocodile $/;"	h	line:5
+Crystal Ball	gamemaster_rules/magic_items/crystal_ball.md	/^# Crystal Ball $/;"	h	line:4
+Cube	spellcasting/casting_a_spell.md	/^### Cube $/;"	h	line:71
+Cube of Force	gamemaster_rules/magic_items/cube_of_force.md	/^# Cube of Force $/;"	h	line:4
+Cubic Gate	gamemaster_rules/magic_items/cubic_gate.md	/^# Cubic Gate $/;"	h	line:4
+Cult Fanatic	gamemaster_rules/monsters/cult_fanatic.md	/^# Cult Fanatic $/;"	h	line:5
+Cultist	gamemaster_rules/monsters/cultist.md	/^# Cultist $/;"	h	line:5
+Cunning Action	character/classes/rogue.md	/^### Cunning Action $/;"	h	line:65
+Cure Wounds	spellcasting/spells/cure_wounds.md	/^# Cure Wounds $/;"	h	line:10
+Curing Madness	gamemaster_rules/madness.md	/^## Curing Madness $/;"	h	line:62
+Customizing NPCs	gamemaster_rules/nonplayer_characters.md	/^## Customizing NPCs $/;"	h	line:2
+Cutting Words	character/classes/bard.md	/^#### Cutting Words$/;"	h	line:133
+Cylinder	spellcasting/casting_a_spell.md	/^### Cylinder $/;"	h	line:75
+Dagger of Venom	gamemaster_rules/magic_items/dagger_of_venom.md	/^# Dagger of Venom $/;"	h	line:4
+Damage Resistance and Vulnerability	combat/damage_and_healing.md	/^## Damage Resistance and Vulnerability $/;"	h	line:35
+Damage Rolls	combat/damage_and_healing.md	/^## Damage Rolls $/;"	h	line:9
+Damage Severity by Level	gamemaster_rules/traps.md	/^#### Damage Severity by Level$/;"	h	line:33
+Damage Types	combat/damage_and_healing.md	/^### Damage Types $/;"	h	line:18
+Damage and Healing	combat/damage_and_healing.md	/^# Damage and Healing $/;"	h	line:1
+Dancing Lights	spellcasting/spells/dancing_lights.md	/^# Dancing Lights $/;"	h	line:8
+Dancing Sword	gamemaster_rules/magic_items/dancing_sword.md	/^# Dancing Sword $/;"	h	line:4
+Danger Sense	character/classes/barbarian.md	/^### Danger Sense $/;"	h	line:69
+Dark One's Blessing	character/classes/warlock.md	/^#### Dark One's Blessing $/;"	h	line:270
+Dark One's Own Luck	character/classes/warlock.md	/^#### Dark One's Own Luck $/;"	h	line:273
+Darkmantle	gamemaster_rules/monsters/darkmantle.md	/^# Darkmantle $/;"	h	line:5
+Darkness	spellcasting/spells/darkness.md	/^# Darkness $/;"	h	line:8
+Darkvision	adventuring/the_environment.md	/^### Darkvision $/;"	h	line:25
+Darkvision	gamemaster_rules/monsters.md	/^### Darkvision $/;"	h	line:147
+Darkvision	spellcasting/spells/darkvision.md	/^# Darkvision $/;"	h	line:9
+Dash	combat/actions_in_combat.md	/^## Dash $/;"	h	line:13
+Daylight	spellcasting/spells/daylight.md	/^# Daylight $/;"	h	line:10
+Deafened	rules/conditions.md	/^### Deafened$/;"	h	line:15
+Death Dog	gamemaster_rules/monsters/death_dog.md	/^# Death Dog $/;"	h	line:5
+Death Saving Throws	combat/damage_and_healing.md	/^### Death Saving Throws $/;"	h	line:56
+Death Ward	spellcasting/spells/death_ward.md	/^# Death Ward $/;"	h	line:7
+Decanter of Endless Water	gamemaster_rules/magic_items/decanter_of_endless_water.md	/^# Decanter of Endless Water $/;"	h	line:4
+Deck of Illusions	gamemaster_rules/magic_items/deck_of_illusions.md	/^# Deck of Illusions $/;"	h	line:4
+Deck of Many Things	gamemaster_rules/magic_items/deck_of_many_things.md	/^# Deck of Many Things $/;"	h	line:4
+Deer	gamemaster_rules/monsters/deer.md	/^# Deer $/;"	h	line:5
+Defender	gamemaster_rules/magic_items/defender.md	/^# Defender $/;"	h	line:4
+Defense	character/classes/fighter.md	/^#### Defense$/;"	h	line:57
+Defense	character/classes/paladin.md	/^#### Defense $/;"	h	line:65
+Defense	character/classes/ranger.md	/^#### Defense $/;"	h	line:78
+Defensive Tactics	character/classes/ranger.md	/^#### Defensive Tactics $/;"	h	line:160
+Deflect Missiles	character/classes/monk.md	/^### Deflect Missiles $/;"	h	line:89
+Delayed Blast Fireball	spellcasting/spells/delayed_blast_fireball.md	/^# Delayed Blast Fireball $/;"	h	line:7
+Demiplane	spellcasting/spells/demiplane.md	/^# Demiplane $/;"	h	line:7
+Demiplanes	adventuring/planes_of_existence.md	/^#### Demiplanes $/;"	h	line:38
+Demon Armor	gamemaster_rules/magic_items/demon_armor.md	/^# Demon Armor $/;"	h	line:4
+Description	gamemaster_rules/monsters/acolyte.md	/^### Description$/;"	h	line:28
+Description	gamemaster_rules/monsters/archmage.md	/^### Description$/;"	h	line:40
+Description	gamemaster_rules/monsters/assassin.md	/^### Description$/;"	h	line:32
+Description	gamemaster_rules/monsters/bandit.md	/^### Description$/;"	h	line:24
+Description	gamemaster_rules/monsters/bandit_captain.md	/^### Description$/;"	h	line:30
+Description	gamemaster_rules/monsters/berserker.md	/^### Description$/;"	h	line:25
+Description	gamemaster_rules/monsters/blink_dog.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/blood_hawk.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/commoner.md	/^### Description$/;"	h	line:23
+Description	gamemaster_rules/monsters/cult_fanatic.md	/^### Description$/;"	h	line:31
+Description	gamemaster_rules/monsters/cultist.md	/^### Description$/;"	h	line:26
+Description	gamemaster_rules/monsters/death_dog.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/druid.md	/^### Description$/;"	h	line:29
+Description	gamemaster_rules/monsters/flying_snake.md	/^### Description$/;"	h	line:25
+Description	gamemaster_rules/monsters/giant_eagle.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/giant_elk.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/giant_fire_beetle.md	/^### Description$/;"	h	line:25
+Description	gamemaster_rules/monsters/giant_lizard.md	/^### Description$/;"	h	line:23
+Description	gamemaster_rules/monsters/giant_owl.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/giant_sea_horse.md	/^### Description$/;"	h	line:26
+Description	gamemaster_rules/monsters/giant_shark.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/giant_spider.md	/^### Description$/;"	h	line:29
+Description	gamemaster_rules/monsters/giant_vulture.md	/^### Description$/;"	h	line:29
+Description	gamemaster_rules/monsters/giant_wolf_spider.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/gladiator.md	/^### Description$/;"	h	line:33
+Description	gamemaster_rules/monsters/guard.md	/^### Description$/;"	h	line:24
+Description	gamemaster_rules/monsters/hunter_shark.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/knight.md	/^### Description$/;"	h	line:32
+Description	gamemaster_rules/monsters/mage.md	/^### Description$/;"	h	line:33
+Description	gamemaster_rules/monsters/mammoth.md	/^### Description$/;"	h	line:26
+Description	gamemaster_rules/monsters/mastiff.md	/^### Description$/;"	h	line:26
+Description	gamemaster_rules/monsters/noble.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/phase_spider.md	/^### Description$/;"	h	line:28
+Description	gamemaster_rules/monsters/priest.md	/^### Description$/;"	h	line:31
+Description	gamemaster_rules/monsters/quipper.md	/^### Description$/;"	h	line:26
+Description	gamemaster_rules/monsters/reef_shark.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/scout.md	/^### Description$/;"	h	line:28
+Description	gamemaster_rules/monsters/spy.md	/^### Description$/;"	h	line:29
+Description	gamemaster_rules/monsters/thug.md	/^### Description$/;"	h	line:28
+Description	gamemaster_rules/monsters/tribal_warrior.md	/^### Description$/;"	h	line:26
+Description	gamemaster_rules/monsters/veteran.md	/^### Description$/;"	h	line:27
+Description	gamemaster_rules/monsters/winter_wolf.md	/^### Description$/;"	h	line:30
+Description	gamemaster_rules/monsters/worg.md	/^### Description$/;"	h	line:26
+Desert	character/classes/druid.md	/^#### Desert$/;"	h	line:151
+Destroy Undead	character/classes/cleric.md	/^### Destroy Undead$/;"	h	line:97
+Detect Evil and Good	spellcasting/spells/detect_evil_and_good.md	/^# Detect Evil and Good $/;"	h	line:7
+Detect Magic	spellcasting/spells/detect_magic.md	/^# Detect Magic $/;"	h	line:12
+Detect Poison and Disease	spellcasting/spells/detect_poison_and_disease.md	/^# Detect Poison and Disease $/;"	h	line:9
+Detect Thoughts	spellcasting/spells/detect_thoughts.md	/^# Detect Thoughts $/;"	h	line:8
+Detecting and Disabling a Trap	gamemaster_rules/traps.md	/^### Detecting and Disabling a Trap $/;"	h	line:12
+Deva	gamemaster_rules/monsters/deva.md	/^# Deva $/;"	h	line:5
+Devil's Sight	character/classes/warlock.md	/^#### Devil's Sight $/;"	h	line:153
+Dexterity	rules/abilities/ability_checks.md	/^### Dexterity $/;"	h	line:30
+Dexterity	rules/abilities/dexterity.md	/^# Dexterity $/;"	h	line:1
+Dexterity Checks	rules/abilities/dexterity.md	/^## Dexterity Checks $/;"	h	line:4
+Diamond Soul	character/classes/monk.md	/^### Diamond Soul $/;"	h	line:130
+Difficult Terrain	adventuring/movement.md	/^### Difficult Terrain $/;"	h	line:23
+Difficult Terrain	combat/movement_and_position.md	/^## Difficult Terrain $/;"	h	line:16
+Dimension Door	spellcasting/spells/dimension_door.md	/^# Dimension Door $/;"	h	line:9
+Dimensional Shackles	gamemaster_rules/magic_items/dimensional_shackles.md	/^# Dimensional Shackles $/;"	h	line:4
+Dire Wolf	gamemaster_rules/monsters/dire_wolf.md	/^# Dire Wolf $/;"	h	line:5
+Disciple of Life	character/classes/cleric.md	/^#### Disciple of Life $/;"	h	line:132
+Diseases	gamemaster_rules/diseases.md	/^# Diseases $/;"	h	line:1
+Disengage	combat/actions_in_combat.md	/^## Disengage $/;"	h	line:17
+Disguise Self	spellcasting/spells/disguise_self.md	/^# Disguise Self $/;"	h	line:8
+Disintegrate	spellcasting/spells/disintegrate.md	/^# Disintegrate $/;"	h	line:7
+Dispel Evil and Good	spellcasting/spells/dispel_evil_and_good.md	/^# Dispel Evil and Good $/;"	h	line:7
+Dispel Magic	spellcasting/spells/dispel_magic.md	/^# Dispel Magic $/;"	h	line:12
+Distant Spell	character/classes/sorcerer.md	/^#### Distant Spell $/;"	h	line:110
+Divination	spellcasting/spells/divination.md	/^# Divination $/;"	h	line:6
+Divine Domain	character/classes/cleric.md	/^### Divine Domain$/;"	h	line:75
+Divine Favor	spellcasting/spells/divine_favor.md	/^# Divine Favor $/;"	h	line:6
+Divine Health	character/classes/paladin.md	/^### Divine Health $/;"	h	line:101
+Divine Intervention	character/classes/cleric.md	/^### Divine Intervention$/;"	h	line:109
+Divine Sense	character/classes/paladin.md	/^### Divine Sense$/;"	h	line:49
+Divine Smite	character/classes/paladin.md	/^### Divine Smite $/;"	h	line:97
+Divine Strike	character/classes/cleric.md	/^#### Divine Strike $/;"	h	line:142
+Divine Word	spellcasting/spells/divine_word.md	/^# Divine Word $/;"	h	line:6
+Djinni	gamemaster_rules/monsters/djinni.md	/^# Djinni $/;"	h	line:5
+Dodge	combat/actions_in_combat.md	/^## Dodge $/;"	h	line:20
+Domain Spells	character/classes/cleric.md	/^#### Domain Spells $/;"	h	line:79
+Dominate Beast	spellcasting/spells/dominate_beast.md	/^# Dominate Beast $/;"	h	line:7
+Dominate Monster	spellcasting/spells/dominate_monster.md	/^# Dominate Monster $/;"	h	line:9
+Dominate Person	spellcasting/spells/dominate_person.md	/^# Dominate Person $/;"	h	line:8
+Doppelganger	gamemaster_rules/monsters/doppelganger.md	/^# Doppelganger $/;"	h	line:5
+Downtime Activities	adventuring/between_adventures.md	/^## Downtime Activities $/;"	h	line:9
+Draconic Ancestry	character/races/dragonborn.md	/^#### Draconic Ancestry$/;"	h	line:16
+Draconic Bloodline	character/classes/sorcerer.md	/^### Draconic Bloodline$/;"	h	line:145
+Draconic Presence	character/classes/sorcerer.md	/^#### Draconic Presence $/;"	h	line:178
+Draconic Resilience	character/classes/sorcerer.md	/^#### Draconic Resilience $/;"	h	line:167
+Draft Horse	gamemaster_rules/monsters/draft_horse.md	/^# Draft Horse $/;"	h	line:5
+Dragon Ancestor	character/classes/sorcerer.md	/^#### Dragon Ancestor $/;"	h	line:149
+Dragon Scale Mail	gamemaster_rules/magic_items/dragon_scale_mail.md	/^# Dragon Scale Mail $/;"	h	line:4
+Dragon Slayer	gamemaster_rules/magic_items/dragon_slayer.md	/^# Dragon Slayer $/;"	h	line:4
+Dragon Turtle	gamemaster_rules/monsters/dragon_turtle.md	/^# Dragon Turtle $/;"	h	line:5
+Dragon Wings	character/classes/sorcerer.md	/^#### Dragon Wings$/;"	h	line:174
+Dragonborn	character/races/dragonborn.md	/^# Dragonborn $/;"	h	line:1
+Dragonborn Traits	character/races/dragonborn.md	/^## Dragonborn Traits $/;"	h	line:2
+Dreadful Word	character/classes/warlock.md	/^#### Dreadful Word $/;"	h	line:156
+Dream	spellcasting/spells/dream.md	/^# Dream $/;"	h	line:8
+Dretch	gamemaster_rules/monsters/dretch.md	/^# Dretch $/;"	h	line:5
+Drider	gamemaster_rules/monsters/drider.md	/^# Drider $/;"	h	line:5
+Dropping to 0 Hit Points	combat/damage_and_healing.md	/^## Dropping to 0 Hit Points $/;"	h	line:46
+Druid	character/classes/druid.md	/^# Druid$/;"	h	line:1
+Druid	gamemaster_rules/monsters/druid.md	/^# Druid $/;"	h	line:5
+Druid Circle	character/classes/druid.md	/^### Druid Circle $/;"	h	line:99
+Druidcraft	spellcasting/spells/druidcraft.md	/^# Druidcraft $/;"	h	line:6
+Druidic	character/classes/druid.md	/^### Druidic $/;"	h	line:48
+Druidic focus	adventuring/equipment/adventuring_gear.md	/^### Druidic focus$/;"	h	line:65
+Dryad	gamemaster_rules/monsters/dryad.md	/^# Dryad $/;"	h	line:5
+Dueling	character/classes/fighter.md	/^#### Dueling$/;"	h	line:60
+Dueling	character/classes/paladin.md	/^#### Dueling $/;"	h	line:68
+Dueling	character/classes/ranger.md	/^#### Dueling $/;"	h	line:81
+Duergar	gamemaster_rules/monsters/duergar.md	/^# Duergar $/;"	h	line:5
+Duration	spellcasting/casting_a_spell.md	/^## Duration $/;"	h	line:36
+Dust Mephit	gamemaster_rules/monsters/dust_mephit.md	/^# Dust Mephit $/;"	h	line:5
+Dust of Disappearance	gamemaster_rules/magic_items/dust_of_disappearance.md	/^# Dust of Disappearance $/;"	h	line:4
+Dust of Dryness	gamemaster_rules/magic_items/dust_of_dryness.md	/^# Dust of Dryness $/;"	h	line:4
+Dust of Sneezing and Choking	gamemaster_rules/magic_items/dust_of_sneezing_and_choking.md	/^# Dust of Sneezing and Choking $/;"	h	line:4
+Dwarf	character/races/dwarf.md	/^# Dwarf$/;"	h	line:1
+Dwarf Traits	character/races/dwarf.md	/^## Dwarf Traits$/;"	h	line:2
+Dwarven Plate	gamemaster_rules/magic_items/dwarven_plate.md	/^# Dwarven Plate $/;"	h	line:4
+Dwarven Thrower	gamemaster_rules/magic_items/dwarven_thrower.md	/^# Dwarven Thrower $/;"	h	line:4
+Eagle	gamemaster_rules/monsters/eagle.md	/^# Eagle $/;"	h	line:5
+Earth Elemental	gamemaster_rules/monsters/earth_elemental.md	/^# Earth Elemental $/;"	h	line:5
+Earthquake	spellcasting/spells/earthquake.md	/^# Earthquake $/;"	h	line:8
+Efficient Quiver	gamemaster_rules/magic_items/efficient_quiver.md	/^# Efficient Quiver $/;"	h	line:4
+Efreeti	gamemaster_rules/monsters/efreeti.md	/^# Efreeti $/;"	h	line:5
+Efreeti Bottle	gamemaster_rules/magic_items/efreeti_bottle.md	/^# Efreeti Bottle $/;"	h	line:4
+Egyptian Deities	character/fantasy-historical_pantheons.md	/^### Egyptian Deities$/;"	h	line:60
+Eldritch Blast	spellcasting/spells/eldritch_blast.md	/^# Eldritch Blast $/;"	h	line:6
+Eldritch Invocations	character/classes/warlock.md	/^## Eldritch Invocations $/;"	h	line:116
+Eldritch Invocations	character/classes/warlock.md	/^### Eldritch Invocations $/;"	h	line:78
+Eldritch Master	character/classes/warlock.md	/^### Eldritch Master $/;"	h	line:112
+Eldritch Sight	character/classes/warlock.md	/^#### Eldritch Sight $/;"	h	line:161
+Eldritch Spear	character/classes/warlock.md	/^#### Eldritch Spear $/;"	h	line:164
+Elemental Affinity	character/classes/sorcerer.md	/^#### Elemental Affinity $/;"	h	line:171
+Elemental Gem	gamemaster_rules/magic_items/elemental_gem.md	/^# Elemental Gem $/;"	h	line:4
+Elephant	gamemaster_rules/monsters/elephant.md	/^# Elephant $/;"	h	line:5
+Elf	character/races/elf.md	/^# Elf $/;"	h	line:1
+Elf Traits	character/races/elf.md	/^## Elf Traits $/;"	h	line:2
+Elf, Drow	gamemaster_rules/monsters/elf_drow.md	/^# Elf, Drow $/;"	h	line:5
+Elk	gamemaster_rules/monsters/elk.md	/^# Elk $/;"	h	line:5
+Elusive	character/classes/rogue.md	/^### Elusive $/;"	h	line:97
+Elven Chain	gamemaster_rules/magic_items/elven_chain.md	/^# Elven Chain $/;"	h	line:4
+Empowered Evocation	character/classes/wizard.md	/^#### Empowered Evocation $/;"	h	line:122
+Empowered Spell	character/classes/sorcerer.md	/^#### Empowered Spell $/;"	h	line:114
+Empty Body	character/classes/monk.md	/^### Empty Body $/;"	h	line:138
+Enhance Ability	spellcasting/spells/enhance_ability.md	/^# Enhance Ability $/;"	h	line:9
+Enlarge/Reduce	spellcasting/spells/enlargereduce.md	/^# Enlarge\/Reduce $/;"	h	line:7
+Entangle	spellcasting/spells/entangle.md	/^# Entangle $/;"	h	line:6
+Enthrall	spellcasting/spells/enthrall.md	/^# Enthrall $/;"	h	line:7
+Equipment	character/backgrounds.md	/^### Equipment $/;"	h	line:14
+Equipment	character/classes/barbarian.md	/^### Equipment $/;"	h	line:41
+Equipment	character/classes/bard.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/cleric.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/druid.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/fighter.md	/^### Equipment$/;"	h	line:42
+Equipment	character/classes/monk.md	/^### Equipment $/;"	h	line:41
+Equipment	character/classes/paladin.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/ranger.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/rogue.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/sorcerer.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/warlock.md	/^### Equipment$/;"	h	line:41
+Equipment	character/classes/wizard.md	/^### Equipment$/;"	h	line:41
+Equipment	gamemaster_rules/monsters.md	/^## Equipment $/;"	h	line:256
+Equipment packs	adventuring/equipment/equipment_packs.md	/^# Equipment packs$/;"	h	line:1
+Erinyes	gamemaster_rules/monsters/erinyes.md	/^# Erinyes $/;"	h	line:5
+Etherealness	spellcasting/spells/etherealness.md	/^# Etherealness $/;"	h	line:10
+Ettercap	gamemaster_rules/monsters/ettercap.md	/^# Ettercap $/;"	h	line:5
+Ettin	gamemaster_rules/monsters/ettin.md	/^# Ettin $/;"	h	line:5
+Evasion	character/classes/monk.md	/^### Evasion$/;"	h	line:114
+Evasion	character/classes/rogue.md	/^### Evasion $/;"	h	line:81
+Eversmoking Bottle	gamemaster_rules/magic_items/eversmoking_bottle.md	/^# Eversmoking Bottle $/;"	h	line:4
+Evocation Savant	character/classes/wizard.md	/^#### Evocation Savant $/;"	h	line:113
+Exhaustion	rules/conditions.md	/^### Exhaustion $/;"	h	line:18
+Exotic Languages	character/languages.md	/^### Exotic Languages$/;"	h	line:18
+Expanded Spell List	character/classes/warlock.md	/^#### Expanded Spell List $/;"	h	line:259
+Expeditious Retreat	spellcasting/spells/expeditious_retreat.md	/^# Expeditious Retreat $/;"	h	line:8
+Expenses	rules/expenses.md	/^# Expenses $/;"	h	line:1
+Experience Points	gamemaster_rules/monsters.md	/^### Experience Points $/;"	h	line:169
+Experience Points	rules/multiclassing.md	/^## Experience Points $/;"	h	line:24
+Experience Points by Challenge Rating	gamemaster_rules/monsters.md	/^#### Experience Points by Challenge Rating$/;"	h	line:172
+Expertise	character/classes/bard.md	/^### Expertise$/;"	h	line:98
+Expertise	character/classes/rogue.md	/^### Expertise $/;"	h	line:49
+Extended Spell	character/classes/sorcerer.md	/^#### Extended Spell $/;"	h	line:118
+Extra Attack	character/classes/barbarian.md	/^### Extra Attack $/;"	h	line:82
+Extra Attack	character/classes/fighter.md	/^### Extra Attack $/;"	h	line:88
+Extra Attack	character/classes/monk.md	/^### Extra Attack $/;"	h	line:102
+Extra Attack	character/classes/paladin.md	/^### Extra Attack$/;"	h	line:123
+Extra Attack	character/classes/ranger.md	/^### Extra Attack $/;"	h	line:118
+Extra Attack	rules/multiclassing.md	/^### Extra Attack $/;"	h	line:59
+Eyebite	spellcasting/spells/eyebite.md	/^# Eyebite $/;"	h	line:9
+Eyes of Charming	gamemaster_rules/magic_items/eyes_of_charming.md	/^# Eyes of Charming $/;"	h	line:4
+Eyes of Minute Seeing	gamemaster_rules/magic_items/eyes_of_minute_seeing.md	/^# Eyes of Minute Seeing $/;"	h	line:4
+Eyes of the Eagle	gamemaster_rules/magic_items/eyes_of_the_eagle.md	/^# Eyes of the Eagle $/;"	h	line:4
+Eyes of the Rune Keeper	character/classes/warlock.md	/^#### Eyes of the Rune Keeper $/;"	h	line:169
+Fabricate	spellcasting/spells/fabricate.md	/^# Fabricate $/;"	h	line:6
+Faerie Fire	spellcasting/spells/faerie_fire.md	/^# Faerie Fire $/;"	h	line:7
+Faithful Hound	spellcasting/spells/faithful_hound.md	/^# Faithful Hound $/;"	h	line:6
+Falling	adventuring/the_environment.md	/^## Falling $/;"	h	line:4
+Falling Net	gamemaster_rules/traps.md	/^### Falling Net $/;"	h	line:59
+Falling Unconscious	combat/damage_and_healing.md	/^### Falling Unconscious $/;"	h	line:53
+False Life	spellcasting/spells/false_life.md	/^# False Life $/;"	h	line:7
+Fantasy-Historical Pantheons	character/fantasy-historical_pantheons.md	/^# Fantasy-Historical Pantheons $/;"	h	line:1
+Fast Hands	character/classes/rogue.md	/^#### Fast Hands $/;"	h	line:112
+Fast Movement	character/classes/barbarian.md	/^### Fast Movement $/;"	h	line:86
+Favored Enemy	character/classes/ranger.md	/^### Favored Enemy$/;"	h	line:49
+Fear	spellcasting/spells/fear.md	/^# Fear $/;"	h	line:9
+Feather Fall	spellcasting/spells/feather_fall.md	/^# Feather Fall $/;"	h	line:8
+Feather Token	gamemaster_rules/magic_items/feather_token.md	/^# Feather Token $/;"	h	line:4
+Feats	rules/feats.md	/^# Feats $/;"	h	line:1
+Feature: Shelter of the Faithful	character/backgrounds.md	/^### Feature: Shelter of the Faithful $/;"	h	line:28
+Feeblemind	spellcasting/spells/feeblemind.md	/^# Feeblemind $/;"	h	line:9
+Feral Instinct	character/classes/barbarian.md	/^### Feral Instinct $/;"	h	line:90
+Feral Senses	character/classes/ranger.md	/^### Feral Senses $/;"	h	line:136
+Fiendish Resilience	character/classes/warlock.md	/^#### Fiendish Resilience $/;"	h	line:277
+Fiendish Vigor	character/classes/warlock.md	/^#### Fiendish Vigor $/;"	h	line:172
+Fighter	character/classes/fighter.md	/^# Fighter$/;"	h	line:1
+Fighting Style	character/classes/fighter.md	/^### Fighting Style$/;"	h	line:50
+Fighting Style	character/classes/paladin.md	/^### Fighting Style $/;"	h	line:61
+Fighting Style	character/classes/ranger.md	/^### Fighting Style$/;"	h	line:71
+Figurine of Wondrous Power	gamemaster_rules/magic_items/figurine_of_wondrous_power.md	/^# Figurine of Wondrous Power $/;"	h	line:4
+Find Familiar	spellcasting/spells/find_familiar.md	/^# Find Familiar $/;"	h	line:6
+Find Steed	spellcasting/spells/find_steed.md	/^# Find Steed $/;"	h	line:6
+Find Traps	spellcasting/spells/find_traps.md	/^# Find Traps $/;"	h	line:8
+Find the Path	spellcasting/spells/find_the_path.md	/^# Find the Path $/;"	h	line:8
+Finger of Death	spellcasting/spells/finger_of_death.md	/^# Finger of Death $/;"	h	line:8
+Fire Bolt	spellcasting/spells/fire_bolt.md	/^# Fire Bolt $/;"	h	line:7
+Fire Elemental	gamemaster_rules/monsters/fire_elemental.md	/^# Fire Elemental $/;"	h	line:5
+Fire Giant	gamemaster_rules/monsters/fire_giant.md	/^# Fire Giant $/;"	h	line:5
+Fire Shield	spellcasting/spells/fire_shield.md	/^# Fire Shield $/;"	h	line:6
+Fire Storm	spellcasting/spells/fire_storm.md	/^# Fire Storm $/;"	h	line:8
+Fire-Breathing Statue	gamemaster_rules/traps.md	/^### Fire-Breathing Statue $/;"	h	line:66
+Fireball	spellcasting/spells/fireball.md	/^# Fireball $/;"	h	line:7
+Flame Blade	spellcasting/spells/flame_blade.md	/^# Flame Blade $/;"	h	line:6
+Flame Strike	spellcasting/spells/flame_strike.md	/^# Flame Strike $/;"	h	line:6
+Flame Tongue	gamemaster_rules/magic_items/flame_tongue.md	/^# Flame Tongue $/;"	h	line:4
+Flaming Sphere	spellcasting/spells/flaming_sphere.md	/^# Flaming Sphere $/;"	h	line:7
+Flesh Golem	gamemaster_rules/monsters/flesh_golem.md	/^# Flesh Golem $/;"	h	line:5
+Flesh to Stone	spellcasting/spells/flesh_to_stone.md	/^# Flesh to Stone $/;"	h	line:7
+Flexible Casting	character/classes/sorcerer.md	/^#### Flexible Casting $/;"	h	line:87
+Floating Disk	spellcasting/spells/floating_disk.md	/^# Floating Disk $/;"	h	line:6
+Flurry of Blows	character/classes/monk.md	/^#### Flurry of Blows $/;"	h	line:71
+Fly	gamemaster_rules/monsters.md	/^### Fly $/;"	h	line:77
+Fly	spellcasting/spells/fly.md	/^# Fly $/;"	h	line:8
+Flying Movement	combat/movement_and_position.md	/^## Flying Movement $/;"	h	line:56
+Flying Snake	gamemaster_rules/monsters/flying_snake.md	/^# Flying Snake $/;"	h	line:5
+Flying Sword	gamemaster_rules/monsters/flying_sword.md	/^# Flying Sword $/;"	h	line:5
+Foe Slayer	character/classes/ranger.md	/^### Foe Slayer$/;"	h	line:141
+Fog Cloud	spellcasting/spells/fog_cloud.md	/^# Fog Cloud $/;"	h	line:9
+Folding Boat	gamemaster_rules/magic_items/folding_boat.md	/^# Folding Boat $/;"	h	line:4
+Font of Inspiration	character/classes/bard.md	/^### Font of Inspiration$/;"	h	line:106
+Font of Magic	character/classes/sorcerer.md	/^### Font of Magic $/;"	h	line:80
+Food	adventuring/the_environment.md	/^### Food $/;"	h	line:35
+Food and Water	adventuring/the_environment.md	/^## Food and Water $/;"	h	line:32
+Food, Drink, and Lodging	rules/expenses.md	/^## Food, Drink, and Lodging $/;"	h	line:31
+Forbiddance	spellcasting/spells/forbiddance.md	/^# Forbiddance $/;"	h	line:6
+Forcecage	spellcasting/spells/forcecage.md	/^# Forcecage $/;"	h	line:8
+Foresight	spellcasting/spells/foresight.md	/^# Foresight $/;"	h	line:9
+Forest	character/classes/druid.md	/^#### Forest$/;"	h	line:159
+Freedom of Movement	spellcasting/spells/freedom_of_movement.md	/^# Freedom of Movement $/;"	h	line:9
+Freezing Sphere	spellcasting/spells/freezing_sphere.md	/^# Freezing Sphere $/;"	h	line:6
+Frenzy	character/classes/barbarian.md	/^#### Frenzy $/;"	h	line:121
+Frightened	rules/conditions.md	/^### Frightened$/;"	h	line:36
+Frog	gamemaster_rules/monsters/frog.md	/^# Frog $/;"	h	line:5
+Frost Brand	gamemaster_rules/magic_items/frost_brand.md	/^# Frost Brand $/;"	h	line:4
+Frost Giant	gamemaster_rules/monsters/frost_giant.md	/^# Frost Giant $/;"	h	line:5
+GM Rules	index.md	/^### GM Rules$/;"	h	line:55
+Gaining Inspiration	rules/inspiration.md	/^## Gaining Inspiration $/;"	h	line:4
+Gaming set	adventuring/equipment/tools.md	/^## Gaming set$/;"	h	line:38
+Gargoyle	gamemaster_rules/monsters/gargoyle.md	/^# Gargoyle $/;"	h	line:5
+Gaseous Form	spellcasting/spells/gaseous_form.md	/^# Gaseous Form $/;"	h	line:8
+Gate	spellcasting/spells/gate.md	/^# Gate $/;"	h	line:8
+Gauntlets of Ogre Power	gamemaster_rules/magic_items/gauntlets_of_ogre_power.md	/^# Gauntlets of Ogre Power $/;"	h	line:4
+Gaze of Two Minds	character/classes/warlock.md	/^#### Gaze of Two Minds $/;"	h	line:175
+Geas	spellcasting/spells/geas.md	/^# Geas $/;"	h	line:10
+Gelatinous Cube	gamemaster_rules/monsters/gelatinous_cube.md	/^# Gelatinous Cube $/;"	h	line:5
+Gem of Brightness	gamemaster_rules/magic_items/gem_of_brightness.md	/^# Gem of Brightness $/;"	h	line:4
+Gem of Seeing	gamemaster_rules/magic_items/gem_of_seeing.md	/^# Gem of Seeing $/;"	h	line:4
+Gentle Repose	spellcasting/spells/gentle_repose.md	/^# Gentle Repose $/;"	h	line:7
+Getting Into and Out of Armor	adventuring/equipment/armor.md	/^## Getting Into and Out of Armor $/;"	h	line:59
+Ghast	gamemaster_rules/monsters/ghast.md	/^# Ghast $/;"	h	line:5
+Ghost	gamemaster_rules/monsters/ghost.md	/^# Ghost $/;"	h	line:5
+Ghoul	gamemaster_rules/monsters/ghoul.md	/^# Ghoul $/;"	h	line:5
+Giant Ape	gamemaster_rules/monsters/giant_ape.md	/^# Giant Ape $/;"	h	line:5
+Giant Badger	gamemaster_rules/monsters/giant_badger.md	/^# Giant Badger $/;"	h	line:5
+Giant Bat	gamemaster_rules/monsters/giant_bat.md	/^# Giant Bat $/;"	h	line:5
+Giant Boar	gamemaster_rules/monsters/giant_boar.md	/^# Giant Boar $/;"	h	line:5
+Giant Centipede	gamemaster_rules/monsters/giant_centipede.md	/^# Giant Centipede $/;"	h	line:5
+Giant Constrictor Snake	gamemaster_rules/monsters/giant_constrictor_snake.md	/^# Giant Constrictor Snake $/;"	h	line:5
+Giant Crab	gamemaster_rules/monsters/giant_crab.md	/^# Giant Crab $/;"	h	line:5
+Giant Crocodile	gamemaster_rules/monsters/giant_crocodile.md	/^# Giant Crocodile $/;"	h	line:5
+Giant Eagle	gamemaster_rules/monsters/giant_eagle.md	/^# Giant Eagle $/;"	h	line:5
+Giant Elk	gamemaster_rules/monsters/giant_elk.md	/^# Giant Elk $/;"	h	line:5
+Giant Fire Beetle	gamemaster_rules/monsters/giant_fire_beetle.md	/^# Giant Fire Beetle $/;"	h	line:5
+Giant Fly	gamemaster_rules/magic_items/figurine_of_wondrous_power.md	/^### Giant Fly $/;"	h	line:13
+Giant Frog	gamemaster_rules/monsters/giant_frog.md	/^# Giant Frog $/;"	h	line:5
+Giant Goat	gamemaster_rules/monsters/giant_goat.md	/^# Giant Goat $/;"	h	line:5
+Giant Hyena	gamemaster_rules/monsters/giant_hyena.md	/^# Giant Hyena $/;"	h	line:5
+Giant Insect	spellcasting/spells/giant_insect.md	/^# Giant Insect $/;"	h	line:6
+Giant Lizard	gamemaster_rules/monsters/giant_lizard.md	/^# Giant Lizard $/;"	h	line:5
+Giant Octopus	gamemaster_rules/monsters/giant_octopus.md	/^# Giant Octopus $/;"	h	line:5
+Giant Owl	gamemaster_rules/monsters/giant_owl.md	/^# Giant Owl $/;"	h	line:5
+Giant Poisonous Snake	gamemaster_rules/monsters/giant_poisonous_snake.md	/^# Giant Poisonous Snake $/;"	h	line:5
+Giant Rat	gamemaster_rules/monsters/giant_rat.md	/^# Giant Rat $/;"	h	line:5
+Giant Scorpion	gamemaster_rules/monsters/giant_scorpion.md	/^# Giant Scorpion $/;"	h	line:5
+Giant Sea Horse	gamemaster_rules/monsters/giant_sea_horse.md	/^# Giant Sea Horse $/;"	h	line:5
+Giant Shark	gamemaster_rules/monsters/giant_shark.md	/^# Giant Shark $/;"	h	line:5
+Giant Slayer	gamemaster_rules/magic_items/giant_slayer.md	/^# Giant Slayer $/;"	h	line:4
+Giant Spider	gamemaster_rules/monsters/giant_spider.md	/^# Giant Spider $/;"	h	line:5
+Giant Toad	gamemaster_rules/monsters/giant_toad.md	/^# Giant Toad $/;"	h	line:5
+Giant Vulture	gamemaster_rules/monsters/giant_vulture.md	/^# Giant Vulture $/;"	h	line:5
+Giant Wasp	gamemaster_rules/monsters/giant_wasp.md	/^# Giant Wasp $/;"	h	line:5
+Giant Weasel	gamemaster_rules/monsters/giant_weasel.md	/^# Giant Weasel $/;"	h	line:5
+Giant Wolf Spider	gamemaster_rules/monsters/giant_wolf_spider.md	/^# Giant Wolf Spider $/;"	h	line:5
+Gibbering Mouther	gamemaster_rules/monsters/gibbering_mouther.md	/^# Gibbering Mouther $/;"	h	line:5
+Glabrezu	gamemaster_rules/monsters/glabrezu.md	/^# Glabrezu $/;"	h	line:5
+Gladiator	gamemaster_rules/monsters/gladiator.md	/^# Gladiator $/;"	h	line:5
+Glamoured Studded Leather	gamemaster_rules/magic_items/glamoured_studded_leather.md	/^# Glamoured Studded Leather $/;"	h	line:4
+Glibness	spellcasting/spells/glibness.md	/^# Glibness $/;"	h	line:7
+Globe of Invulnerability	spellcasting/spells/globe_of_invulnerability.md	/^# Globe of Invulnerability $/;"	h	line:7
+Gloves of Missile Snaring	gamemaster_rules/magic_items/gloves_of_missile_snaring.md	/^# Gloves of Missile Snaring $/;"	h	line:4
+Gloves of Swimming and Climbing	gamemaster_rules/magic_items/gloves_of_swimming_and_climbing.md	/^# Gloves of Swimming and Climbing $/;"	h	line:4
+Glyph of Warding	spellcasting/spells/glyph_of_warding.md	/^# Glyph of Warding $/;"	h	line:8
+Gnoll	gamemaster_rules/monsters/gnoll.md	/^# Gnoll $/;"	h	line:5
+Gnome	character/races/gnome.md	/^# Gnome $/;"	h	line:1
+Gnome Traits	character/races/gnome.md	/^## Gnome Traits $/;"	h	line:2
+Gnome, Deep (Svirfneblin)	gamemaster_rules/monsters/gnome_deep_svirfneblin.md	/^# Gnome, Deep (Svirfneblin) $/;"	h	line:5
+Goat	gamemaster_rules/monsters/goat.md	/^# Goat $/;"	h	line:5
+Goblin	gamemaster_rules/monsters/goblin.md	/^# Goblin $/;"	h	line:5
+Goggles of Night	gamemaster_rules/magic_items/goggles_of_night.md	/^# Goggles of Night $/;"	h	line:4
+Going Mad	gamemaster_rules/madness.md	/^## Going Mad $/;"	h	line:4
+Gold Dragon Wyrmling	gamemaster_rules/monsters/gold_dragon_wyrmling.md	/^# Gold Dragon Wyrmling $/;"	h	line:5
+Goodberry	spellcasting/spells/goodberry.md	/^# Goodberry $/;"	h	line:7
+Gorgon	gamemaster_rules/monsters/gorgon.md	/^# Gorgon $/;"	h	line:5
+Grapple Rules for Monsters	gamemaster_rules/monsters.md	/^## Grapple Rules for Monsters $/;"	h	line:252
+Grappled	rules/conditions.md	/^### Grappled$/;"	h	line:40
+Grappler	rules/feats.md	/^## Grappler $/;"	h	line:6
+Grappling	combat/making_an_attack.md	/^### Grappling $/;"	h	line:57
+Grassland	character/classes/druid.md	/^#### Grassland$/;"	h	line:167
+Gray Ooze	gamemaster_rules/monsters/gray_ooze.md	/^# Gray Ooze $/;"	h	line:5
+Grease	spellcasting/spells/grease.md	/^# Grease $/;"	h	line:6
+Great Weapon Fighting	character/classes/fighter.md	/^#### Great Weapon Fighting $/;"	h	line:63
+Great Weapon Fighting	character/classes/paladin.md	/^#### Great Weapon Fighting $/;"	h	line:71
+Greater Invisibility	spellcasting/spells/greater_invisibility.md	/^# Greater Invisibility $/;"	h	line:8
+Greater Restoration	spellcasting/spells/greater_restoration.md	/^# Greater Restoration $/;"	h	line:8
+Greek Deities	character/fantasy-historical_pantheons.md	/^### Greek Deities$/;"	h	line:37
+Green Dragon Wyrmling	gamemaster_rules/monsters/green_dragon_wyrmling.md	/^# Green Dragon Wyrmling $/;"	h	line:5
+Green Hag	gamemaster_rules/monsters/green_hag.md	/^# Green Hag $/;"	h	line:5
+Grey Bag of Tricks	gamemaster_rules/magic_items/bag_of_tricks.md	/^### Grey Bag of Tricks$/;"	h	line:12
+Grick	gamemaster_rules/monsters/grick.md	/^# Grick $/;"	h	line:5
+Griffon	gamemaster_rules/monsters/griffon.md	/^# Griffon $/;"	h	line:5
+Grimlock	gamemaster_rules/monsters/grimlock.md	/^# Grimlock $/;"	h	line:5
+Group Checks	rules/abilities/ability_checks.md	/^### Group Checks $/;"	h	line:75
+Guard	gamemaster_rules/monsters/guard.md	/^# Guard $/;"	h	line:5
+Guardian Naga	gamemaster_rules/monsters/guardian_naga.md	/^# Guardian Naga $/;"	h	line:5
+Guardian of Faith	spellcasting/spells/guardian_of_faith.md	/^# Guardian of Faith $/;"	h	line:6
+Guards and Wards	spellcasting/spells/guards_and_wards.md	/^# Guards and Wards $/;"	h	line:7
+Guidance	spellcasting/spells/guidance.md	/^# Guidance $/;"	h	line:7
+Guiding Bolt	spellcasting/spells/guiding_bolt.md	/^# Guiding Bolt $/;"	h	line:6
+Gust of Wind	spellcasting/spells/gust_of_wind.md	/^# Gust of Wind $/;"	h	line:8
+Gynosphinx	gamemaster_rules/monsters/gynosphinx.md	/^# Gynosphinx $/;"	h	line:5
+Half-Dragon Template	gamemaster_rules/templates/halfdragon_template.md	/^# Half-Dragon Template$/;"	h	line:1
+Half-Elf Traits	character/races/half-elf.md	/^## Half-Elf Traits $/;"	h	line:2
+Half-Orc	character/races/half-orc.md	/^# Half-Orc $/;"	h	line:1
+Half-Orc Traits	character/races/half-orc.md	/^## Half-Orc Traits $/;"	h	line:2
+Half-Red Dragon Veteran	gamemaster_rules/monsters/half_red_dragon_veteran.md	/^# Half-Red Dragon Veteran $/;"	h	line:5
+Halfling	character/races/halfling.md	/^# Halfling $/;"	h	line:1
+Halfling Traits	character/races/halfling.md	/^## Halfling Traits $/;"	h	line:2
+Hallow	spellcasting/spells/hallow.md	/^# Hallow $/;"	h	line:6
+Hallucinatory Terrain	spellcasting/spells/hallucinatory_terrain.md	/^# Hallucinatory Terrain $/;"	h	line:9
+Hammer of Thunderbolts	gamemaster_rules/magic_items/hammer_of_thunderbolts.md	/^# Hammer of Thunderbolts $/;"	h	line:4
+Handy Haversack	gamemaster_rules/magic_items/handy_haversack.md	/^# Handy Haversack $/;"	h	line:4
+Harm	spellcasting/spells/harm.md	/^# Harm $/;"	h	line:6
+Harpy	gamemaster_rules/monsters/harpy.md	/^# Harpy $/;"	h	line:5
+Haste	spellcasting/spells/haste.md	/^# Haste $/;"	h	line:7
+Hat of Disguise	gamemaster_rules/magic_items/hat_of_disguise.md	/^# Hat of Disguise $/;"	h	line:4
+Hawk	gamemaster_rules/monsters/hawk.md	/^# Hawk $/;"	h	line:5
+Headband of Intellect	gamemaster_rules/magic_items/headband_of_intellect.md	/^# Headband of Intellect $/;"	h	line:4
+Heal	spellcasting/spells/heal.md	/^# Heal $/;"	h	line:7
+Healing	combat/damage_and_healing.md	/^## Healing $/;"	h	line:41
+Healing Word	spellcasting/spells/healing_word.md	/^# Healing Word $/;"	h	line:8
+Heat Metal	spellcasting/spells/heat_metal.md	/^# Heat Metal $/;"	h	line:7
+Heavy Armor	adventuring/equipment/armor.md	/^## Heavy Armor $/;"	h	line:24
+Heightened Spell	character/classes/sorcerer.md	/^#### Heightened Spell $/;"	h	line:121
+Hell Hound	gamemaster_rules/monsters/hell_hound.md	/^# Hell Hound $/;"	h	line:5
+Hellish Rebuke	spellcasting/spells/hellish_rebuke.md	/^# Hellish Rebuke $/;"	h	line:6
+Helm of Brilliance	gamemaster_rules/magic_items/helm_of_brilliance.md	/^# Helm of Brilliance $/;"	h	line:4
+Helm of Comprehending Languages	gamemaster_rules/magic_items/helm_of_comprehending_languages.md	/^# Helm of Comprehending Languages $/;"	h	line:4
+Helm of Telepathy	gamemaster_rules/magic_items/helm_of_telepathy.md	/^# Helm of Telepathy $/;"	h	line:4
+Helm of Teleportation	gamemaster_rules/magic_items/helm_of_teleportation.md	/^# Helm of Teleportation $/;"	h	line:4
+Help	combat/actions_in_combat.md	/^## Help $/;"	h	line:23
+Heroes' Feast	spellcasting/spells/heroes_feast.md	/^# Heroes' Feast $/;"	h	line:7
+Heroism	spellcasting/spells/heroism.md	/^# Heroism $/;"	h	line:7
+Hezrou	gamemaster_rules/monsters/hezrou.md	/^# Hezrou $/;"	h	line:5
+Hide	combat/actions_in_combat.md	/^## Hide $/;"	h	line:27
+Hide in Plain Sight	character/classes/ranger.md	/^### Hide in Plain Sight $/;"	h	line:127
+Hideous Laughter	spellcasting/spells/hideous_laughter.md	/^# Hideous Laughter $/;"	h	line:7
+High Elf	character/races/elf.md	/^## High Elf $/;"	h	line:26
+Hill Dwarf	character/races/dwarf.md	/^## Hill Dwarf $/;"	h	line:28
+Hill Giant	gamemaster_rules/monsters/hill_giant.md	/^# Hill Giant $/;"	h	line:5
+Hippogriff	gamemaster_rules/monsters/hippogriff.md	/^# Hippogriff $/;"	h	line:5
+Hit Dice by Size	gamemaster_rules/monsters.md	/^### Hit Dice by Size$/;"	h	line:55
+Hit Points	character/classes/barbarian.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/bard.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/cleric.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/druid.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/fighter.md	/^### Hit Points$/;"	h	line:30
+Hit Points	character/classes/monk.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/paladin.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/ranger.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/rogue.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/sorcerer.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/warlock.md	/^### Hit Points$/;"	h	line:29
+Hit Points	character/classes/wizard.md	/^### Hit Points$/;"	h	line:29
+Hit Points	combat/damage_and_healing.md	/^## Hit Points $/;"	h	line:4
+Hit Points	gamemaster_rules/monsters.md	/^## Hit Points $/;"	h	line:50
+Hit Points	rules/abilities/constitution.md	/^## Hit Points $/;"	h	line:14
+Hit Points and Hit Dice	rules/multiclassing.md	/^## Hit Points and Hit Dice $/;"	h	line:27
+Hobgoblin	gamemaster_rules/monsters/hobgoblin.md	/^# Hobgoblin $/;"	h	line:5
+Hold Monster	spellcasting/spells/hold_monster.md	/^# Hold Monster $/;"	h	line:9
+Hold Person	spellcasting/spells/hold_person.md	/^# Hold Person $/;"	h	line:11
+Holy Aura	spellcasting/spells/holy_aura.md	/^# Holy Aura $/;"	h	line:6
+Holy Avenger	gamemaster_rules/magic_items/holy_avenger.md	/^# Holy Avenger $/;"	h	line:4
+Holy Nimbus	character/classes/paladin.md	/^#### Holy Nimbus $/;"	h	line:187
+Holy Symbol	adventuring/equipment/adventuring_gear.md	/^### Holy Symbol$/;"	h	line:73
+Homunculus	gamemaster_rules/monsters/homunculus.md	/^# Homunculus $/;"	h	line:5
+Horn of Blasting	gamemaster_rules/magic_items/horn_of_blasting.md	/^# Horn of Blasting $/;"	h	line:4
+Horn of Valhalla	gamemaster_rules/magic_items/horn_of_valhalla.md	/^# Horn of Valhalla $/;"	h	line:4
+Horned Devil	gamemaster_rules/monsters/horned_devil.md	/^# Horned Devil $/;"	h	line:5
+Horseshoes of Speed	gamemaster_rules/magic_items/horseshoes_of_speed.md	/^# Horseshoes of Speed $/;"	h	line:4
+Horseshoes of a Zephyr	gamemaster_rules/magic_items/horseshoes_of_a_zephyr.md	/^# Horseshoes of a Zephyr $/;"	h	line:4
+Human	character/races/human.md	/^# Human $/;"	h	line:1
+Human Traits	character/races/human.md	/^## Human Traits $/;"	h	line:2
+Hunter	character/classes/ranger.md	/^### Hunter$/;"	h	line:149
+Hunter Shark	gamemaster_rules/monsters/hunter_shark.md	/^# Hunter Shark $/;"	h	line:5
+Hunter's Mark	spellcasting/spells/hunters_mark.md	/^# Hunter's Mark $/;"	h	line:6
+Hunter's Prey	character/classes/ranger.md	/^#### Hunter's Prey $/;"	h	line:153
+Hurl Through Hell	character/classes/warlock.md	/^#### Hurl Through Hell $/;"	h	line:280
+Hydra	gamemaster_rules/monsters/hydra.md	/^# Hydra $/;"	h	line:5
+Hyena	gamemaster_rules/monsters/hyena.md	/^# Hyena $/;"	h	line:5
+Hypnotic Pattern	spellcasting/spells/hypnotic_pattern.md	/^# Hypnotic Pattern $/;"	h	line:9
+Ice Devil	gamemaster_rules/monsters/ice_devil.md	/^# Ice Devil $/;"	h	line:5
+Ice Mephit	gamemaster_rules/monsters/ice_mephit.md	/^# Ice Mephit $/;"	h	line:5
+Ice Storm	spellcasting/spells/ice_storm.md	/^# Ice Storm $/;"	h	line:8
+Identify	spellcasting/spells/identify.md	/^# Identify $/;"	h	line:7
+Illusory Script	spellcasting/spells/illusory_script.md	/^# Illusory Script $/;"	h	line:8
+Immovable Rod	gamemaster_rules/magic_items/immovable_rod.md	/^# Immovable Rod $/;"	h	line:4
+Imp	gamemaster_rules/monsters/imp.md	/^# Imp $/;"	h	line:5
+Imprisonment	spellcasting/spells/imprisonment.md	/^# Imprisonment $/;"	h	line:7
+Improved Critical	character/classes/fighter.md	/^#### Improved Critical $/;"	h	line:103
+Improved Divine Smite	character/classes/paladin.md	/^### Improved Divine Smite$/;"	h	line:137
+Improvised Weapons	adventuring/equipment/weapons.md	/^## Improvised Weapons $/;"	h	line:24
+Incapacitated	rules/conditions.md	/^### Incapacitated$/;"	h	line:45
+Incendiary Cloud	spellcasting/spells/incendiary_cloud.md	/^# Incendiary Cloud $/;"	h	line:7
+Indefinite Madness	gamemaster_rules/madness.md	/^### Indefinite Madness$/;"	h	line:46
+Indomitable	character/classes/fighter.md	/^### Indomitable $/;"	h	line:92
+Indomitable Might	character/classes/barbarian.md	/^### Indomitable Might $/;"	h	line:109
+Inflict Wounds	spellcasting/spells/inflict_wounds.md	/^# Inflict Wounds $/;"	h	line:6
+Initiative	combat/order_of_combat.md	/^## Initiative $/;"	h	line:17
+Initiative	rules/abilities/dexterity.md	/^## Initiative $/;"	h	line:26
+Innate Spellcasting	gamemaster_rules/monsters.md	/^### Innate Spellcasting $/;"	h	line:213
+Inner Planes	adventuring/planes_of_existence.md	/^### Inner Planes $/;"	h	line:24
+Insect Plague	spellcasting/spells/insect_plague.md	/^# Insect Plague $/;"	h	line:8
+Inspiration	rules/inspiration.md	/^# Inspiration $/;"	h	line:1
+Instant Death	combat/damage_and_healing.md	/^### Instant Death $/;"	h	line:49
+Instant Fortress	gamemaster_rules/magic_items/instant_fortress.md	/^# Instant Fortress $/;"	h	line:4
+Instant Summons	spellcasting/spells/instant_summons.md	/^# Instant Summons $/;"	h	line:6
+Instantaneous	spellcasting/casting_a_spell.md	/^### Instantaneous $/;"	h	line:39
+Intelligence	rules/abilities/ability_checks.md	/^### Intelligence$/;"	h	line:35
+Intelligence	rules/abilities/intelligence.md	/^# Intelligence $/;"	h	line:1
+Intelligence Checks	rules/abilities/intelligence.md	/^## Intelligence Checks $/;"	h	line:4
+Interacting with Objects	adventuring/the_environment.md	/^## Interacting with Objects $/;"	h	line:43
+Intimidating Presence	character/classes/barbarian.md	/^#### Intimidating Presence $/;"	h	line:127
+Invisibility	spellcasting/spells/invisibility.md	/^# Invisibility $/;"	h	line:9
+Invisible	rules/conditions.md	/^### Invisible $/;"	h	line:48
+Invisible Stalker	gamemaster_rules/monsters/invisible_stalker.md	/^# Invisible Stalker $/;"	h	line:5
+Ioun Stone	gamemaster_rules/magic_items/ioun_stone.md	/^# Ioun Stone $/;"	h	line:4
+Iron Bands of Binding	gamemaster_rules/magic_items/iron_bands_of_binding.md	/^# Iron Bands of Binding $/;"	h	line:4
+Iron Flask	gamemaster_rules/magic_items/iron_flask.md	/^# Iron Flask $/;"	h	line:4
+Iron Golem	gamemaster_rules/monsters/iron_golem.md	/^# Iron Golem $/;"	h	line:5
+Irresistible Dance	spellcasting/spells/irresistible_dance.md	/^# Irresistible Dance $/;"	h	line:7
+Jack of All Trades	character/classes/bard.md	/^### Jack of All Trades $/;"	h	line:85
+Jackal	gamemaster_rules/monsters/jackal.md	/^# Jackal $/;"	h	line:5
+Javelin of Lightning	gamemaster_rules/magic_items/javelin_of_lightning.md	/^# Javelin of Lightning $/;"	h	line:4
+Jump	spellcasting/spells/jump.md	/^# Jump $/;"	h	line:9
+Jumping	adventuring/movement.md	/^### Jumping $/;"	h	line:33
+Ki	character/classes/monk.md	/^### Ki $/;"	h	line:62
+Ki-Empowered Strikes	character/classes/monk.md	/^### Ki-Empowered Strikes $/;"	h	line:110
+Killer Whale	gamemaster_rules/monsters/killer_whale.md	/^# Killer Whale $/;"	h	line:5
+Knight	gamemaster_rules/monsters/knight.md	/^# Knight $/;"	h	line:5
+Knock	spellcasting/spells/knock.md	/^# Knock $/;"	h	line:8
+Knocking a Creature Out	combat/damage_and_healing.md	/^## Knocking a Creature Out $/;"	h	line:71
+Known and Prepared Spells	spellcasting/what_is_a_spell.md	/^## Known and Prepared Spells $/;"	h	line:10
+Kobold	gamemaster_rules/monsters/kobold.md	/^# Kobold $/;"	h	line:5
+Kraken	gamemaster_rules/monsters/kraken.md	/^# Kraken $/;"	h	line:5
+Lair Actions	gamemaster_rules/legendary_creatures.md	/^### Lair Actions $/;"	h	line:10
+Lamia	gamemaster_rules/monsters/lamia.md	/^# Lamia $/;"	h	line:5
+Land's Stride	character/classes/ranger.md	/^### Land's Stride$/;"	h	line:122
+Land’s Stride	character/classes/druid.md	/^#### Land’s Stride$/;"	h	line:191
+Languages	character/backgrounds.md	/^### Languages $/;"	h	line:11
+Languages	character/languages.md	/^# Languages $/;"	h	line:1
+Languages	gamemaster_rules/monsters.md	/^## Languages $/;"	h	line:156
+Lantern of Revealing	gamemaster_rules/magic_items/lantern_of_revealing.md	/^# Lantern of Revealing $/;"	h	line:4
+Lay on Hands	character/classes/paladin.md	/^### Lay on Hands$/;"	h	line:54
+Learning Spells of 1st Level and Higher	character/classes/wizard.md	/^#### Learning Spells of 1st Level and Higher $/;"	h	line:77
+Legal Information	license.md	/^# Legal Information$/;"	h	line:1
+Legend Lore	spellcasting/spells/legend_lore.md	/^# Legend Lore $/;"	h	line:8
+Legendary Actions	gamemaster_rules/legendary_creatures.md	/^## Legendary Actions $/;"	h	line:5
+Legendary Actions	gamemaster_rules/monsters/aboleth.md	/^### Legendary Actions $/;"	h	line:35
+Legendary Actions	gamemaster_rules/monsters/adult_black_dragon.md	/^### Legendary Actions $/;"	h	line:34
+Legendary Actions	gamemaster_rules/monsters/adult_blue_dragon.md	/^### Legendary Actions $/;"	h	line:33
+Legendary Actions	gamemaster_rules/monsters/adult_brass_dragon.md	/^### Legendary Actions $/;"	h	line:35
+Legendary Actions	gamemaster_rules/monsters/adult_bronze_dragon.md	/^### Legendary Actions $/;"	h	line:38
+Legendary Actions	gamemaster_rules/monsters/adult_copper_dragon.md	/^### Legendary Actions $/;"	h	line:35
+Legendary Actions	gamemaster_rules/monsters/adult_gold_dragon.md	/^### Legendary Actions $/;"	h	line:38
+Legendary Actions	gamemaster_rules/monsters/adult_green_dragon.md	/^### Legendary Actions $/;"	h	line:35
+Legendary Actions	gamemaster_rules/monsters/adult_red_dragon.md	/^### Legendary Actions $/;"	h	line:33
+Legendary Actions	gamemaster_rules/monsters/adult_silver_dragon.md	/^### Legendary Actions $/;"	h	line:37
+Legendary Actions	gamemaster_rules/monsters/adult_white_dragon.md	/^### Legendary Actions $/;"	h	line:34
+Legendary Actions	gamemaster_rules/monsters/ancient_black_dragon.md	/^### Legendary Actions $/;"	h	line:34
+Legendary Actions	gamemaster_rules/monsters/ancient_blue_dragon.md	/^### Legendary Actions $/;"	h	line:33
+Legendary Actions	gamemaster_rules/monsters/ancient_brass_dragon.md	/^### Legendary Actions $/;"	h	line:37
+Legendary Actions	gamemaster_rules/monsters/ancient_bronze_dragon.md	/^### Legendary Actions $/;"	h	line:38
+Legendary Actions	gamemaster_rules/monsters/ancient_copper_dragon.md	/^### Legendary Actions $/;"	h	line:37
+Legendary Actions	gamemaster_rules/monsters/ancient_gold_dragon.md	/^### Legendary Actions $/;"	h	line:38
+Legendary Actions	gamemaster_rules/monsters/ancient_green_dragon.md	/^### Legendary Actions $/;"	h	line:35
+Legendary Actions	gamemaster_rules/monsters/ancient_red_dragon.md	/^### Legendary Actions $/;"	h	line:33
+Legendary Actions	gamemaster_rules/monsters/ancient_silver_dragon.md	/^### Legendary Actions $/;"	h	line:37
+Legendary Actions	gamemaster_rules/monsters/ancient_white_dragon.md	/^### Legendary Actions $/;"	h	line:34
+Legendary Actions	gamemaster_rules/monsters/androsphinx.md	/^### Legendary Actions $/;"	h	line:43
+Legendary Actions	gamemaster_rules/monsters/gynosphinx.md	/^### Legendary Actions $/;"	h	line:38
+Legendary Actions	gamemaster_rules/monsters/kraken.md	/^### Legendary Actions $/;"	h	line:34
+Legendary Actions	gamemaster_rules/monsters/lich.md	/^### Legendary Actions $/;"	h	line:43
+Legendary Actions	gamemaster_rules/monsters/mummy_lord.md	/^### Legendary Actions $/;"	h	line:41
+Legendary Actions	gamemaster_rules/monsters/solar.md	/^### Legendary Actions $/;"	h	line:40
+Legendary Actions	gamemaster_rules/monsters/tarrasque.md	/^### Legendary Actions$/;"	h	line:39
+Legendary Actions	gamemaster_rules/monsters/unicorn.md	/^### Legendary Actions $/;"	h	line:36
+Legendary Actions	gamemaster_rules/monsters/vampire.md	/^### Legendary Actions $/;"	h	line:45
+Legendary Creatures	gamemaster_rules/legendary_creatures.md	/^# Legendary Creatures $/;"	h	line:1
+Lemure	gamemaster_rules/monsters/lemure.md	/^# Lemure $/;"	h	line:5
+Lesser Restoration	spellcasting/spells/lesser_restoration.md	/^# Lesser Restoration $/;"	h	line:10
+Leveling Up	rules/leveling_up.md	/^# Leveling Up$/;"	h	line:1
+Levitate	spellcasting/spells/levitate.md	/^# Levitate $/;"	h	line:7
+Lich	gamemaster_rules/monsters/lich.md	/^# Lich $/;"	h	line:5
+Life Domain	character/classes/cleric.md	/^### Life Domain $/;"	h	line:116
+Life Domain Spells	character/classes/cleric.md	/^#### Life Domain Spells$/;"	h	line:120
+Lifedrinker	character/classes/warlock.md	/^#### Lifedrinker $/;"	h	line:178
+Lifestyle Expenses	adventuring/between_adventures.md	/^## Lifestyle Expenses $/;"	h	line:5
+Lifestyle Expenses	rules/expenses.md	/^## Lifestyle Expenses $/;"	h	line:4
+Lifting and Carrying	rules/abilities/strength.md	/^## Lifting and Carrying $/;"	h	line:24
+Light	spellcasting/spells/light.md	/^# Light $/;"	h	line:9
+Light Armor	adventuring/equipment/armor.md	/^## Light Armor $/;"	h	line:10
+Lightfoot	character/races/halfling.md	/^## Lightfoot $/;"	h	line:24
+Lightning Bolt	spellcasting/spells/lightning_bolt.md	/^# Lightning Bolt $/;"	h	line:7
+Limited Usage	gamemaster_rules/monsters.md	/^## Limited Usage $/;"	h	line:245
+Line	spellcasting/casting_a_spell.md	/^### Line $/;"	h	line:79
+Lion	gamemaster_rules/monsters/lion.md	/^# Lion $/;"	h	line:5
+Lizard	gamemaster_rules/monsters/lizard.md	/^# Lizard $/;"	h	line:5
+Lizardfolk	gamemaster_rules/monsters/lizardfolk.md	/^# Lizardfolk $/;"	h	line:5
+Locate Animals or Plants	spellcasting/spells/locate_animals_or_plants.md	/^# Locate Animals or Plants $/;"	h	line:8
+Locate Creature	spellcasting/spells/locate_creature.md	/^# Locate Creature $/;"	h	line:11
+Locate Object	spellcasting/spells/locate_object.md	/^# Locate Object $/;"	h	line:11
+Long Rest	adventuring/resting.md	/^## Long Rest $/;"	h	line:9
+Long-Term Madness	gamemaster_rules/madness.md	/^### Long-Term Madness$/;"	h	line:29
+Longer Casting Times	spellcasting/casting_a_spell.md	/^### Longer Casting Times $/;"	h	line:14
+Longstrider	spellcasting/spells/longstrider.md	/^# Longstrider $/;"	h	line:9
+Luck Blade	gamemaster_rules/magic_items/luck_blade.md	/^# Luck Blade $/;"	h	line:4
+Mace of Disruption	gamemaster_rules/magic_items/mace_of_disruption.md	/^# Mace of Disruption $/;"	h	line:4
+Mace of Smiting	gamemaster_rules/magic_items/mace_of_smiting.md	/^# Mace of Smiting $/;"	h	line:4
+Mace of Terror	gamemaster_rules/magic_items/mace_of_terror.md	/^# Mace of Terror $/;"	h	line:4
+Madness	gamemaster_rules/madness.md	/^# Madness $/;"	h	line:1
+Madness Effects	gamemaster_rules/madness.md	/^## Madness Effects $/;"	h	line:8
+Mage	gamemaster_rules/monsters/mage.md	/^# Mage $/;"	h	line:5
+Mage Armor	spellcasting/spells/mage_armor.md	/^# Mage Armor $/;"	h	line:7
+Mage Hand	spellcasting/spells/mage_hand.md	/^# Mage Hand $/;"	h	line:9
+Magic Circle	spellcasting/spells/magic_circle.md	/^# Magic Circle $/;"	h	line:9
+Magic Items	gamemaster_rules/magic_items.md	/^# Magic Items $/;"	h	line:1
+Magic Jar	spellcasting/spells/magic_jar.md	/^# Magic Jar $/;"	h	line:6
+Magic Missile	spellcasting/spells/magic_missile.md	/^# Magic Missile $/;"	h	line:7
+Magic Mouth	spellcasting/spells/magic_mouth.md	/^# Magic Mouth $/;"	h	line:7
+Magic Weapon	spellcasting/spells/magic_weapon.md	/^# Magic Weapon $/;"	h	line:7
+Magical Secrets	character/classes/bard.md	/^### Magical Secrets$/;"	h	line:114
+Magma Mephit	gamemaster_rules/monsters/magma_mephit.md	/^# Magma Mephit $/;"	h	line:5
+Magmin	gamemaster_rules/monsters/magmin.md	/^# Magmin $/;"	h	line:5
+Magnificent Mansion	spellcasting/spells/magnificent_mansion.md	/^# Magnificent Mansion $/;"	h	line:7
+Major Image	spellcasting/spells/major_image.md	/^# Major Image $/;"	h	line:9
+Making an Attack	combat/making_an_attack.md	/^# Making an Attack $/;"	h	line:1
+Mammoth	gamemaster_rules/monsters/mammoth.md	/^# Mammoth $/;"	h	line:5
+Manticore	gamemaster_rules/monsters/manticore.md	/^# Manticore $/;"	h	line:5
+Mantle of Spell Resistance	gamemaster_rules/magic_items/mantle_of_spell_resistance.md	/^# Mantle of Spell Resistance $/;"	h	line:4
+Manual of Bodily Health	gamemaster_rules/magic_items/manual_of_bodily_health.md	/^# Manual of Bodily Health $/;"	h	line:4
+Manual of Gainful Exercise	gamemaster_rules/magic_items/manual_of_gainful_exercise.md	/^# Manual of Gainful Exercise $/;"	h	line:4
+Manual of Golems	gamemaster_rules/magic_items/manual_of_golems.md	/^# Manual of Golems $/;"	h	line:4
+Manual of Quickness of Action	gamemaster_rules/magic_items/manual_of_quickness_of_action.md	/^# Manual of Quickness of Action $/;"	h	line:4
+Marilith	gamemaster_rules/monsters/marilith.md	/^# Marilith $/;"	h	line:5
+Martial Archetype	character/classes/fighter.md	/^### Martial Archetype $/;"	h	line:80
+Martial Archetypes	character/classes/fighter.md	/^## Martial Archetypes $/;"	h	line:96
+Martial Arts	character/classes/monk.md	/^### Martial Arts $/;"	h	line:52
+Marvelous Pigments	gamemaster_rules/magic_items/marvelous_pigments.md	/^# Marvelous Pigments $/;"	h	line:4
+Mask of Many Faces	character/classes/warlock.md	/^#### Mask of Many Faces $/;"	h	line:183
+Mass Cure Wounds	spellcasting/spells/mass_cure_wounds.md	/^# Mass Cure Wounds $/;"	h	line:8
+Mass Heal	spellcasting/spells/mass_heal.md	/^# Mass Heal $/;"	h	line:6
+Mass Healing Word	spellcasting/spells/mass_healing_word.md	/^# Mass Healing Word $/;"	h	line:6
+Mass Suggestion	spellcasting/spells/mass_suggestion.md	/^# Mass Suggestion $/;"	h	line:9
+Master of Myriad Forms	character/classes/warlock.md	/^#### Master of Myriad Forms $/;"	h	line:187
+Mastiff	gamemaster_rules/monsters/mastiff.md	/^# Mastiff $/;"	h	line:5
+Material (M)	spellcasting/casting_a_spell.md	/^### Material (M) $/;"	h	line:32
+Maze	spellcasting/spells/maze.md	/^# Maze $/;"	h	line:6
+Medallion of Thoughts	gamemaster_rules/magic_items/medallion_of_thoughts.md	/^# Medallion of Thoughts $/;"	h	line:4
+Medium Armor	adventuring/equipment/armor.md	/^## Medium Armor$/;"	h	line:16
+Medusa	gamemaster_rules/monsters/medusa.md	/^# Medusa $/;"	h	line:5
+Meld into Stone	spellcasting/spells/meld_into_stone.md	/^# Meld into Stone $/;"	h	line:7
+Melee Attacks	combat/making_an_attack.md	/^## Melee Attacks $/;"	h	line:40
+Melee and Ranged Attacks	gamemaster_rules/monsters.md	/^### Melee and Ranged Attacks $/;"	h	line:230
+Mending	spellcasting/spells/mending.md	/^# Mending $/;"	h	line:10
+Merfolk	gamemaster_rules/monsters/merfolk.md	/^# Merfolk $/;"	h	line:5
+Merrow	gamemaster_rules/monsters/merrow.md	/^# Merrow $/;"	h	line:5
+Message	spellcasting/spells/message.md	/^# Message $/;"	h	line:8
+Metamagic	character/classes/sorcerer.md	/^### Metamagic $/;"	h	line:102
+Meteor Swarm	spellcasting/spells/meteor_swarm.md	/^# Meteor Swarm $/;"	h	line:7
+Mimic	gamemaster_rules/monsters/mimic.md	/^# Mimic $/;"	h	line:5
+Mind Blank	spellcasting/spells/mind_blank.md	/^# Mind Blank $/;"	h	line:7
+Mindless Rage	character/classes/barbarian.md	/^#### Mindless Rage $/;"	h	line:124
+Minions of Chaos	character/classes/warlock.md	/^#### Minions of Chaos $/;"	h	line:192
+Minor Illusion	spellcasting/spells/minor_illusion.md	/^# Minor Illusion $/;"	h	line:9
+Minotaur	gamemaster_rules/monsters/minotaur.md	/^# Minotaur $/;"	h	line:5
+Minotaur Skeleton	gamemaster_rules/monsters/minotaur_skeleton.md	/^# Minotaur Skeleton$/;"	h	line:5
+Mirage Arcane	spellcasting/spells/mirage_arcane.md	/^# Mirage Arcane $/;"	h	line:8
+Mire the Mind	character/classes/warlock.md	/^#### Mire the Mind $/;"	h	line:197
+Mirror Image	spellcasting/spells/mirror_image.md	/^# Mirror Image $/;"	h	line:8
+Mirror of Life Trapping	gamemaster_rules/magic_items/mirror_of_life_trapping.md	/^# Mirror of Life Trapping $/;"	h	line:4
+Mislead	spellcasting/spells/mislead.md	/^# Mislead $/;"	h	line:7
+Misty Step	spellcasting/spells/misty_step.md	/^# Misty Step $/;"	h	line:8
+Misty Visions	character/classes/warlock.md	/^#### Misty Visions $/;"	h	line:202
+Mithral Armor	gamemaster_rules/magic_items/mithral_armor.md	/^# Mithral Armor $/;"	h	line:4
+Modifiers to the Roll	combat/making_an_attack.md	/^### Modifiers to the Roll $/;"	h	line:13
+Modify Memory	spellcasting/spells/modify_memory.md	/^# Modify Memory $/;"	h	line:7
+Monastic Tradition	character/classes/monk.md	/^### Monastic Tradition $/;"	h	line:85
+Monastic Traditions	character/classes/monk.md	/^## Monastic Traditions $/;"	h	line:146
+Monk	character/classes/monk.md	/^# Monk$/;"	h	line:1
+Monsters	gamemaster_rules/monsters.md	/^# Monsters $/;"	h	line:1
+Monsters and Death	combat/damage_and_healing.md	/^### Monsters and Death $/;"	h	line:67
+Moonbeam	spellcasting/spells/moonbeam.md	/^# Moonbeam $/;"	h	line:6
+Mountain	character/classes/druid.md	/^#### Mountain$/;"	h	line:175
+Mounted Combat	combat/mounted_combat.md	/^# Mounted Combat $/;"	h	line:1
+Mounting and Dismounting	combat/mounted_combat.md	/^## Mounting and Dismounting $/;"	h	line:5
+Mounts	adventuring/equipment/mounts_and_vehicles.md	/^## Mounts$/;"	h	line:10
+Mounts and Vehicles	adventuring/equipment/mounts_and_vehicles.md	/^# Mounts and Vehicles$/;"	h	line:1
+Move Earth	spellcasting/spells/move_earth.md	/^# Move Earth $/;"	h	line:8
+Movement	adventuring/movement.md	/^# Movement $/;"	h	line:1
+Movement and Position	combat/movement_and_position.md	/^# Movement and Position $/;"	h	line:1
+Moving Around Other Creatures	combat/movement_and_position.md	/^## Moving Around Other Creatures $/;"	h	line:51
+Moving between Attacks	combat/movement_and_position.md	/^### Moving between Attacks $/;"	h	line:9
+Mule	gamemaster_rules/monsters/mule.md	/^# Mule $/;"	h	line:5
+Multiattack	character/classes/ranger.md	/^#### Multiattack $/;"	h	line:167
+Multiattack	gamemaster_rules/monsters.md	/^### Multiattack $/;"	h	line:236
+Multiclass Spellcaster: Spell Slots per Spell Level	rules/multiclassing.md	/^#### Multiclass Spellcaster: Spell Slots per Spell Level$/;"	h	line:74
+Multiclassing	rules/multiclassing.md	/^# Multiclassing $/;"	h	line:1
+Multiclassing Proficiencies	rules/multiclassing.md	/^#### Multiclassing Proficiencies$/;"	h	line:37
+Multiple Items of the Same Kind	gamemaster_rules/magic_items.md	/^### Multiple Items of the Same Kind $/;"	h	line:16
+Mummy	gamemaster_rules/monsters/mummy.md	/^# Mummy $/;"	h	line:5
+Mummy Lord	gamemaster_rules/monsters/mummy_lord.md	/^# Mummy Lord $/;"	h	line:5
+Musical instrument	adventuring/equipment/tools.md	/^## Musical instrument$/;"	h	line:44
+Mystic Arcanum	character/classes/warlock.md	/^### Mystic Arcanum $/;"	h	line:106
+Nalfeshnee	gamemaster_rules/monsters/nalfeshnee.md	/^# Nalfeshnee $/;"	h	line:5
+Natural Explorer	character/classes/ranger.md	/^### Natural Explorer$/;"	h	line:57
+Natural Recovery	character/classes/druid.md	/^#### Natural Recovery $/;"	h	line:127
+Nature's Sanctuary	character/classes/druid.md	/^#### Nature's Sanctuary $/;"	h	line:198
+Nature's Ward	character/classes/druid.md	/^#### Nature's Ward $/;"	h	line:195
+Necklace of Adaptation	gamemaster_rules/magic_items/necklace_of_adaption.md	/^# Necklace of Adaptation $/;"	h	line:4
+Necklace of Fireballs	gamemaster_rules/magic_items/necklace_of_fireballs.md	/^# Necklace of Fireballs $/;"	h	line:4
+Necklace of Prayer Beads	gamemaster_rules/magic_items/necklace_of_prayer_beads.md	/^# Necklace of Prayer Beads $/;"	h	line:4
+Night Hag	gamemaster_rules/monsters/night_hag.md	/^# Night Hag $/;"	h	line:5
+Nightmare	gamemaster_rules/monsters/nightmare.md	/^# Nightmare $/;"	h	line:5
+Nine Lives Stealer	gamemaster_rules/magic_items/nine_lives_stealer.md	/^# Nine Lives Stealer $/;"	h	line:4
+Noble	gamemaster_rules/monsters/noble.md	/^# Noble $/;"	h	line:5
+Nondetection	spellcasting/spells/nondetection.md	/^# Nondetection $/;"	h	line:8
+Nonplayer Characters	gamemaster_rules/nonplayer_characters.md	/^# Nonplayer Characters $/;"	h	line:1
+Norse Deities	character/fantasy-historical_pantheons.md	/^### Norse Deities$/;"	h	line:78
+OPEN GAME LICENSE  Version  1.0a	license.md	/^## OPEN GAME LICENSE  Version  1.0a     $/;"	h	line:13
+Oath Spells	character/classes/paladin.md	/^#### Oath Spells $/;"	h	line:161
+Oath Spells	character/classes/paladin.md	/^#### Oath Spells$/;"	h	line:110
+Oath of Devotion	character/classes/paladin.md	/^### Oath of Devotion$/;"	h	line:149
+Oathbow	gamemaster_rules/magic_items/oathbow.md	/^# Oathbow $/;"	h	line:4
+Objects	gamemaster_rules/objects.md	/^# Objects $/;"	h	line:1
+Ochre Jelly	gamemaster_rules/monsters/ochre_jelly.md	/^# Ochre Jelly $/;"	h	line:5
+Octopus	gamemaster_rules/monsters/octopus.md	/^# Octopus $/;"	h	line:5
+Ogre	gamemaster_rules/monsters/ogre.md	/^# Ogre $/;"	h	line:5
+Ogre Zombie	gamemaster_rules/monsters/ogre_zombie.md	/^# Ogre Zombie $/;"	h	line:5
+Oil of Etherealness	gamemaster_rules/magic_items/oil_of_etherealness.md	/^# Oil of Etherealness $/;"	h	line:4
+Oil of Sharpness	gamemaster_rules/magic_items/oil_of_sharpness.md	/^# Oil of Sharpness $/;"	h	line:4
+Oil of Slipperiness	gamemaster_rules/magic_items/oil_of_slipperiness.md	/^# Oil of Slipperiness $/;"	h	line:4
+One with Shadows	character/classes/warlock.md	/^#### One with Shadows $/;"	h	line:205
+Oni	gamemaster_rules/monsters/oni.md	/^# Oni $/;"	h	line:5
+Open Hand Technique	character/classes/monk.md	/^#### Open Hand Technique $/;"	h	line:153
+Opportunity Attacks	combat/making_an_attack.md	/^### Opportunity Attacks $/;"	h	line:45
+Orb of Dragonkind	gamemaster_rules/magic_items/orb_of_dragonkind.md	/^# Orb of Dragonkind $/;"	h	line:4
+Orc	gamemaster_rules/monsters/orc.md	/^# Orc $/;"	h	line:5
+Other Activity on Your Turn	combat/order_of_combat.md	/^### Other Activity on Your Turn $/;"	h	line:33
+Other tools	adventuring/equipment/tools.md	/^## Other tools$/;"	h	line:58
+Otherworldly Leap	character/classes/warlock.md	/^#### Otherworldly Leap $/;"	h	line:210
+Otherworldly Patron	character/classes/warlock.md	/^### Otherworldly Patron $/;"	h	line:48
+Otherworldly Patrons	character/classes/warlock.md	/^## Otherworldly Patrons $/;"	h	line:251
+Otyugh	gamemaster_rules/monsters/otyugh.md	/^# Otyugh $/;"	h	line:5
+Outer Planes	adventuring/planes_of_existence.md	/^### Outer Planes $/;"	h	line:28
+Outer Planes	adventuring/planes_of_existence.md	/^#### Outer Planes $/;"	h	line:35
+Overchannel	character/classes/wizard.md	/^#### Overchannel $/;"	h	line:125
+Owl	gamemaster_rules/monsters/owl.md	/^# Owl $/;"	h	line:5
+Owlbear	gamemaster_rules/monsters/owlbear.md	/^# Owlbear $/;"	h	line:5
+Pact Boon	character/classes/warlock.md	/^### Pact Boon $/;"	h	line:84
+Pact Magic	character/classes/warlock.md	/^### Pact Magic $/;"	h	line:52
+Pact of the Blade	character/classes/warlock.md	/^#### Pact of the Blade $/;"	h	line:93
+Pact of the Chain	character/classes/warlock.md	/^#### Pact of the Chain $/;"	h	line:88
+Pact of the Tome	character/classes/warlock.md	/^#### Pact of the Tome $/;"	h	line:98
+Paired Items	gamemaster_rules/magic_items.md	/^### Paired Items $/;"	h	line:19
+Paladin	character/classes/paladin.md	/^# Paladin$/;"	h	line:1
+Panther	gamemaster_rules/monsters/panther.md	/^# Panther $/;"	h	line:5
+Paralyzed	rules/conditions.md	/^### Paralyzed$/;"	h	line:52
+Pass without Trace	spellcasting/spells/pass_without_trace.md	/^# Pass without Trace $/;"	h	line:7
+Passive Checks	rules/abilities/ability_checks.md	/^## Passive Checks $/;"	h	line:61
+Passwall	spellcasting/spells/passwall.md	/^# Passwall $/;"	h	line:6
+Path of the Berserker	character/classes/barbarian.md	/^## Path of the Berserker $/;"	h	line:117
+Patient Defense	character/classes/monk.md	/^#### Patient Defense $/;"	h	line:74
+Pearl of Power	gamemaster_rules/magic_items/pearl_of_power.md	/^# Pearl of Power $/;"	h	line:4
+Peerless Skill	character/classes/bard.md	/^#### Peerless Skill $/;"	h	line:139
+Pegasus	gamemaster_rules/monsters/pegasus.md	/^# Pegasus $/;"	h	line:5
+Perfect Self	character/classes/monk.md	/^### Perfect Self $/;"	h	line:142
+Periapt of Health	gamemaster_rules/magic_items/periapt_of_health.md	/^# Periapt of Health $/;"	h	line:4
+Periapt of Proof against Poison	gamemaster_rules/magic_items/periapt_of_proof_against_poison.md	/^# Periapt of Proof against Poison $/;"	h	line:4
+Periapt of Wound Closure	gamemaster_rules/magic_items/periapt_of_wound_closure.md	/^# Periapt of Wound Closure $/;"	h	line:4
+Persistent Rage	character/classes/barbarian.md	/^### Persistent Rage $/;"	h	line:105
+Petrified	rules/conditions.md	/^### Petrified$/;"	h	line:57
+Phantasmal Killer	spellcasting/spells/phantasmal_killer.md	/^# Phantasmal Killer $/;"	h	line:6
+Phantom Steed	spellcasting/spells/phantom_steed.md	/^# Phantom Steed $/;"	h	line:6
+Phase Spider	gamemaster_rules/monsters/phase_spider.md	/^# Phase Spider $/;"	h	line:5
+Philter of Love	gamemaster_rules/magic_items/philter_of_love.md	/^# Philter of Love $/;"	h	line:4
+Pipes of Haunting	gamemaster_rules/magic_items/pipes_of_haunting.md	/^# Pipes of Haunting $/;"	h	line:4
+Pipes of the Sewers	gamemaster_rules/magic_items/pipes_of_the_sewers.md	/^# Pipes of the Sewers $/;"	h	line:4
+Pit Fiend	gamemaster_rules/monsters/pit_fiend.md	/^# Pit Fiend $/;"	h	line:5
+Pits	gamemaster_rules/traps.md	/^### Pits $/;"	h	line:74
+Planar Ally	spellcasting/spells/planar_ally.md	/^# Planar Ally $/;"	h	line:6
+Planar Binding	spellcasting/spells/planar_binding.md	/^# Planar Binding $/;"	h	line:9
+Planar Travel	adventuring/planes_of_existence.md	/^### Planar Travel $/;"	h	line:12
+Plane Shift	spellcasting/spells/plane_shift.md	/^# Plane Shift $/;"	h	line:10
+Planetar	gamemaster_rules/monsters/planetar.md	/^# Planetar $/;"	h	line:5
+Plant Growth	spellcasting/spells/plant_growth.md	/^# Plant Growth $/;"	h	line:8
+Plate Armor of Etherealness	gamemaster_rules/magic_items/plate_armor_of_etherealness.md	/^# Plate Armor of Etherealness $/;"	h	line:4
+Plesiosaurus	gamemaster_rules/monsters/plesiosaurus.md	/^# Plesiosaurus $/;"	h	line:5
+Poison Darts	gamemaster_rules/traps.md	/^### Poison Darts $/;"	h	line:88
+Poison Needle	gamemaster_rules/traps.md	/^### Poison Needle $/;"	h	line:95
+Poison Spray	spellcasting/spells/poison_spray.md	/^# Poison Spray $/;"	h	line:9
+Poisoned	rules/conditions.md	/^### Poisoned$/;"	h	line:66
+Poisonous Snake	gamemaster_rules/monsters/poisonous_snake.md	/^# Poisonous Snake $/;"	h	line:5
+Poisons	gamemaster_rules/poisons.md	/^# Poisons $/;"	h	line:1
+Polar Bear	gamemaster_rules/monsters/polar_bear.md	/^# Polar Bear $/;"	h	line:5
+Polymorph	spellcasting/spells/polymorph.md	/^# Polymorph $/;"	h	line:9
+Pony	gamemaster_rules/monsters/pony.md	/^# Pony $/;"	h	line:5
+Portable Hole	gamemaster_rules/magic_items/portable_hole.md	/^# Portable Hole $/;"	h	line:4
+Potent Cantrip	character/classes/wizard.md	/^#### Potent Cantrip $/;"	h	line:119
+Potion of Animal Friendship	gamemaster_rules/magic_items/potion_of_animal_friendship.md	/^# Potion of Animal Friendship $/;"	h	line:4
+Potion of Clairvoyance	gamemaster_rules/magic_items/potion_of_clairvoyance.md	/^# Potion of Clairvoyance $/;"	h	line:4
+Potion of Climbing	gamemaster_rules/magic_items/potion_of_climbing.md	/^# Potion of Climbing $/;"	h	line:4
+Potion of Diminution	gamemaster_rules/magic_items/potion_of_diminution.md	/^# Potion of Diminution $/;"	h	line:4
+Potion of Flying	gamemaster_rules/magic_items/potion_of_flying.md	/^# Potion of Flying $/;"	h	line:4
+Potion of Gaseous Form	gamemaster_rules/magic_items/potion_of_gaseous_form.md	/^# Potion of Gaseous Form $/;"	h	line:4
+Potion of Giant Strength	gamemaster_rules/magic_items/potion_of_giant_strength.md	/^# Potion of Giant Strength $/;"	h	line:4
+Potion of Growth	gamemaster_rules/magic_items/potion_of_growth.md	/^# Potion of Growth $/;"	h	line:4
+Potion of Healing	gamemaster_rules/magic_items/potion_of_healing.md	/^# Potion of Healing $/;"	h	line:4
+Potion of Heroism	gamemaster_rules/magic_items/potion_of_heroism.md	/^# Potion of Heroism $/;"	h	line:4
+Potion of Invisibility	gamemaster_rules/magic_items/potion_of_invisibility.md	/^# Potion of Invisibility $/;"	h	line:4
+Potion of Mind Reading	gamemaster_rules/magic_items/potion_of_mind_reading.md	/^# Potion of Mind Reading $/;"	h	line:4
+Potion of Poison	gamemaster_rules/magic_items/potion_of_poison.md	/^# Potion of Poison $/;"	h	line:4
+Potion of Resistance	gamemaster_rules/magic_items/potion_of_resistance.md	/^# Potion of Resistance $/;"	h	line:4
+Potion of Speed	gamemaster_rules/magic_items/potion_of_speed.md	/^# Potion of Speed $/;"	h	line:4
+Potions of Healing	gamemaster_rules/magic_items/potion_of_healing.md	/^### Potions of Healing$/;"	h	line:9
+Power Word Kill	spellcasting/spells/power_word_kill.md	/^# Power Word Kill $/;"	h	line:9
+Power Word Stun	spellcasting/spells/power_word_stun.md	/^# Power Word Stun $/;"	h	line:9
+Practicing a Profession	adventuring/between_adventures.md	/^### Practicing a Profession $/;"	h	line:19
+Prayer of Healing	spellcasting/spells/prayer_of_healing.md	/^# Prayer of Healing $/;"	h	line:6
+Precipitation	spellcasting/spells/control_weather.md	/^### Precipitation $/;"	h	line:20
+Preparing and Casting Spells	character/classes/cleric.md	/^#### Preparing and Casting Spells$/;"	h	line:57
+Preparing and Casting Spells	character/classes/druid.md	/^#### Preparing and Casting Spells $/;"	h	line:59
+Preparing and Casting Spells	character/classes/paladin.md	/^#### Preparing and Casting Spells $/;"	h	line:81
+Preparing and Casting Spells	character/classes/wizard.md	/^#### Preparing and Casting Spells $/;"	h	line:58
+Prerequisites	rules/multiclassing.md	/^## Prerequisites$/;"	h	line:6
+Prestidigitation	spellcasting/spells/prestidigitation.md	/^# Prestidigitation $/;"	h	line:9
+Priest	gamemaster_rules/monsters/priest.md	/^# Priest $/;"	h	line:5
+Primal Champion	character/classes/barbarian.md	/^### Primal Champion$/;"	h	line:113
+Primal Path	character/classes/barbarian.md	/^### Primal Path $/;"	h	line:74
+Primeval Awareness	character/classes/ranger.md	/^### Primeval Awareness$/;"	h	line:110
+Prismatic Spray	spellcasting/spells/prismatic_spray.md	/^# Prismatic Spray $/;"	h	line:7
+Prismatic Wall	spellcasting/spells/prismatic_wall.md	/^# Prismatic Wall $/;"	h	line:6
+Private Sanctum	spellcasting/spells/private_sanctum.md	/^# Private Sanctum $/;"	h	line:6
+Produce Flame	spellcasting/spells/produce_flame.md	/^# Produce Flame $/;"	h	line:6
+Proficiencies	character/backgrounds.md	/^### Proficiencies $/;"	h	line:6
+Proficiencies	character/classes/barbarian.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/bard.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/cleric.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/druid.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/fighter.md	/^### Proficiencies$/;"	h	line:35
+Proficiencies	character/classes/monk.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/paladin.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/ranger.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/rogue.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/sorcerer.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/warlock.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	character/classes/wizard.md	/^### Proficiencies$/;"	h	line:34
+Proficiencies	rules/multiclassing.md	/^## Proficiencies $/;"	h	line:34
+Proficiency Bonus	rules/multiclassing.md	/^## Proficiency Bonus $/;"	h	line:31
+Proficiency Bonus	rules/proficiency_bonus.md	/^# Proficiency Bonus $/;"	h	line:1
+Proficiency Bonus by Challenge Rating	gamemaster_rules/monsters.md	/^### Proficiency Bonus by Challenge Rating$/;"	h	line:90
+Programmed Illusion	spellcasting/spells/programmed_illusion.md	/^# Programmed Illusion $/;"	h	line:7
+Project Image	spellcasting/spells/project_image.md	/^# Project Image $/;"	h	line:7
+Prone	rules/conditions.md	/^### Prone$/;"	h	line:69
+Protection	character/classes/fighter.md	/^#### Protection $/;"	h	line:66
+Protection	character/classes/paladin.md	/^#### Protection $/;"	h	line:74
+Protection from Energy	spellcasting/spells/protection_from_energy.md	/^# Protection from Energy $/;"	h	line:10
+Protection from Evil and Good	spellcasting/spells/protection_from_evil_and_good.md	/^# Protection from Evil and Good $/;"	h	line:9
+Protection from Poison	spellcasting/spells/protection_from_poison.md	/^# Protection from Poison $/;"	h	line:9
+Pseudodragon	gamemaster_rules/monsters/pseudodragon.md	/^# Pseudodragon $/;"	h	line:5
+Psionics	gamemaster_rules/monsters.md	/^### Psionics $/;"	h	line:224
+Purify Food and Drink	spellcasting/spells/purify_food_and_drink.md	/^# Purify Food and Drink $/;"	h	line:8
+Purity of Body	character/classes/monk.md	/^### Purity of Body $/;"	h	line:122
+Purity of Spirit	character/classes/paladin.md	/^#### Purity of Spirit $/;"	h	line:184
+Purple Worm	gamemaster_rules/monsters/purple_worm.md	/^# Purple Worm $/;"	h	line:5
+Quasit	gamemaster_rules/monsters/quasit.md	/^# Quasit $/;"	h	line:5
+Quickened Spell	character/classes/sorcerer.md	/^#### Quickened Spell $/;"	h	line:124
+Quipper	gamemaster_rules/monsters/quipper.md	/^# Quipper $/;"	h	line:5
+Quivering Palm	character/classes/monk.md	/^#### Quivering Palm $/;"	h	line:166
+Rage	character/classes/barbarian.md	/^### Rage $/;"	h	line:48
+Raise Dead	spellcasting/spells/raise_dead.md	/^# Raise Dead $/;"	h	line:8
+Rakshasa	gamemaster_rules/monsters/rakshasa.md	/^# Rakshasa $/;"	h	line:5
+Random Properties.	gamemaster_rules/magic_items/orb_of_dragonkind.md	/^### Random Properties. $/;"	h	line:14
+Range	combat/making_an_attack.md	/^### Range $/;"	h	line:32
+Range	spellcasting/casting_a_spell.md	/^## Range $/;"	h	line:17
+Ranged Attacks	combat/making_an_attack.md	/^## Ranged Attacks $/;"	h	line:29
+Ranged Attacks in Close Combat	combat/making_an_attack.md	/^### Ranged Attacks in Close Combat $/;"	h	line:37
+Ranger	character/classes/ranger.md	/^# Ranger$/;"	h	line:1
+Ranger Archetype	character/classes/ranger.md	/^### Ranger Archetype $/;"	h	line:106
+Ranger Archetypes	character/classes/ranger.md	/^## Ranger Archetypes $/;"	h	line:145
+Rat	gamemaster_rules/monsters/rat.md	/^# Rat $/;"	h	line:5
+Raven	gamemaster_rules/monsters/raven.md	/^# Raven $/;"	h	line:5
+Ray of Enfeeblement	spellcasting/spells/ray_of_enfeeblement.md	/^# Ray of Enfeeblement $/;"	h	line:7
+Ray of Frost	spellcasting/spells/ray_of_frost.md	/^# Ray of Frost $/;"	h	line:7
+Reactions	combat/order_of_combat.md	/^## Reactions $/;"	h	line:40
+Reactions	gamemaster_rules/monsters.md	/^## Reactions $/;"	h	line:242
+Reactions	gamemaster_rules/monsters/bandit_captain.md	/^### Reactions $/;"	h	line:27
+Reactions	gamemaster_rules/monsters/black_pudding.md	/^### Reactions $/;"	h	line:30
+Reactions	gamemaster_rules/monsters/chain_devil.md	/^### Reactions $/;"	h	line:33
+Reactions	gamemaster_rules/monsters/erinyes.md	/^### Reactions $/;"	h	line:32
+Reactions	gamemaster_rules/monsters/gladiator.md	/^### Reactions $/;"	h	line:30
+Reactions	gamemaster_rules/monsters/knight.md	/^### Reactions $/;"	h	line:29
+Reactions	gamemaster_rules/monsters/marilith.md	/^### Reactions $/;"	h	line:34
+Reactions	gamemaster_rules/monsters/noble.md	/^### Reactions $/;"	h	line:24
+Reactions	gamemaster_rules/monsters/ochre_jelly.md	/^### Reactions $/;"	h	line:29
+Reactions	gamemaster_rules/monsters/shield_guardian.md	/^### Reactions $/;"	h	line:30
+Reactions	gamemaster_rules/monsters/shrieker.md	/^### Reactions $/;"	h	line:23
+Reactions	gamemaster_rules/monsters/stone_giant.md	/^### Reactions $/;"	h	line:28
+Reactions	spellcasting/casting_a_spell.md	/^### Reactions $/;"	h	line:11
+Ready	combat/actions_in_combat.md	/^## Ready $/;"	h	line:30
+Reckless Attack	character/classes/barbarian.md	/^### Reckless Attack $/;"	h	line:65
+Recuperating	adventuring/between_adventures.md	/^### Recuperating $/;"	h	line:24
+Red Dragon Wyrmling	gamemaster_rules/monsters/red_dragon_wyrmling.md	/^# Red Dragon Wyrmling $/;"	h	line:5
+Reef Shark	gamemaster_rules/monsters/reef_shark.md	/^# Reef Shark $/;"	h	line:5
+Regenerate	spellcasting/spells/regenerate.md	/^# Regenerate $/;"	h	line:8
+Regional Effects	gamemaster_rules/legendary_creatures.md	/^## Regional Effects $/;"	h	line:13
+Reincarnate	spellcasting/spells/reincarnate.md	/^# Reincarnate $/;"	h	line:6
+Relentless Rage	character/classes/barbarian.md	/^### Relentless Rage $/;"	h	line:100
+Reliable Talent	character/classes/rogue.md	/^### Reliable Talent $/;"	h	line:85
+Remarkable Athlete	character/classes/fighter.md	/^#### Remarkable Athlete $/;"	h	line:106
+Remorhaz	gamemaster_rules/monsters/remorhaz.md	/^# Remorhaz $/;"	h	line:5
+Remove Curse	spellcasting/spells/remove_curse.md	/^# Remove Curse $/;"	h	line:9
+Repelling Blast	character/classes/warlock.md	/^#### Repelling Blast $/;"	h	line:215
+Researching	adventuring/between_adventures.md	/^### Researching $/;"	h	line:31
+Resilient Sphere	spellcasting/spells/resilient_sphere.md	/^# Resilient Sphere $/;"	h	line:6
+Resistance	spellcasting/spells/resistance.md	/^# Resistance $/;"	h	line:7
+Resting	adventuring/resting.md	/^# Resting $/;"	h	line:1
+Restorative Ointment	gamemaster_rules/magic_items/restorative_ointment.md	/^# Restorative Ointment $/;"	h	line:4
+Restrained	rules/conditions.md	/^### Restrained$/;"	h	line:74
+Resurrection	spellcasting/spells/resurrection.md	/^# Resurrection $/;"	h	line:7
+Retaliation	character/classes/barbarian.md	/^#### Retaliation $/;"	h	line:131
+Reverse Gravity	spellcasting/spells/reverse_gravity.md	/^# Reverse Gravity $/;"	h	line:8
+Revivify	spellcasting/spells/revivify.md	/^# Revivify $/;"	h	line:7
+Rhinoceros	gamemaster_rules/monsters/rhinoceros.md	/^# Rhinoceros $/;"	h	line:5
+Riding Horse	gamemaster_rules/monsters/riding_horse.md	/^# Riding Horse $/;"	h	line:5
+Ring of Animal Influence	gamemaster_rules/magic_items/ring_of_animal_influence.md	/^# Ring of Animal Influence $/;"	h	line:4
+Ring of Djinni Summoning	gamemaster_rules/magic_items/ring_of_djinni.md	/^# Ring of Djinni Summoning $/;"	h	line:4
+Ring of Elemental Command	gamemaster_rules/magic_items/ring_of_elemental_command.md	/^# Ring of Elemental Command $/;"	h	line:4
+Ring of Evasion	gamemaster_rules/magic_items/ring_of_evasion.md	/^# Ring of Evasion $/;"	h	line:4
+Ring of Feather Falling	gamemaster_rules/magic_items/ring_of_feather_falling.md	/^# Ring of Feather Falling $/;"	h	line:4
+Ring of Free Action	gamemaster_rules/magic_items/ring_of_free_action.md	/^# Ring of Free Action $/;"	h	line:4
+Ring of Invisibility	gamemaster_rules/magic_items/ring_of_invisibility.md	/^# Ring of Invisibility $/;"	h	line:4
+Ring of Jumping	gamemaster_rules/magic_items/ring_of_jumping.md	/^# Ring of Jumping $/;"	h	line:4
+Ring of Mind Shielding	gamemaster_rules/magic_items/ring_of_mind_shielding.md	/^# Ring of Mind Shielding $/;"	h	line:4
+Ring of Protection	gamemaster_rules/magic_items/ring_of_protection.md	/^# Ring of Protection $/;"	h	line:4
+Ring of Regeneration	gamemaster_rules/magic_items/ring_of_regeneration.md	/^# Ring of Regeneration $/;"	h	line:4
+Ring of Resistance	gamemaster_rules/magic_items/ring_of_resistance.md	/^# Ring of Resistance $/;"	h	line:4
+Ring of Shooting Stars	gamemaster_rules/magic_items/ring_of_shooting_stars.md	/^# Ring of Shooting Stars $/;"	h	line:4
+Ring of Spell Storing	gamemaster_rules/magic_items/ring_of_spell_storing.md	/^# Ring of Spell Storing $/;"	h	line:4
+Ring of Spell Turning	gamemaster_rules/magic_items/ring_of_spell_turning.md	/^# Ring of Spell Turning $/;"	h	line:4
+Ring of Swimming	gamemaster_rules/magic_items/ring_of_swimming.md	/^# Ring of Swimming $/;"	h	line:4
+Ring of Telekinesis	gamemaster_rules/magic_items/ring_of_telekinesis.md	/^# Ring of Telekinesis $/;"	h	line:4
+Ring of Three Wishes	gamemaster_rules/magic_items/ring_of_three_wishes.md	/^# Ring of Three Wishes $/;"	h	line:4
+Ring of Warmth	gamemaster_rules/magic_items/ring_of_warmth.md	/^# Ring of Warmth $/;"	h	line:4
+Ring of Water Walking	gamemaster_rules/magic_items/ring_of_water_walking.md	/^# Ring of Water Walking $/;"	h	line:4
+Ring of X-ray Vision	gamemaster_rules/magic_items/ring_of_x_ray_vision.md	/^# Ring of X-ray Vision $/;"	h	line:4
+Ring of the Ram	gamemaster_rules/magic_items/ring_of_the_ram.md	/^# Ring of the Ram $/;"	h	line:4
+Ritual Casting	character/classes/bard.md	/^#### Ritual Casting$/;"	h	line:72
+Ritual Casting	character/classes/cleric.md	/^#### Ritual Casting $/;"	h	line:69
+Ritual Casting	character/classes/druid.md	/^#### Ritual Casting $/;"	h	line:72
+Ritual Casting	character/classes/wizard.md	/^#### Ritual Casting $/;"	h	line:71
+Rituals	spellcasting/what_is_a_spell.md	/^## Rituals $/;"	h	line:30
+Robe of Eyes	gamemaster_rules/magic_items/robe_of_eyes.md	/^# Robe of Eyes $/;"	h	line:4
+Robe of Scintillating Colors	gamemaster_rules/magic_items/robe_of_scintillating_colors.md	/^# Robe of Scintillating Colors $/;"	h	line:4
+Robe of Stars	gamemaster_rules/magic_items/robe_of_stars.md	/^# Robe of Stars $/;"	h	line:4
+Robe of Useful Items	gamemaster_rules/magic_items/robe_of_useful_items.md	/^# Robe of Useful Items $/;"	h	line:4
+Robe of the Archmagi	gamemaster_rules/magic_items/robe_of_the_archmagi.md	/^# Robe of the Archmagi $/;"	h	line:4
+Roc	gamemaster_rules/monsters/roc.md	/^# Roc $/;"	h	line:5
+Rock Gnome	character/races/gnome.md	/^## Rock Gnome $/;"	h	line:20
+Rod of Absorption	gamemaster_rules/magic_items/rod_of_absorption.md	/^# Rod of Absorption $/;"	h	line:4
+Rod of Alertness	gamemaster_rules/magic_items/rod_of_alertness.md	/^# Rod of Alertness $/;"	h	line:4
+Rod of Lordly Might	gamemaster_rules/magic_items/rod_of_lordly_might.md	/^# Rod of Lordly Might $/;"	h	line:4
+Rod of Rulership	gamemaster_rules/magic_items/rod_of_rulership.md	/^# Rod of Rulership $/;"	h	line:4
+Rod of Security	gamemaster_rules/magic_items/rod_of_security.md	/^# Rod of Security $/;"	h	line:4
+Rogue	character/classes/rogue.md	/^# Rogue$/;"	h	line:1
+Roguish Archetype	character/classes/rogue.md	/^### Roguish Archetype$/;"	h	line:69
+Roguish Archetypes	character/classes/rogue.md	/^## Roguish Archetypes $/;"	h	line:105
+Rolling 1 or 20	combat/making_an_attack.md	/^### Rolling 1 or 20 $/;"	h	line:19
+Rolling Sphere	gamemaster_rules/traps.md	/^### Rolling Sphere $/;"	h	line:102
+Rope Trick	spellcasting/spells/rope_trick.md	/^# Rope Trick $/;"	h	line:6
+Rope of Climbing	gamemaster_rules/magic_items/rope_of_climbing.md	/^# Rope of Climbing $/;"	h	line:4
+Rope of Entanglement	gamemaster_rules/magic_items/rope_of_entanglement.md	/^# Rope of Entanglement $/;"	h	line:4
+Roper	gamemaster_rules/monsters/roper.md	/^# Roper $/;"	h	line:5
+Rug of Smothering	gamemaster_rules/monsters/rug_of_smothering.md	/^# Rug of Smothering $/;"	h	line:5
+Rules	index.md	/^### Rules$/;"	h	line:41
+Rust Bag of Tricks	gamemaster_rules/magic_items/bag_of_tricks.md	/^### Rust Bag of Tricks$/;"	h	line:25
+Rust Monster	gamemaster_rules/monsters/rust_monster.md	/^# Rust Monster $/;"	h	line:5
+Saber-Toothed Tiger	gamemaster_rules/monsters/saber_toothed_tiger.md	/^# Saber-Toothed Tiger $/;"	h	line:5
+Sacred Flame	spellcasting/spells/sacred_flame.md	/^# Sacred Flame $/;"	h	line:6
+Sacred Oath	character/classes/paladin.md	/^### Sacred Oath$/;"	h	line:105
+Sacred Oaths	character/classes/paladin.md	/^## Sacred Oaths $/;"	h	line:146
+Saddles	adventuring/equipment/mounts_and_vehicles.md	/^## Saddles$/;"	h	line:36
+Sahuagin	gamemaster_rules/monsters/sahuagin.md	/^# Sahuagin $/;"	h	line:5
+Salamander	gamemaster_rules/monsters/salamander.md	/^# Salamander $/;"	h	line:5
+Sample Diseases	gamemaster_rules/diseases.md	/^## Sample Diseases $/;"	h	line:6
+Sample Poisons	gamemaster_rules/poisons.md	/^## Sample Poisons $/;"	h	line:27
+Sample Traps	gamemaster_rules/traps.md	/^## Sample Traps $/;"	h	line:47
+Sanctuary	spellcasting/spells/sanctuary.md	/^# Sanctuary $/;"	h	line:6
+Satyr	gamemaster_rules/monsters/satyr.md	/^# Satyr $/;"	h	line:5
+Saving Throws	gamemaster_rules/monsters.md	/^## Saving Throws $/;"	h	line:86
+Saving Throws	rules/abilities/saving_throws.md	/^# Saving Throws $/;"	h	line:1
+Saving Throws	spellcasting/casting_a_spell.md	/^## Saving Throws $/;"	h	line:87
+Scarab of Protection	gamemaster_rules/magic_items/scarab_of_protection.md	/^# Scarab of Protection $/;"	h	line:4
+School of Evocation	character/classes/wizard.md	/^### School of Evocation $/;"	h	line:109
+Scimitar of Speed	gamemaster_rules/magic_items/scimitar_of_speed.md	/^# Scimitar of Speed $/;"	h	line:4
+Scorching Ray	spellcasting/spells/scorching_ray.md	/^# Scorching Ray $/;"	h	line:7
+Scorpion	gamemaster_rules/monsters/scorpion.md	/^# Scorpion $/;"	h	line:6
+Scout	gamemaster_rules/monsters/scout.md	/^# Scout $/;"	h	line:5
+Scrying	spellcasting/spells/scrying.md	/^# Scrying $/;"	h	line:10
+Sculpt Spells	character/classes/wizard.md	/^#### Sculpt Spells $/;"	h	line:116
+Sculptor of Flesh	character/classes/warlock.md	/^#### Sculptor of Flesh $/;"	h	line:218
+Sea Hag	gamemaster_rules/monsters/sea_hag.md	/^# Sea Hag $/;"	h	line:5
+Sea Horse	gamemaster_rules/monsters/sea_horse.md	/^# Sea Horse $/;"	h	line:5
+Search	combat/actions_in_combat.md	/^## Search $/;"	h	line:36
+Search the SRD	search.md	/^# Search the SRD$/;"	h	line:1
+Second Wind	character/classes/fighter.md	/^### Second Wind$/;"	h	line:72
+Second-Story Work	character/classes/rogue.md	/^#### Second-Story Work $/;"	h	line:115
+Secret Chest	spellcasting/spells/secret_chest.md	/^# Secret Chest $/;"	h	line:6
+See Invisibility	spellcasting/spells/see_invisibility.md	/^# See Invisibility $/;"	h	line:8
+Seeming	spellcasting/spells/seeming.md	/^# Seeming $/;"	h	line:8
+Self-Sufficiency	rules/expenses.md	/^### Self-Sufficiency$/;"	h	line:27
+Selling Treasure	adventuring/equipment/selling_treasure.md	/^# Selling Treasure $/;"	h	line:1
+Sending	spellcasting/spells/sending.md	/^# Sending $/;"	h	line:8
+Senses	gamemaster_rules/monsters.md	/^## Senses $/;"	h	line:139
+Senses	gamemaster_rules/sentient_magical_items.md	/^### Senses $/;"	h	line:22
+Sentient Magic Items	gamemaster_rules/sentient_magical_items.md	/^# Sentient Magic Items $/;"	h	line:1
+Sequester	spellcasting/spells/sequester.md	/^# Sequester $/;"	h	line:6
+Services	rules/expenses.md	/^## Services $/;"	h	line:58
+Sewer Plague	gamemaster_rules/diseases.md	/^### Sewer Plague $/;"	h	line:16
+Shadow	gamemaster_rules/monsters/shadow.md	/^# Shadow $/;"	h	line:5
+Shambling Mound	gamemaster_rules/monsters/shambling_mound.md	/^# Shambling Mound $/;"	h	line:5
+Shapechange	spellcasting/spells/shapechange.md	/^# Shapechange $/;"	h	line:7
+Shatter	spellcasting/spells/shatter.md	/^# Shatter $/;"	h	line:9
+Shield	spellcasting/spells/shield.md	/^# Shield $/;"	h	line:7
+Shield Guardian	gamemaster_rules/monsters/shield_guardian.md	/^# Shield Guardian $/;"	h	line:5
+Shield of Faith	spellcasting/spells/shield_of_faith.md	/^# Shield of Faith $/;"	h	line:7
+Shield of Missile Attraction	gamemaster_rules/magic_items/shield_of_missile_attraction.md	/^# Shield of Missile Attraction $/;"	h	line:4
+Shield, +1, +2, or +3	gamemaster_rules/magic_items/shield_1_2_or_3.md	/^# Shield, +1, +2, or +3 $/;"	h	line:4
+Shillelagh	spellcasting/spells/shillelagh.md	/^# Shillelagh $/;"	h	line:6
+Shocking Grasp	spellcasting/spells/shocking_grasp.md	/^# Shocking Grasp $/;"	h	line:7
+Short Rest	adventuring/resting.md	/^## Short Rest $/;"	h	line:5
+Short-Term Madness	gamemaster_rules/madness.md	/^### Short-Term Madness$/;"	h	line:14
+Shoving a Creature	combat/making_an_attack.md	/^### Shoving a Creature $/;"	h	line:63
+Shrieker	gamemaster_rules/monsters/shrieker.md	/^# Shrieker $/;"	h	line:5
+Sight Rot	gamemaster_rules/diseases.md	/^### Sight Rot $/;"	h	line:22
+Sign of Ill Omen	character/classes/warlock.md	/^#### Sign of Ill Omen $/;"	h	line:223
+Signature Spells	character/classes/wizard.md	/^### Signature Spells $/;"	h	line:100
+Silence	spellcasting/spells/silence.md	/^# Silence $/;"	h	line:8
+Silent Image	spellcasting/spells/silent_image.md	/^# Silent Image $/;"	h	line:8
+Silver Dragon Wyrmling	gamemaster_rules/monsters/silver_dragon_wyrmling.md	/^# Silver Dragon Wyrmling $/;"	h	line:5
+Silvered Weapons	adventuring/equipment/weapons.md	/^## Silvered Weapons $/;"	h	line:29
+Simulacrum	spellcasting/spells/simulacrum.md	/^# Simulacrum $/;"	h	line:6
+Size	gamemaster_rules/monsters.md	/^## Size $/;"	h	line:4
+Size Categories	gamemaster_rules/monsters.md	/^### Size Categories$/;"	h	line:6
+Skeleton	gamemaster_rules/monsters/skeleton.md	/^# Skeleton $/;"	h	line:5
+Skills	gamemaster_rules/monsters.md	/^## Skills $/;"	h	line:128
+Skills	rules/abilities/ability_checks.md	/^## Skills $/;"	h	line:22
+Sleep	spellcasting/spells/sleep.md	/^# Sleep $/;"	h	line:8
+Sleet Storm	spellcasting/spells/sleet_storm.md	/^# Sleet Storm $/;"	h	line:8
+Slippers of Spider Climbing	gamemaster_rules/magic_items/slippers_of_spider_climbing.md	/^# Slippers of Spider Climbing $/;"	h	line:4
+Slippery Mind	character/classes/rogue.md	/^### Slippery Mind $/;"	h	line:93
+Slow	spellcasting/spells/slow.md	/^# Slow $/;"	h	line:7
+Slow Fall	character/classes/monk.md	/^### Slow Fall $/;"	h	line:98
+Sneak Attack	character/classes/rogue.md	/^### Sneak Attack $/;"	h	line:54
+Solar	gamemaster_rules/monsters/solar.md	/^# Solar $/;"	h	line:5
+Somatic (S)	spellcasting/casting_a_spell.md	/^### Somatic (S) $/;"	h	line:29
+Song of Rest	character/classes/bard.md	/^### Song of Rest $/;"	h	line:89
+Sorcerer	character/classes/sorcerer.md	/^# Sorcerer$/;"	h	line:1
+Sorcerous Origin	character/classes/sorcerer.md	/^### Sorcerous Origin$/;"	h	line:75
+Sorcerous Origins	character/classes/sorcerer.md	/^## Sorcerous Origins $/;"	h	line:142
+Sorcerous Restoration	character/classes/sorcerer.md	/^### Sorcerous Restoration $/;"	h	line:138
+Sorcery Points	character/classes/sorcerer.md	/^#### Sorcery Points $/;"	h	line:84
+Sovereign Glue	gamemaster_rules/magic_items/sovereign_glue.md	/^# Sovereign Glue $/;"	h	line:4
+Space	combat/movement_and_position.md	/^### Space $/;"	h	line:73
+Spare the Dying	spellcasting/spells/spare_the_dying.md	/^# Spare the Dying $/;"	h	line:6
+Speak with Animals	spellcasting/spells/speak_with_animals.md	/^# Speak with Animals $/;"	h	line:8
+Speak with Dead	spellcasting/spells/speak_with_dead.md	/^# Speak with Dead $/;"	h	line:7
+Speak with Plants	spellcasting/spells/speak_with_plants.md	/^# Speak with Plants $/;"	h	line:8
+Special Purpose	gamemaster_rules/sentient_magical_items.md	/^### Special Purpose $/;"	h	line:47
+Special Traits	gamemaster_rules/monsters.md	/^## Special Traits $/;"	h	line:210
+Special Types of Movement	adventuring/movement.md	/^## Special Types of Movement $/;"	h	line:27
+Special Weapons	adventuring/equipment/weapons.md	/^## Special Weapons $/;"	h	line:32
+Specter	gamemaster_rules/monsters/specter.md	/^# Specter $/;"	h	line:5
+Speed	adventuring/movement.md	/^## Speed $/;"	h	line:6
+Speed	gamemaster_rules/monsters.md	/^## Speed $/;"	h	line:67
+Spell Level	spellcasting/what_is_a_spell.md	/^## Spell Level $/;"	h	line:6
+Spell Mastery	character/classes/wizard.md	/^### Spell Mastery $/;"	h	line:95
+Spell Scroll	gamemaster_rules/magic_items/spell_scroll.md	/^# Spell Scroll $/;"	h	line:4
+Spell Scroll	gamemaster_rules/magic_items/spell_scroll.md	/^### Spell Scroll$/;"	h	line:12
+Spell Slots	character/classes/bard.md	/^#### Spell Slots $/;"	h	line:56
+Spell Slots	character/classes/ranger.md	/^#### Spell Slots $/;"	h	line:91
+Spell Slots	character/classes/sorcerer.md	/^#### Spell Slots $/;"	h	line:56
+Spell Slots	character/classes/warlock.md	/^#### Spell Slots $/;"	h	line:59
+Spell Slots	spellcasting/what_is_a_spell.md	/^## Spell Slots $/;"	h	line:14
+Spellbook	character/classes/wizard.md	/^#### Spellbook $/;"	h	line:55
+Spellcasting	character/classes/bard.md	/^### Spellcasting $/;"	h	line:49
+Spellcasting	character/classes/cleric.md	/^### Spellcasting$/;"	h	line:50
+Spellcasting	character/classes/cleric.md	/^#### Spellcasting $/;"	h	line:72
+Spellcasting	character/classes/druid.md	/^### Spellcasting $/;"	h	line:52
+Spellcasting	character/classes/paladin.md	/^### Spellcasting $/;"	h	line:77
+Spellcasting	character/classes/ranger.md	/^### Spellcasting $/;"	h	line:87
+Spellcasting	character/classes/sorcerer.md	/^### Spellcasting $/;"	h	line:49
+Spellcasting	character/classes/wizard.md	/^### Spellcasting $/;"	h	line:48
+Spellcasting	gamemaster_rules/monsters.md	/^### Spellcasting $/;"	h	line:218
+Spellcasting	index.md	/^### Spellcasting$/;"	h	line:69
+Spellcasting	rules/multiclassing.md	/^### Spellcasting $/;"	h	line:65
+Spellcasting Ability	character/classes/bard.md	/^#### Spellcasting Ability $/;"	h	line:65
+Spellcasting Ability	character/classes/cleric.md	/^#### Spellcasting Ability $/;"	h	line:63
+Spellcasting Ability	character/classes/druid.md	/^#### Spellcasting Ability $/;"	h	line:65
+Spellcasting Ability	character/classes/paladin.md	/^#### Spellcasting Ability $/;"	h	line:87
+Spellcasting Ability	character/classes/ranger.md	/^#### Spellcasting Ability $/;"	h	line:100
+Spellcasting Ability	character/classes/sorcerer.md	/^#### Spellcasting Ability $/;"	h	line:65
+Spellcasting Ability	character/classes/warlock.md	/^#### Spellcasting Ability $/;"	h	line:68
+Spellcasting Ability	character/classes/wizard.md	/^#### Spellcasting Ability $/;"	h	line:64
+Spellcasting Ability	rules/abilities/charisma.md	/^## Spellcasting Ability$/;"	h	line:15
+Spellcasting Ability	rules/abilities/intelligence.md	/^## Spellcasting Ability $/;"	h	line:20
+Spellcasting Ability	rules/abilities/wisdom.md	/^## Spellcasting Ability $/;"	h	line:16
+Spellcasting Focus	character/classes/bard.md	/^#### Spellcasting Focus $/;"	h	line:75
+Spellcasting Focus	character/classes/druid.md	/^#### Spellcasting Focus $/;"	h	line:75
+Spellcasting Focus	character/classes/paladin.md	/^#### Spellcasting Focus $/;"	h	line:94
+Spellcasting Focus	character/classes/sorcerer.md	/^#### Spellcasting Focus $/;"	h	line:72
+Spellcasting Focus	character/classes/warlock.md	/^#### Spellcasting Focus $/;"	h	line:75
+Spellcasting Focus	character/classes/wizard.md	/^#### Spellcasting Focus $/;"	h	line:74
+Spellcasting Services	rules/expenses.md	/^## Spellcasting Services $/;"	h	line:75
+Spellguard Shield	gamemaster_rules/magic_items/spellguard_shield.md	/^# Spellguard Shield $/;"	h	line:4
+Spells	gamemaster_rules/magic_items.md	/^### Spells $/;"	h	line:32
+Spells Known of 1st Level and Higher	character/classes/bard.md	/^#### Spells Known of 1st Level and Higher$/;"	h	line:60
+Spells Known of 1st Level and Higher	character/classes/ranger.md	/^#### Spells Known of 1st Level and Higher $/;"	h	line:95
+Spells Known of 1st Level and Higher	character/classes/sorcerer.md	/^#### Spells Known of 1st Level and Higher $/;"	h	line:60
+Spells Known of 1st Level and Higher	character/classes/warlock.md	/^#### Spells Known of 1st Level and Higher $/;"	h	line:63
+Spells.	gamemaster_rules/magic_items/orb_of_dragonkind.md	/^### Spells. $/;"	h	line:20
+Sphere	spellcasting/casting_a_spell.md	/^### Sphere $/;"	h	line:83
+Sphere of Annihilation	gamemaster_rules/magic_items/sphere_of_annihilation.md	/^# Sphere of Annihilation $/;"	h	line:4
+Sphere of Annihilation	gamemaster_rules/traps.md	/^### Sphere of Annihilation $/;"	h	line:111
+Spider	gamemaster_rules/monsters/spider.md	/^# Spider $/;"	h	line:5
+Spider Climb	spellcasting/spells/spider_climb.md	/^# Spider Climb $/;"	h	line:8
+Spike Growth	spellcasting/spells/spike_growth.md	/^# Spike Growth $/;"	h	line:7
+Spirit Guardians	spellcasting/spells/spirit_guardians.md	/^# Spirit Guardians $/;"	h	line:6
+Spirit Naga	gamemaster_rules/monsters/spirit_naga.md	/^# Spirit Naga $/;"	h	line:5
+Spiritual Weapon	spellcasting/spells/spiritual_weapon.md	/^# Spiritual Weapon $/;"	h	line:6
+Sprite	gamemaster_rules/monsters/sprite.md	/^# Sprite $/;"	h	line:5
+Spy	gamemaster_rules/monsters/spy.md	/^# Spy $/;"	h	line:5
+Squeezing into a Smaller Space	combat/movement_and_position.md	/^### Squeezing into a Smaller Space $/;"	h	line:78
+Stabilizing a Creature	combat/damage_and_healing.md	/^### Stabilizing a Creature $/;"	h	line:62
+Staff of Charming	gamemaster_rules/magic_items/staff_of_charming.md	/^# Staff of Charming $/;"	h	line:4
+Staff of Fire	gamemaster_rules/magic_items/staff_of_fire.md	/^# Staff of Fire $/;"	h	line:4
+Staff of Frost	gamemaster_rules/magic_items/staff_of_frost.md	/^# Staff of Frost $/;"	h	line:4
+Staff of Healing	gamemaster_rules/magic_items/staff_of_healing.md	/^# Staff of Healing $/;"	h	line:4
+Staff of Power	gamemaster_rules/magic_items/staff_of_power.md	/^# Staff of Power $/;"	h	line:4
+Staff of Striking	gamemaster_rules/magic_items/staff_of_striking.md	/^# Staff of Striking $/;"	h	line:4
+Staff of Swarming Insects	gamemaster_rules/magic_items/staff_of_swarming_insects.md	/^# Staff of Swarming Insects $/;"	h	line:4
+Staff of Thunder and Lightning	gamemaster_rules/magic_items/staff_of_thunder_and_lightning.md	/^# Staff of Thunder and Lightning $/;"	h	line:4
+Staff of Withering	gamemaster_rules/magic_items/staff_of_withering.md	/^# Staff of Withering $/;"	h	line:4
+Staff of the Magi	gamemaster_rules/magic_items/staff_of_the_magi.md	/^# Staff of the Magi $/;"	h	line:4
+Staff of the Python	gamemaster_rules/magic_items/staff_of_the_python.md	/^# Staff of the Python $/;"	h	line:4
+Staff of the Woodlands	gamemaster_rules/magic_items/staff_of_the_woodlands.md	/^# Staff of the Woodlands $/;"	h	line:4
+Standard Languages	character/languages.md	/^### Standard Languages$/;"	h	line:6
+Statistics for Objects	gamemaster_rules/objects.md	/^## Statistics for Objects $/;"	h	line:5
+Steam Mephit	gamemaster_rules/monsters/steam_mephit.md	/^# Steam Mephit $/;"	h	line:5
+Step of the Wind	character/classes/monk.md	/^#### Step of the Wind $/;"	h	line:77
+Stillness of Mind	character/classes/monk.md	/^### Stillness of Mind $/;"	h	line:118
+Stinking Cloud	spellcasting/spells/stinking_cloud.md	/^# Stinking Cloud $/;"	h	line:8
+Stirge	gamemaster_rules/monsters/stirge.md	/^# Stirge $/;"	h	line:5
+Stone Giant	gamemaster_rules/monsters/stone_giant.md	/^# Stone Giant $/;"	h	line:5
+Stone Golem	gamemaster_rules/monsters/stone_golem.md	/^# Stone Golem $/;"	h	line:5
+Stone Shape	spellcasting/spells/stone_shape.md	/^# Stone Shape $/;"	h	line:8
+Stone of Controlling Earth Elementals	gamemaster_rules/magic_items/stone_of_controlling_earth_elementals.md	/^# Stone of Controlling Earth Elementals $/;"	h	line:4
+Stone of Good Luck (Luckstone)	gamemaster_rules/magic_items/stone_of_good_luck_luckstone.md	/^# Stone of Good Luck (Luckstone) $/;"	h	line:4
+Stoneskin	spellcasting/spells/stoneskin.md	/^# Stoneskin $/;"	h	line:9
+Storm Giant	gamemaster_rules/monsters/storm_giant.md	/^# Storm Giant $/;"	h	line:5
+Storm of Vengeance	spellcasting/spells/storm_of_vengeance.md	/^# Storm of Vengeance $/;"	h	line:6
+Strength	rules/abilities/ability_checks.md	/^### Strength $/;"	h	line:27
+Strength	rules/abilities/strength.md	/^# Strength $/;"	h	line:1
+Strength Checks	rules/abilities/strength.md	/^## Strength Checks $/;"	h	line:4
+Stroke of Luck	character/classes/rogue.md	/^### Stroke of Luck $/;"	h	line:100
+Stunned	rules/conditions.md	/^### Stunned$/;"	h	line:79
+Stunning Strike	character/classes/monk.md	/^### Stunning Strike $/;"	h	line:106
+Subtle Spell	character/classes/sorcerer.md	/^#### Subtle Spell $/;"	h	line:127
+Succubus/Incubus	gamemaster_rules/monsters/succubusincubus.md	/^# Succubus\/Incubus $/;"	h	line:5
+Suffocating	adventuring/the_environment.md	/^## Suffocating $/;"	h	line:7
+Suggested Characteristics	character/backgrounds.md	/^### Suggested Characteristics $/;"	h	line:17
+Suggested Characteristics	character/backgrounds.md	/^### Suggested Characteristics $/;"	h	line:32
+Suggestion	spellcasting/spells/suggestion.md	/^# Suggestion $/;"	h	line:9
+Sun Blade	gamemaster_rules/magic_items/sun_blade.md	/^# Sun Blade $/;"	h	line:4
+Sunbeam	spellcasting/spells/sunbeam.md	/^# Sunbeam $/;"	h	line:8
+Sunburst	spellcasting/spells/sunburst.md	/^# Sunburst $/;"	h	line:8
+Superior Critical	character/classes/fighter.md	/^#### Superior Critical$/;"	h	line:112
+Superior Hunter's Defense	character/classes/ranger.md	/^#### Superior Hunter's Defense $/;"	h	line:173
+Superior Inspiration	character/classes/bard.md	/^### Superior Inspiration$/;"	h	line:120
+Supreme Healing	character/classes/cleric.md	/^#### Supreme Healing$/;"	h	line:145
+Supreme Sneak	character/classes/rogue.md	/^#### Supreme Sneak $/;"	h	line:119
+Surprise	combat/order_of_combat.md	/^## Surprise $/;"	h	line:12
+Survivor	character/classes/fighter.md	/^#### Survivor $/;"	h	line:115
+Swamp	character/classes/druid.md	/^#### Swamp$/;"	h	line:183
+Swarm of Bats	gamemaster_rules/monsters/swarm_of_bats.md	/^# Swarm of Bats $/;"	h	line:5
+Swarm of Insects	gamemaster_rules/monsters/swarm_of_insects.md	/^# Swarm of Insects $/;"	h	line:5
+Swarm of Poisonous Snakes	gamemaster_rules/monsters/swarm_of_poisonous_snakes.md	/^# Swarm of Poisonous Snakes $/;"	h	line:5
+Swarm of Quippers	gamemaster_rules/monsters/swarm_of_quippers.md	/^# Swarm of Quippers $/;"	h	line:5
+Swarm of Rats	gamemaster_rules/monsters/swarm_of_rats.md	/^# Swarm of Rats $/;"	h	line:5
+Swarm of Ravens	gamemaster_rules/monsters/swarm_of_ravens.md	/^# Swarm of Ravens $/;"	h	line:5
+Swim	gamemaster_rules/monsters.md	/^### Swim $/;"	h	line:80
+Sword of Life Stealing	gamemaster_rules/magic_items/sword_of_life_stealing.md	/^# Sword of Life Stealing $/;"	h	line:4
+Sword of Sharpness	gamemaster_rules/magic_items/sword_of_sharpness.md	/^# Sword of Sharpness $/;"	h	line:4
+Sword of Wounding	gamemaster_rules/magic_items/sword_of_wounding.md	/^# Sword of Wounding $/;"	h	line:4
+Symbol	spellcasting/spells/symbol.md	/^# Symbol $/;"	h	line:8
+Tack, Harness, and Drawn Vehicles	adventuring/equipment/mounts_and_vehicles.md	/^## Tack, Harness, and Drawn Vehicles$/;"	h	line:22
+Tags	gamemaster_rules/monsters.md	/^### Tags $/;"	h	line:38
+Talisman of Pure Good	gamemaster_rules/magic_items/talisman_of_pure_good.md	/^# Talisman of Pure Good $/;"	h	line:4
+Talisman of Ultimate Evil	gamemaster_rules/magic_items/talisman_of_ultimate_evil.md	/^# Talisman of Ultimate Evil $/;"	h	line:4
+Talisman of the Sphere	gamemaster_rules/magic_items/talisman_of_the_sphere.md	/^# Talisman of the Sphere $/;"	h	line:4
+Tan bag of Tricks	gamemaster_rules/magic_items/bag_of_tricks.md	/^### Tan bag of Tricks$/;"	h	line:38
+Targeting Yourself	spellcasting/casting_a_spell.md	/^### Targeting Yourself $/;"	h	line:59
+Targets	spellcasting/casting_a_spell.md	/^## Targets $/;"	h	line:52
+Tarrasque	gamemaster_rules/monsters/tarrasque.md	/^# Tarrasque$/;"	h	line:5
+Telekinesis	spellcasting/spells/telekinesis.md	/^# Telekinesis $/;"	h	line:7
+Telepathic Bond	spellcasting/spells/telepathic_bond.md	/^# Telepathic Bond $/;"	h	line:6
+Telepathy	gamemaster_rules/monsters.md	/^### Telepathy $/;"	h	line:159
+Teleport	spellcasting/spells/teleport.md	/^# Teleport $/;"	h	line:8
+Teleportation Circle	spellcasting/spells/teleportation_circle.md	/^# Teleportation Circle $/;"	h	line:8
+Temperature	spellcasting/spells/control_weather.md	/^### Temperature $/;"	h	line:29
+Temporary Hit Points	combat/damage_and_healing.md	/^## Temporary Hit Points $/;"	h	line:74
+Tenets of Devotion	character/classes/paladin.md	/^#### Tenets of Devotion $/;"	h	line:153
+Thaumaturgy	spellcasting/spells/thaumaturgy.md	/^# Thaumaturgy $/;"	h	line:6
+The Barbarian	character/classes/barbarian.md	/^## The Barbarian$/;"	h	line:2
+The Bard	character/classes/bard.md	/^## The Bard$/;"	h	line:2
+The Celtic Pantheon	character/fantasy-historical_pantheons.md	/^## The Celtic Pantheon $/;"	h	line:4
+The Cleric	character/classes/cleric.md	/^## The Cleric$/;"	h	line:2
+The Druid	character/classes/druid.md	/^## The Druid$/;"	h	line:2
+The Egyptian Pantheon	character/fantasy-historical_pantheons.md	/^## The Egyptian Pantheon $/;"	h	line:11
+The Environment	adventuring/the_environment.md	/^# The Environment $/;"	h	line:1
+The Fiend	character/classes/warlock.md	/^### The Fiend$/;"	h	line:255
+The Greek Pantheon	character/fantasy-historical_pantheons.md	/^## The Greek Pantheon $/;"	h	line:8
+The Material Plane	adventuring/planes_of_existence.md	/^## The Material Plane $/;"	h	line:5
+The Monk	character/classes/monk.md	/^## The Monk$/;"	h	line:2
+The Norse Pantheon	character/fantasy-historical_pantheons.md	/^## The Norse Pantheon $/;"	h	line:15
+The Order of Combat	combat/order_of_combat.md	/^# The Order of Combat $/;"	h	line:1
+The Paladin	character/classes/paladin.md	/^## The Paladin$/;"	h	line:2
+The Planes of Existence	adventuring/planes_of_existence.md	/^# The Planes of Existence $/;"	h	line:1
+The Ranger	character/classes/ranger.md	/^## The Ranger$/;"	h	line:2
+The Rogue	character/classes/rogue.md	/^## The Rogue$/;"	h	line:2
+The Sorcerer	character/classes/sorcerer.md	/^## The Sorcerer$/;"	h	line:2
+The Warlock	character/classes/warlock.md	/^## The Warlock$/;"	h	line:2
+The Wizard	character/classes/wizard.md	/^## The Wizard$/;"	h	line:2
+Thief	character/classes/rogue.md	/^### Thief $/;"	h	line:108
+Thief of Five Fates	character/classes/warlock.md	/^#### Thief of Five Fates$/;"	h	line:228
+Thief's Reflexes	character/classes/rogue.md	/^#### Thief's Reflexes $/;"	h	line:125
+Thieves' Cant	character/classes/rogue.md	/^### Thieves' Cant $/;"	h	line:60
+Thirsting Blade	character/classes/warlock.md	/^#### Thirsting Blade $/;"	h	line:231
+Thug	gamemaster_rules/monsters/thug.md	/^# Thug $/;"	h	line:5
+Thunderwave	spellcasting/spells/thunderwave.md	/^# Thunderwave $/;"	h	line:9
+Tiefling	character/races/tiefling.md	/^# Tiefling $/;"	h	line:1
+Tiefling Traits	character/races/tiefling.md	/^## Tiefling Traits $/;"	h	line:2
+Tiger	gamemaster_rules/monsters/tiger.md	/^# Tiger $/;"	h	line:5
+Time	adventuring/time.md	/^# Time $/;"	h	line:1
+Time Stop	spellcasting/spells/time_stop.md	/^# Time Stop $/;"	h	line:7
+Timeless Body	character/classes/druid.md	/^### Timeless Body $/;"	h	line:107
+Timeless Body	character/classes/monk.md	/^### Timeless Body $/;"	h	line:134
+Tiny Hut	spellcasting/spells/tiny_hut.md	/^# Tiny Hut $/;"	h	line:7
+Tome of Clear Thought	gamemaster_rules/magic_items/tome_of_clear_thought.md	/^# Tome of Clear Thought $/;"	h	line:4
+Tome of Leadership and Influence	gamemaster_rules/magic_items/tome_of_leadership_and_influence.md	/^# Tome of Leadership and Influence $/;"	h	line:4
+Tome of Understanding	gamemaster_rules/magic_items/tome_of_understanding.md	/^# Tome of Understanding $/;"	h	line:4
+Tongue of the Sun and Moon	character/classes/monk.md	/^### Tongue of the Sun and Moon $/;"	h	line:126
+Tongues	spellcasting/spells/tongues.md	/^# Tongues $/;"	h	line:10
+Tools	adventuring/equipment/tools.md	/^# Tools $/;"	h	line:1
+Tools Tables	adventuring/equipment/tools.md	/^## Tools Tables$/;"	h	line:14
+Trade Goods	adventuring/equipment/trade_goods.md	/^# Trade Goods$/;"	h	line:1
+Trade Goods table	adventuring/equipment/trade_goods.md	/^## Trade Goods table$/;"	h	line:5
+Training	adventuring/between_adventures.md	/^### Training $/;"	h	line:36
+Tranquility	character/classes/monk.md	/^#### Tranquility$/;"	h	line:163
+Transitive Planes	adventuring/planes_of_existence.md	/^### Transitive Planes $/;"	h	line:18
+Transport via Plants	spellcasting/spells/transport_via_plants.md	/^# Transport via Plants $/;"	h	line:6
+Trap Effects	gamemaster_rules/traps.md	/^### Trap Effects $/;"	h	line:21
+Trap Save DCs and Attack Bonuses	gamemaster_rules/traps.md	/^#### Trap Save DCs and Attack Bonuses$/;"	h	line:26
+Traps	gamemaster_rules/traps.md	/^# Traps $/;"	h	line:1
+Traps in Play	gamemaster_rules/traps.md	/^## Traps in Play $/;"	h	line:5
+Travel Pace	adventuring/movement.md	/^### Travel Pace $/;"	h	line:9
+Treant	gamemaster_rules/monsters/treant.md	/^# Treant$/;"	h	line:5
+Tree Stride	spellcasting/spells/tree_stride.md	/^# Tree Stride $/;"	h	line:7
+Tremorsense	gamemaster_rules/monsters.md	/^### Tremorsense $/;"	h	line:150
+Tribal Warrior	gamemaster_rules/monsters/tribal_warrior.md	/^# Tribal Warrior $/;"	h	line:5
+Triceratops	gamemaster_rules/monsters/triceratops.md	/^# Triceratops $/;"	h	line:5
+Trident of Fish Command	gamemaster_rules/magic_items/trident_of_fish_command.md	/^# Trident of Fish Command $/;"	h	line:4
+Triggering a Trap	gamemaster_rules/traps.md	/^### Triggering a Trap $/;"	h	line:8
+Troll	gamemaster_rules/monsters/troll.md	/^# Troll$/;"	h	line:5
+True Polymorph	spellcasting/spells/true_polymorph.md	/^# True Polymorph $/;"	h	line:8
+True Resurrection	spellcasting/spells/true_resurrection.md	/^# True Resurrection $/;"	h	line:7
+True Seeing	spellcasting/spells/true_seeing.md	/^# True Seeing $/;"	h	line:10
+True Strike	spellcasting/spells/true_strike.md	/^# True Strike $/;"	h	line:9
+Truesight	adventuring/the_environment.md	/^### Truesight $/;"	h	line:28
+Truesight	gamemaster_rules/monsters.md	/^### Truesight $/;"	h	line:153
+Twinned Spell	character/classes/sorcerer.md	/^#### Twinned Spell $/;"	h	line:130
+Two-Weapon Fighting	character/classes/fighter.md	/^#### Two-Weapon Fighting $/;"	h	line:69
+Two-Weapon Fighting	character/classes/ranger.md	/^#### Two-Weapon Fighting $/;"	h	line:84
+Two-Weapon Fighting	combat/making_an_attack.md	/^### Two-Weapon Fighting $/;"	h	line:50
+Type	gamemaster_rules/monsters.md	/^## Type $/;"	h	line:20
+Typical Difficulty Classes	rules/abilities/ability_checks.md	/^#### Typical Difficulty Classes$/;"	h	line:5
+Tyrannosaurus Rex	gamemaster_rules/monsters/tyrannosaurus_rex.md	/^# Tyrannosaurus Rex $/;"	h	line:5
+Unarmored Defense	character/classes/barbarian.md	/^### Unarmored Defense$/;"	h	line:61
+Unarmored Defense	character/classes/monk.md	/^### Unarmored Defense$/;"	h	line:48
+Unarmored Defense	rules/multiclassing.md	/^### Unarmored Defense $/;"	h	line:62
+Unarmored Movement	character/classes/monk.md	/^### Unarmored Movement $/;"	h	line:80
+Uncanny Dodge	character/classes/rogue.md	/^### Uncanny Dodge $/;"	h	line:77
+Unconscious	rules/conditions.md	/^### Unconscious$/;"	h	line:84
+Underwater Combat	combat/underwater_combat.md	/^# Underwater Combat $/;"	h	line:1
+Unicorn	gamemaster_rules/monsters/unicorn.md	/^# Unicorn $/;"	h	line:5
+Universal Solvent	gamemaster_rules/magic_items/universal_solvent.md	/^# Universal Solvent $/;"	h	line:4
+Unseen Attackers and Targets	combat/making_an_attack.md	/^## Unseen Attackers and Targets $/;"	h	line:24
+Unseen Servant	spellcasting/spells/unseen_servant.md	/^# Unseen Servant $/;"	h	line:8
+Use Magic Device	character/classes/rogue.md	/^#### Use Magic Device $/;"	h	line:122
+Use an Object	combat/actions_in_combat.md	/^## Use an Object $/;"	h	line:39
+Using Different Speeds	combat/movement_and_position.md	/^### Using Different Speeds $/;"	h	line:12
+Using Inspiration	rules/inspiration.md	/^## Using Inspiration $/;"	h	line:7
+Vampire	gamemaster_rules/monsters/vampire.md	/^# Vampire $/;"	h	line:5
+Vampire Spawn	gamemaster_rules/monsters/vampire_spawn.md	/^# Vampire Spawn $/;"	h	line:5
+Vampiric Touch	spellcasting/spells/vampiric_touch.md	/^# Vampiric Touch $/;"	h	line:7
+Vanish	character/classes/ranger.md	/^### Vanish$/;"	h	line:132
+Variant: Diseased Giant Rats	gamemaster_rules/monsters/giant_rat.md	/^### Variant: Diseased Giant Rats $/;"	h	line:26
+Variant: Encumbrance	rules/abilities/strength.md	/^## Variant: Encumbrance $/;"	h	line:30
+Variant: Skills with Different Abilities	rules/abilities/ability_checks.md	/^### Variant: Skills with Different Abilities $/;"	h	line:58
+Verbal (V)	spellcasting/casting_a_spell.md	/^### Verbal (V) $/;"	h	line:26
+Veteran	gamemaster_rules/monsters/veteran.md	/^# Veteran $/;"	h	line:5
+Vicious Mockery	spellcasting/spells/vicious_mockery.md	/^# Vicious Mockery $/;"	h	line:6
+Vicious Weapon	gamemaster_rules/magic_items/vicious_weapon.md	/^# Vicious Weapon $/;"	h	line:4
+Violet Fungus	gamemaster_rules/monsters/violet_fungus.md	/^# Violet Fungus $/;"	h	line:5
+Vision and Light	adventuring/the_environment.md	/^## Vision and Light $/;"	h	line:12
+Visions of Distant Realms	character/classes/warlock.md	/^#### Visions of Distant Realms $/;"	h	line:236
+Voice of the Chain Master	character/classes/warlock.md	/^#### Voice of the Chain Master $/;"	h	line:241
+Vorpal Sword	gamemaster_rules/magic_items/vorpal_sword.md	/^# Vorpal Sword $/;"	h	line:4
+Vrock	gamemaster_rules/monsters/vrock.md	/^# Vrock $/;"	h	line:5
+Vulnerabilities, Resistances, and Immunities	gamemaster_rules/monsters.md	/^## Vulnerabilities, Resistances, and Immunities $/;"	h	line:136
+Vulture	gamemaster_rules/monsters/vulture.md	/^# Vulture $/;"	h	line:5
+Wall of Fire	spellcasting/spells/wall_of_fire.md	/^# Wall of Fire $/;"	h	line:8
+Wall of Force	spellcasting/spells/wall_of_force.md	/^# Wall of Force $/;"	h	line:6
+Wall of Ice	spellcasting/spells/wall_of_ice.md	/^# Wall of Ice $/;"	h	line:6
+Wall of Stone	spellcasting/spells/wall_of_stone.md	/^# Wall of Stone $/;"	h	line:8
+Wall of Thorns	spellcasting/spells/wall_of_thorns.md	/^# Wall of Thorns $/;"	h	line:6
+Wand of Binding	gamemaster_rules/magic_items/wand_of_binding.md	/^# Wand of Binding $/;"	h	line:4
+Wand of Enemy Detection	gamemaster_rules/magic_items/wand_of_enemy_detection.md	/^# Wand of Enemy Detection $/;"	h	line:4
+Wand of Fear	gamemaster_rules/magic_items/wand_of_fear.md	/^# Wand of Fear $/;"	h	line:4
+Wand of Fireballs	gamemaster_rules/magic_items/wand_of_fireballs.md	/^# Wand of Fireballs $/;"	h	line:4
+Wand of Lightning Bolts	gamemaster_rules/magic_items/wand_of_lightning_bolts.md	/^# Wand of Lightning Bolts $/;"	h	line:4
+Wand of Magic Detection	gamemaster_rules/magic_items/wand_of_magic_detection.md	/^# Wand of Magic Detection $/;"	h	line:4
+Wand of Magic Missiles	gamemaster_rules/magic_items/wand_of_magic_missiles.md	/^# Wand of Magic Missiles $/;"	h	line:4
+Wand of Paralysis	gamemaster_rules/magic_items/wand_of_paralysis.md	/^# Wand of Paralysis $/;"	h	line:4
+Wand of Polymorph	gamemaster_rules/magic_items/wand_of_polymorph.md	/^# Wand of Polymorph $/;"	h	line:4
+Wand of Secrets	gamemaster_rules/magic_items/wand_of_secrets.md	/^# Wand of Secrets $/;"	h	line:4
+Wand of Web	gamemaster_rules/magic_items/wand_of_web.md	/^# Wand of Web $/;"	h	line:4
+Wand of Wonder	gamemaster_rules/magic_items/wand_of_wonder.md	/^# Wand of Wonder $/;"	h	line:4
+Wand of the War Mage, +1, +2, or +3	gamemaster_rules/magic_items/wand_of_the_war_mage_1_2_or_3.md	/^# Wand of the War Mage, +1, +2, or +3 $/;"	h	line:4
+Warding Bond	spellcasting/spells/warding_bond.md	/^# Warding Bond $/;"	h	line:6
+Warhorse	gamemaster_rules/monsters/warhorse.md	/^# Warhorse $/;"	h	line:5
+Warhorse Skeleton	gamemaster_rules/monsters/warhorse_skeleton.md	/^# Warhorse Skeleton $/;"	h	line:5
+Warlock	character/classes/warlock.md	/^# Warlock$/;"	h	line:1
+Water	adventuring/the_environment.md	/^### Water$/;"	h	line:39
+Water Breathing	spellcasting/spells/water_breathing.md	/^# Water Breathing $/;"	h	line:9
+Water Elemental	gamemaster_rules/monsters/water_elemental.md	/^# Water Elemental $/;"	h	line:5
+Water Walk	spellcasting/spells/water_walk.md	/^# Water Walk $/;"	h	line:9
+Waterborne Vehicles	adventuring/equipment/mounts_and_vehicles.md	/^## Waterborne Vehicles$/;"	h	line:44
+Way of the Open Hand	character/classes/monk.md	/^### Way of the Open Hand $/;"	h	line:149
+Weapon Proficiency	adventuring/equipment/weapons.md	/^## Weapon Proficiency $/;"	h	line:5
+Weapon Properties	adventuring/equipment/weapons.md	/^## Weapon Properties $/;"	h	line:9
+Weapon, +1, +2, or +3	gamemaster_rules/magic_items/weapon_1_2_or_3.md	/^# Weapon, +1, +2, or +3 $/;"	h	line:4
+Weapons	adventuring/equipment/weapons.md	/^# Weapons $/;"	h	line:1
+Weapons Table	adventuring/equipment/weapons.md	/^## Weapons Table$/;"	h	line:39
+Wearing and Wielding	gamemaster_rules/magic_items.md	/^## Wearing and Wielding $/;"	h	line:11
+Weasel	gamemaster_rules/monsters/weasel.md	/^# Weasel $/;"	h	line:5
+Web	spellcasting/spells/web.md	/^# Web $/;"	h	line:7
+Weird	spellcasting/spells/weird.md	/^# Weird $/;"	h	line:6
+Welcome to the 5e System Reference Document (SRD)!	index.md	/^## Welcome to the 5e System Reference Document (SRD)!$/;"	h	line:1
+Well of Many Worlds	gamemaster_rules/magic_items/well_of_many_worlds.md	/^# Well of Many Worlds $/;"	h	line:4
+Werebear	gamemaster_rules/monsters/werebear.md	/^# Werebear $/;"	h	line:5
+Wereboar	gamemaster_rules/monsters/wereboar.md	/^# Wereboar $/;"	h	line:5
+Wererat	gamemaster_rules/monsters/wererat.md	/^# Wererat $/;"	h	line:5
+Weretiger	gamemaster_rules/monsters/weretiger.md	/^# Weretiger $/;"	h	line:5
+Werewolf	gamemaster_rules/monsters/werewolf.md	/^# Werewolf $/;"	h	line:5
+What Is a Spell?	spellcasting/what_is_a_spell.md	/^# What Is a Spell? $/;"	h	line:1
+Whispers of the Grave	character/classes/warlock.md	/^#### Whispers of the Grave $/;"	h	line:244
+White Dragon Wyrmling	gamemaster_rules/monsters/white_dragon_wyrmling.md	/^# White Dragon Wyrmling $/;"	h	line:5
+Wholeness of Body	character/classes/monk.md	/^#### Wholeness of Body$/;"	h	line:160
+Wight	gamemaster_rules/monsters/wight.md	/^# Wight $/;"	h	line:5
+Wild Shape	character/classes/druid.md	/^### Wild Shape$/;"	h	line:78
+Will-o'-Wisp	gamemaster_rules/monsters/will_o_wisp.md	/^# Will-o'-Wisp $/;"	h	line:5
+Wind	spellcasting/spells/control_weather.md	/^### Wind $/;"	h	line:39
+Wind Fan	gamemaster_rules/magic_items/wind_fan.md	/^# Wind Fan $/;"	h	line:4
+Wind Walk	spellcasting/spells/wind_walk.md	/^# Wind Walk $/;"	h	line:6
+Wind Wall	spellcasting/spells/wind_wall.md	/^# Wind Wall $/;"	h	line:7
+Winged Boots	gamemaster_rules/magic_items/winged_boots.md	/^# Winged Boots $/;"	h	line:4
+Wings of Flying	gamemaster_rules/magic_items/wings_of_flying.md	/^# Wings of Flying $/;"	h	line:4
+Winter Wolf	gamemaster_rules/monsters/winter_wolf.md	/^# Winter Wolf $/;"	h	line:5
+Wisdom	rules/abilities/ability_checks.md	/^### Wisdom$/;"	h	line:42
+Wisdom	rules/abilities/wisdom.md	/^# Wisdom $/;"	h	line:1
+Wisdom Checks	rules/abilities/wisdom.md	/^## Wisdom Checks$/;"	h	line:4
+Wish	spellcasting/spells/wish.md	/^# Wish $/;"	h	line:7
+Witch Sight	character/classes/warlock.md	/^#### Witch Sight $/;"	h	line:248
+Wizard	character/classes/wizard.md	/^# Wizard$/;"	h	line:1
+Wolf	gamemaster_rules/monsters/wolf.md	/^# Wolf $/;"	h	line:5
+Word of Recall	spellcasting/spells/word_of_recall.md	/^# Word of Recall $/;"	h	line:6
+Worg	gamemaster_rules/monsters/worg.md	/^# Worg $/;"	h	line:5
+Working Together	rules/abilities/ability_checks.md	/^## Working Together $/;"	h	line:71
+Wraith	gamemaster_rules/monsters/wraith.md	/^# Wraith $/;"	h	line:5
+Wyvern	gamemaster_rules/monsters/wyvern.md	/^# Wyvern $/;"	h	line:5
+Xorn	gamemaster_rules/monsters/xorn.md	/^# Xorn $/;"	h	line:5
+Young Black Dragon	gamemaster_rules/monsters/young_black_dragon.md	/^# Young Black Dragon $/;"	h	line:5
+Young Blue Dragon	gamemaster_rules/monsters/young_blue_dragon.md	/^# Young Blue Dragon $/;"	h	line:5
+Young Brass Dragon	gamemaster_rules/monsters/young_brass_dragon.md	/^# Young Brass Dragon $/;"	h	line:5
+Young Bronze Dragon	gamemaster_rules/monsters/young_bronze_dragon.md	/^# Young Bronze Dragon $/;"	h	line:5
+Young Copper Dragon	gamemaster_rules/monsters/young_copper_dragon.md	/^# Young Copper Dragon $/;"	h	line:5
+Young Gold Dragon	gamemaster_rules/monsters/young_gold_dragon.md	/^# Young Gold Dragon $/;"	h	line:5
+Young Green Dragon	gamemaster_rules/monsters/young_green_dragon.md	/^# Young Green Dragon $/;"	h	line:5
+Young Red Dragon	gamemaster_rules/monsters/young_red_dragon.md	/^# Young Red Dragon $/;"	h	line:5
+Young Silver Dragon	gamemaster_rules/monsters/young_silver_dragon.md	/^# Young Silver Dragon $/;"	h	line:5
+Young White Dragon	gamemaster_rules/monsters/young_white_dragon.md	/^# Young White Dragon $/;"	h	line:5
+Your Turn	combat/order_of_combat.md	/^## Your Turn $/;"	h	line:22
+Zombie	gamemaster_rules/monsters/zombie.md	/^# Zombie $/;"	h	line:5
+Zone of Truth	spellcasting/spells/zone_of_truth.md	/^# Zone of Truth $/;"	h	line:8
