@@ -1,10 +1,10 @@
 name: Ring of Resistance
 type: ring
 
-# Ring of Resistance 
-_Ring, rare (requires attunement)_ 
+# Ring of Resistance
+_Ring, rare (requires attunement)_
 
-You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly. 
+You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
 
 | d10 | Damage Type | Gem        |
 |-----|-------------|------------|

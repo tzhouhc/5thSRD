@@ -1,20 +1,20 @@
 name: Robe of Useful Items
 type: item
 
-# Robe of Useful Items 
-_Wondrous item, uncommon_ 
+# Robe of Useful Items
+_Wondrous item, uncommon_
 
-This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.    
+This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 The robe has two of each of the following patches:
 
 * Dagger
 * Bullseye lantern (filled and lit)
 * Steel mirror
-* 10-foot pole 
+* 10-foot pole
 * Hempen rope (50 feet, coiled)
-* Sack 
+* Sack
 
-In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly. 
+In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
 
 | d100  | Patch                                                                                                                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

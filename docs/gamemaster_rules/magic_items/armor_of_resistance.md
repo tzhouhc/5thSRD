@@ -1,10 +1,10 @@
 name: Armor of Resistance
 type: armor
 
-# Armor of Resistance 
-_Armor (light, medium, or heavy), rare (requires attunement)_ 
+# Armor of Resistance
+_Armor (light, medium, or heavy), rare (requires attunement)_
 
-You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below. 
+You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
 
 | d10 | Damage Type |
 |-----|-------------|

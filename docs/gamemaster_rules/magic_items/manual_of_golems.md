@@ -1,10 +1,10 @@
 name: Manual of Golems
 type: item
 
-# Manual of Golems 
-_Wondrous item, very rare_ 
+# Manual of Golems
+_Wondrous item, very rare_
 
-This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a **manual of golems** and attempts to read it takes 6d6 psychic damage. 
+This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a **manual of golems** and attempts to read it takes 6d6 psychic damage.
 
 | d20   | Golem | Time     | Cost       |
 |-------|-------|----------|------------|
@@ -13,5 +13,5 @@ This tome contains information and incantations necessary to make a particular t
 | 18    | Iron  | 120 days | 100,000 gp |
 | 19-20 | Stone | 90 days  | 80,000 gp  |
 
-To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.    
-Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands. 
+To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
+Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
